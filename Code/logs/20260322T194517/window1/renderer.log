@@ -1,0 +1,58 @@
+2026-03-22 19:45:19.378 [info] Started local extension host with pid 4175.
+2026-03-22 19:45:20.062 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.39.2]: This extension is using the API proposal 'chatDebug' that is not compatible with the current version of VS Code.
+2026-03-22 19:45:22.462 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-03-22 19:45:24.352 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-22 19:45:24.889 [info] Auto updating outdated extensions. github.copilot-chat
+2026-03-22 19:45:25.241 [info] Settings Sync: Account status changed from uninitialized to available
+2026-03-22 19:45:26.119 [info] [perf] Render performance baseline is 58ms
+2026-03-22 19:45:47.207 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-22 19:45:47.209 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-22 19:45:47.209 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-22 19:45:47.209 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-22 19:45:47.209 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-22 19:45:47.226 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-22 19:45:50.504 [error] [Extension Host] (node:4175) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-22 19:45:50.504 [error] [Extension Host] (node:4175) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-22 20:14:05.016 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-22 20:36:41.091 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-22 20:44:48.023 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-22 22:58:27.604 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-23 10:59:27.932 [warning] [LM] Failed to request chat control data Offline
+2026-03-23 14:43:38.022 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-23 17:02:12.845 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-23 17:09:20.095 [error] Unable to read file '/home/yusof_0090/Projects/insurance-proj/insurance_proj/src/app/components/AppLogo' (Error: Unable to resolve nonexistent file '/home/yusof_0090/Projects/insurance-proj/insurance_proj/src/app/components/AppLogo'): Error: Unable to read file '/home/yusof_0090/Projects/insurance-proj/insurance_proj/src/app/components/AppLogo' (Error: Unable to resolve nonexistent file '/home/yusof_0090/Projects/insurance-proj/insurance_proj/src/app/components/AppLogo')
+    at Sre.restoreReadError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4970:90991)
+    at Sre.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4970:90774)
+    at async _dt.doRead (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4975:13573)
+    at async _dt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4975:13337)
+    at async i0.resolveFromFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1718:16437)
+    at async i0.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1718:14592)
+    at async FKe.doResolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4975:8805)
+    at async _Xe.doCreateReferencedObject (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1718:28054)
+    at async Kbe.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:3866)
+    at async DXe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1718:30262)
+2026-03-23 23:31:54.899 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-23 23:59:50.919 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 00:28:05.843 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 00:48:05.600 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 01:15:29.130 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 01:45:02.781 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 02:00:27.263 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 13:18:14.776 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 13:19:33.479 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 13:23:52.103 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 13:29:32.518 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-24 14:32:50.824 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 11:10:06.497 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 12:24:12.735 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 12:43:52.531 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 13:42:46.212 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-03-25 13:42:46.219 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-03-25 13:42:46.224 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-03-25 13:42:46.229 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-03-25 14:41:04.866 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 14:45:12.872 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 14:52:58.386 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 15:16:47.623 [error] command '_aiEdits.clearAiContributions' not found
+2026-03-25 16:11:51.920 [warning] [LM] Failed to request chat control data Offline

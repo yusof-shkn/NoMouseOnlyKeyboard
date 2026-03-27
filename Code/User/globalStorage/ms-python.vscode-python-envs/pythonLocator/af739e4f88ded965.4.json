@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "executable": "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python",
+    "prefix": "/home/yusof_0090/Projects/pharmacy_management/Python/.venv",
+    "version": "3.12.12.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python",
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python3",
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python3.12"
+    ]
+  },
+  "symlinks": [
+    [
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python",
+      {
+        "secs_since_epoch": 1772096002,
+        "nanos_since_epoch": 692959295
+      },
+      null
+    ],
+    [
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python3",
+      {
+        "secs_since_epoch": 1772096002,
+        "nanos_since_epoch": 692959295
+      },
+      null
+    ],
+    [
+      "/home/yusof_0090/Projects/pharmacy_management/Python/.venv/bin/python3.12",
+      {
+        "secs_since_epoch": 1772096002,
+        "nanos_since_epoch": 692959295
+      },
+      null
+    ]
+  ]
+}

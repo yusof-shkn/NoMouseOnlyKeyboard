@@ -1,0 +1,90 @@
+2026-03-25 23:58:01.708 [info] Extension host with pid 8192 started
+2026-03-25 23:58:01.709 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/4b0526516e2f9adedbc41ff8651977f0.
+2026-03-25 23:58:02.531 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-25 23:58:02.572 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-25 23:58:02.592 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2026-03-25 23:58:02.647 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2026-03-25 23:58:03.173 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatSession:claude-code'
+2026-03-25 23:58:05.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-25 23:58:05.743 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-03-25 23:58:06.105 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-25 23:58:06.227 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-25 23:58:06.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-25 23:58:06.284 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-03-25 23:58:06.415 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md', root cause: charliermarsh.ruff
+2026-03-25 23:58:07.251 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md'
+2026-03-25 23:58:07.340 [info] Eager extensions activated
+2026-03-25 23:58:07.447 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.451 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.491 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.522 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.583 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.626 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.627 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:07.880 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-03-25 23:58:09.174 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-03-25 23:58:09.182 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-03-25 23:58:09.987 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-03-25 23:58:11.896 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-26 01:15:31.047 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-26 01:15:31.165 [error] An error occurred when disposing the subscriptions for extension 'GitHub.copilot-chat':
+2026-03-26 01:15:31.166 [error] Error: Channel has been closed
+	at i (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:3935)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:4305)
+	at tHe.logIt (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:2774:2181)
+	at /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:1119:2241
+	at Array.forEach (<anonymous>)
+	at Wmt._logIt (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:1119:2228)
+	at Wmt.info (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:1119:2318)
+	at n.info (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:1119:2837)
+	at kmt._fn (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:2212:39798)
+	at kmt.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:582)
+	at _C (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:5:15256)
+	at n.clear (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:862)
+	at n.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:772)
+	at rje.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:1660)
+	at _C (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:5:15256)
+	at n.clear (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:862)
+	at n.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:772)
+	at Zie.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:1660)
+	at _C (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:5:15256)
+	at n.clear (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:862)
+	at n.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:772)
+	at Lae.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:1660)
+	at _C (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:5:15256)
+	at n.clear (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:862)
+	at n.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:772)
+	at kQ.dispose (/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.40.1/dist/extension.js:22:1660)
+	at bn (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:736)
+	at Kk._fn (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:18387)
+	at Kk.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:401:1248)
+	at hk._deactivate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:14704)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12006
+	at Array.map (<anonymous>)
+	at hk._deactivateAll (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:11994)
+	at hk.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:12345)
+	at r.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:500:1072)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:810:11700)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:810:8122)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-03-26 01:15:31.202 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new bI (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:148227)
+	at r._remoteCall (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154279)
+	at i.<computed>.s.charCodeAt.i.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151074)
+	at Km.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:491:79073)
+	at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:620:24686)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:943:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2026-03-26 01:15:31.257 [error] Error: Channel has been closed
+	at i (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:3935)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:4305)
+	at WT.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:14:709)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:19:48759)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-03-26 01:15:31.259 [info] Extension host with pid 8192 exiting with code 0

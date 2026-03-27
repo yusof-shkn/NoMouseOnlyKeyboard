@@ -1,0 +1,135 @@
+2026-03-26 17:19:54.862 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-03-26 17:19:54.862 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-03-26 17:19:54.862 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-03-26 17:19:54.862 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-03-26 17:19:55.204 [info] Logged in as yusof-shkn
+2026-03-26 17:19:55.209 [info] Using the Electron fetcher.
+2026-03-26 17:19:55.567 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-03-26 17:19:56.336 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-03-26 17:19:56.342 [info] Got Copilot token for yusof-shkn
+2026-03-26 17:19:56.342 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 17:19:56.354 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-03-26 17:19:56.355 [info] activationBlocker from 'languageModelAccess' took for 828ms
+2026-03-26 17:19:56.373 [info] [CopilotCLI] MCP server started. Lock file: /home/yusof_0090/.local/state/.copilot/ide/d44f250e-21bf-4c84-bbae-292f1faf9203.lock
+2026-03-26 17:19:56.373 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-pKZMIs/mcp.sock#%2Fmcp
+2026-03-26 17:19:56.465 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 17:19:56.465 [info] copilot token sku: free_limited_copilot
+2026-03-26 17:19:56.465 [info] ConversationFeature: Activating contributions
+2026-03-26 17:19:56.465 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-03-26 17:19:56.479 [info] Registering default platform agent...
+2026-03-26 17:19:56.480 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 17:19:56.480 [info] [code-referencing] Public code references are enabled.
+2026-03-26 17:19:56.480 [info] activationBlocker from 'conversationFeature' took for 960ms
+2026-03-26 17:19:56.681 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-03-26 17:19:56.683 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-03-26 17:19:56.701 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-03-26 17:19:57.249 [info] Fetched model metadata in 1706ms 13b7fdee-ee96-44ef-b76c-e9f21c687534
+2026-03-26 17:19:57.487 [info] Latest entry: ccreq:latest.copilotmd
+2026-03-26 17:19:57.488 [info] ccreq:218a9b54.copilotmd | markdown
+2026-03-26 17:41:24.041 [warning] [relatedFiles] unknown language txt
+2026-03-26 17:41:24.737 [info] [fetchCompletions] Request eec386d9-3739-4318-90b4-f300ec379fd5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 402 status after 668.9382680000272ms
+2026-03-26 17:41:24.752 [info] ccreq:3e747de2.copilotmd | markdown
+2026-03-26 17:41:29.074 [info] Logged in as yusof-shkn
+2026-03-26 17:41:29.975 [info] Got Copilot token for yusof-shkn
+2026-03-26 17:41:29.975 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 17:41:29.986 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 17:41:29.986 [info] copilot token sku: free_limited_copilot
+2026-03-26 17:41:29.986 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 17:41:29.986 [info] [code-referencing] Public code references are enabled.
+2026-03-26 17:41:31.005 [info] Fetched model metadata in 1020ms 7386edf4-f1c1-4d41-aaeb-1a8786dd3124
+2026-03-26 17:41:31.233 [info] ccreq:f5b78520.copilotmd | markdown
+2026-03-26 17:41:51.393 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-03-26 17:41:51.393 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-03-26 17:41:51.393 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-03-26 17:41:51.393 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-03-26 17:41:51.840 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-03-26 17:41:53.279 [info] [CopilotCLI] MCP server started. Lock file: /home/yusof_0090/.local/state/.copilot/ide/629b66e2-5057-45dc-9fe6-8d7f76bc6c5f.lock
+2026-03-26 17:41:53.279 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-RqSmXX/mcp.sock#%2Fmcp
+2026-03-26 17:41:53.305 [info] Logged in as yusof-shkn
+2026-03-26 17:41:53.310 [info] Using the Electron fetcher.
+2026-03-26 17:41:53.804 [info] Got Copilot token for yusof-shkn
+2026-03-26 17:41:53.804 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 17:41:53.816 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-03-26 17:41:53.817 [info] activationBlocker from 'languageModelAccess' took for 2028ms
+2026-03-26 17:41:53.882 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 17:41:53.882 [info] copilot token sku: free_limited_copilot
+2026-03-26 17:41:53.882 [info] ConversationFeature: Activating contributions
+2026-03-26 17:41:53.882 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-03-26 17:41:53.901 [info] Registering default platform agent...
+2026-03-26 17:41:53.901 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 17:41:53.902 [info] [code-referencing] Public code references are enabled.
+2026-03-26 17:41:53.903 [info] activationBlocker from 'conversationFeature' took for 2129ms
+2026-03-26 17:41:53.905 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-03-26 17:41:53.909 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-03-26 17:41:54.075 [info] Fetched model metadata in 2260ms c2e2a085-34f4-42ce-8868-a17f2789b4c6
+2026-03-26 17:41:54.080 [info] Latest entry: ccreq:latest.copilotmd
+2026-03-26 17:41:54.080 [info] ccreq:4a19b09e.copilotmd | markdown
+2026-03-26 17:41:54.195 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-03-26 18:15:12.872 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-03-26 18:15:12.872 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-03-26 18:15:12.872 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-03-26 18:15:12.872 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-03-26 18:15:13.221 [info] Logged in as yusof-shkn
+2026-03-26 18:15:13.229 [info] Using the Electron fetcher.
+2026-03-26 18:15:13.430 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-03-26 18:15:13.523 [info] [CopilotCLI] MCP server started. Lock file: /home/yusof_0090/.local/state/.copilot/ide/072596c8-8970-470d-b23a-b002958266f2.lock
+2026-03-26 18:15:13.523 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-rWFEoh/mcp.sock#%2Fmcp
+2026-03-26 18:15:14.043 [info] Got Copilot token for yusof-shkn
+2026-03-26 18:15:14.043 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 18:15:14.052 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-03-26 18:15:14.053 [info] activationBlocker from 'languageModelAccess' took for 654ms
+2026-03-26 18:15:14.120 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 18:15:14.120 [info] copilot token sku: free_limited_copilot
+2026-03-26 18:15:14.120 [info] ConversationFeature: Activating contributions
+2026-03-26 18:15:14.120 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-03-26 18:15:14.132 [info] Registering default platform agent...
+2026-03-26 18:15:14.132 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 18:15:14.133 [info] [code-referencing] Public code references are enabled.
+2026-03-26 18:15:14.133 [info] activationBlocker from 'conversationFeature' took for 743ms
+2026-03-26 18:15:14.324 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-03-26 18:15:14.330 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-03-26 18:15:14.486 [info] Fetched model metadata in 1073ms ef5923fe-52f4-4bc3-80dc-8afa66447779
+2026-03-26 18:15:14.503 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-03-26 18:15:14.725 [info] Latest entry: ccreq:latest.copilotmd
+2026-03-26 18:15:14.726 [info] ccreq:e5f73ed7.copilotmd | markdown
+2026-03-26 18:15:15.356 [warning] [relatedFiles] unknown language txt
+2026-03-26 18:15:15.874 [info] [fetchCompletions] Request 85726f7d-e942-4d11-8d85-e30baac108d8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 402 status after 493.1091919999999ms
+2026-03-26 18:15:15.884 [info] ccreq:053734c8.copilotmd | markdown
+2026-03-26 18:15:48.016 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-03-26 18:15:48.016 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-03-26 18:15:48.016 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-03-26 18:15:48.016 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-03-26 18:15:48.395 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-03-26 18:15:50.025 [info] Logged in as yusof-shkn
+2026-03-26 18:15:50.030 [info] Using the Electron fetcher.
+2026-03-26 18:15:50.094 [info] [CopilotCLI] MCP server started. Lock file: /home/yusof_0090/.local/state/.copilot/ide/b7e32ac6-70d0-44e4-bc37-724fe42570e0.lock
+2026-03-26 18:15:50.094 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-Lp7M53/mcp.sock#%2Fmcp
+2026-03-26 18:15:50.789 [info] Got Copilot token for yusof-shkn
+2026-03-26 18:15:50.789 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 18:15:50.800 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-03-26 18:15:50.801 [info] activationBlocker from 'languageModelAccess' took for 2442ms
+2026-03-26 18:15:50.875 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 18:15:50.875 [info] copilot token sku: free_limited_copilot
+2026-03-26 18:15:50.875 [info] ConversationFeature: Activating contributions
+2026-03-26 18:15:50.875 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-03-26 18:15:50.891 [info] Registering default platform agent...
+2026-03-26 18:15:50.892 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 18:15:50.892 [info] [code-referencing] Public code references are enabled.
+2026-03-26 18:15:50.893 [info] activationBlocker from 'conversationFeature' took for 2541ms
+2026-03-26 18:15:50.905 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-03-26 18:15:50.908 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-03-26 18:15:50.997 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-03-26 18:15:51.057 [info] Fetched model metadata in 2683ms 403ed644-e606-46b0-a669-78a724f53c22
+2026-03-26 18:15:51.061 [info] Latest entry: ccreq:latest.copilotmd
+2026-03-26 18:15:51.061 [info] ccreq:c17fae6f.copilotmd | markdown
+2026-03-26 21:05:09.288 [info] Logged in as yusof-shkn
+2026-03-26 21:05:10.192 [info] Got Copilot token for yusof-shkn
+2026-03-26 21:05:10.192 [info] Copilot Chat: 0.40.1, VS Code: 1.112.0
+2026-03-26 21:05:10.228 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-03-26 21:05:10.228 [info] copilot token sku: free_limited_copilot
+2026-03-26 21:05:10.228 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-03-26 21:05:10.228 [info] [code-referencing] Public code references are enabled.
+2026-03-26 21:05:11.163 [info] Fetched model metadata in 938ms c2656cae-d438-420c-a933-e825a22b923b
+2026-03-26 21:05:11.392 [info] ccreq:f456b7eb.copilotmd | markdown
+2026-03-26 21:06:08.875 [info] [fetchCompletions] Request 73e3c9b3-4924-48ab-8b93-9e960dc77fa2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 402 status after 697.7392499996349ms
+2026-03-26 21:06:08.888 [info] ccreq:103988ca.copilotmd | markdown

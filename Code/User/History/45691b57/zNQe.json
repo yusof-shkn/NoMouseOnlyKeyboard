@@ -1,0 +1,53 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*html": "html"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "chatgpt.lang": "en",
+    "tabnine.experimentalAutoImports": true,
+    "python.linting.enabled": true,
+    "python.linting.ruffEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.enabledWithoutWorkspace": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "diffEditor.ignoreTrimWhitespace": true
+    },
+    "python.formatting.provider": "none",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintArgs": [
+        "--disable=C0111"
+    ],
+    "workbench.settings.applyToAllProfiles": [],
+    "git.autofetch": true,
+    "python.analysis.fixAll": [
+
+    ],
+    "database-client.autoSync": true,
+    "material-icon-theme.activeIconPack": "angular",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "material-icon-theme.folders.associations": {
+  "keyboards": "keys"
+}
+
+,
+"material-code.primaryColor": "#FA9934",
+"workbench.secondarySideBar.defaultVisibility": "hidden",
+"python.analysis.typeCheckingMode": "basic",
+"python.analysis.autoIndent": false,
+"python.analysis.aiCodeActions": {
+    
+    "implementAbstractClasses": true,
+    "generateSymbol": true,
+    "convertFormatString": true
+}
+}

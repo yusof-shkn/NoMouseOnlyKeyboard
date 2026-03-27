@@ -1,0 +1,4 @@
+node_modules
+dist
+create-staff-accounts.mjs
+*.txt

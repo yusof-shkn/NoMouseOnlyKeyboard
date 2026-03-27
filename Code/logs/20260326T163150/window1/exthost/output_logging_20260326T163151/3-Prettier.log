@@ -1,0 +1,216 @@
+["INFO" - 4:31:56 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 4:31:56 PM] Extension Version: 12.4.0.
+["INFO" - 4:31:57 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 4:31:57 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 4:31:57 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 5:07:48 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 5:07:48 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 5:07:48 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 5:08:20 PM] Formatting file:///home/yusof_0090/Projects/insurance-proj/vite.config.ts
+["INFO" - 5:08:20 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 5:08:20 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 5:08:20 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 5:08:20 PM] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 5:08:20 PM] Unable to resolve ignore path: .prettierignore for /home/yusof_0090/Projects/insurance-proj/vite.config.ts
+["INFO" - 5:08:20 PM] Resolved plugins:
+[]
+["INFO" - 5:08:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:08:20 PM] Using local configuration (VS Code configuration will not be used)
+["INFO" - 5:08:20 PM] Prettier Options:
+{
+  "filepath": "/home/yusof_0090/Projects/insurance-proj/vite.config.ts",
+  "parser": "typescript",
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 5:08:20 PM] Formatting completed in 86ms.

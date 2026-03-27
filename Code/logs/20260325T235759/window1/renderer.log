@@ -1,0 +1,14 @@
+2026-03-25 23:58:00.949 [info] Started local extension host with pid 8192.
+2026-03-25 23:58:01.859 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-25 23:58:01.860 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-25 23:58:01.861 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-25 23:58:01.861 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-25 23:58:01.862 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-25 23:58:01.862 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-25 23:58:03.850 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-03-25 23:58:04.563 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-25 23:58:05.491 [error] [Extension Host] (node:8192) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-25 23:58:05.525 [error] [Extension Host] (node:8192) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-25 23:58:05.803 [info] [perf] Render performance baseline is 49ms
+2026-03-25 23:58:06.037 [info] Settings Sync: Account status changed from uninitialized to available

@@ -1,0 +1,17 @@
+2026-03-26 18:23:21.914 [error] #95: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2026-03-26 18:28:38.738 [error] #98: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:29:04.696 [error] #99: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:29:27.567 [error] #100: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:29:28.169 [error] #101: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:30:01.266 [error] #102: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:53:54.708 [error] #125: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:54:16.735 [error] #126: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:54:40.013 [error] #127: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-26 18:56:07.606 [error] #128: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-26 19:54:20.451 [error] #132: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2026-03-26 19:54:23.491 [error] #133: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2026-03-26 20:26:59.959 [error] #159: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2026-03-26 20:27:03.308 [error] #160: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2026-03-26 21:02:38.599 [error] #161: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2026-03-27 00:00:42.589 [error] #185: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2026-03-27 00:00:45.428 [error] #186: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

@@ -1,0 +1,164 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "a9776ecccbbd178ae08b91925585806fc14c6c99277259d32d14415a3ceb4a7e",
+    "telemetry.devDeviceId": "5566cefb-9c83-49eb-b8ca-7ec5cf0aa49d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/yusof_0090/.config/hypr"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/yusof_0090/Downloads": "__default__profile__",
+            "file:///home/yusof_0090/Projects/insurance_frontend_design": "__default__profile__",
+            "file:///home/yusof_0090/.config/swaync": "__default__profile__",
+            "file:///home/yusof_0090/.config": "__default__profile__",
+            "file:///home/yusof_0090/.oh-my-zsh": "__default__profile__",
+            "file:///home/yusof_0090/Projects": "__default__profile__",
+            "file:///home/yusof_0090/Projects/sawda_backend": "-744039c3",
+            "file:///home/yusof_0090/.config/hypr/configs": "-5c992e2",
+            "file:///home/yusof_0090/.config/hypr": "-5c992e2",
+            "file:///home/yusof_0090/BlazinLock/hyprlock": "-5c992e2",
+            "file:///home/yusof_0090/.mydotfiles/com.ml4w.dotfiles.stable/.config/hypr": "-5c992e2",
+            "file:///home/yusof_0090/Projects/pharmacy_management/Python": "-5c992e2",
+            "file:///home/yusof_0090/Projects/pharmacy_management": "-5c992e2",
+            "file:///home/yusof_0090/Projects/insurance-proj": "-5c992e2"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/yusof_0090/.config/hypr",
+            "backupPath": "/home/yusof_0090/.config/Code/Backups/89947ef5bee5b070168a9b59ba254397",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 955,
+                "height": 1018
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 298,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 298,
+            "auxiliaryBarWidth": 212,
+            "workspaces": {
+                "08dfcab2cc0659aa248322c9bd3c0593": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "595d87d74a13d2235937072ad7fd6bcc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a4e3420932bca6248c5c86047164d03e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a404642b12c62a19c1490d2413104bee": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0dd879ffc224aad8ac48724156c7ef36": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a1ad93a3652431a2eaf6c4e4a574e9bc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7b8d5ccc559d834bac1caa3b9df567e5": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f08c80d59960bde3f84110ec0ee531d2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "26aaf673283b69b9171fe1d11cabf6ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "339c08abb282649bb724b5b1d24f7af8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0f93d72ca7a81ce1f48224aa5c2a61bc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "58b0b5a8fbe1915303e07e3ba687d8d3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4b0526516e2f9adedbc41ff8651977f0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "71047dedc6999e4b375002b3b3d983f9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b1ca2e8b2302524437288ba79a62e22f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "userDataProfiles": [
+        {
+            "location": "-744039c3",
+            "name": "yusof",
+            "useDefaultFlags": {
+                "settings": true,
+                "keybindings": false,
+                "snippets": true,
+                "tasks": true,
+                "extensions": true
+            }
+        },
+        {
+            "location": "-5c992e2",
+            "name": "Frontend",
+            "icon": "paintcan"
+        }
+    ]
+}

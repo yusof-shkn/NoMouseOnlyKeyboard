@@ -1,0 +1,31 @@
+2026-03-27 12:35:12.460 [info] Started local extension host with pid 105260.
+2026-03-27 12:35:13.303 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:13.303 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-27 12:35:13.304 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:13.304 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-27 12:35:13.304 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:13.305 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-27 12:35:15.103 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-03-27 12:35:16.093 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-27 12:35:16.094 [error] [Extension Host] (node:105260) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-27 12:35:16.103 [error] [Extension Host] (node:105260) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-27 12:35:16.980 [info] Settings Sync: Account status changed from uninitialized to available
+2026-03-27 12:35:17.267 [info] [perf] Render performance baseline is 41ms
+2026-03-27 12:35:34.808 [warning] [backup tracker] suspended, ignoring unregister event file:///home/yusof_0090/Projects/insurance-proj/package.json 
+2026-03-27 12:35:34.829 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled
+2026-03-27 12:35:35.623 [info] Started local extension host with pid 105890.
+2026-03-27 12:35:36.456 [info] [ChatSessionsService] registerContribution called for type='claude-code', canDelegate=true, when='config.github.copilot.chat.claudeAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:36.456 [info] [ChatSessionsService] _enableContribution: type='claude-code', canDelegate=true
+2026-03-27 12:35:36.456 [info] [ChatSessionsService] registerContribution called for type='copilotcli', canDelegate=true, when='config.github.copilot.chat.backgroundAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:36.456 [info] [ChatSessionsService] _enableContribution: type='copilotcli', canDelegate=true
+2026-03-27 12:35:36.456 [info] [ChatSessionsService] registerContribution called for type='copilot-cloud-agent', canDelegate=true, when='config.github.copilot.chat.cloudAgent.enabled', extension='GitHub.copilot-chat'
+2026-03-27 12:35:36.457 [info] [ChatSessionsService] _enableContribution: type='copilot-cloud-agent', canDelegate=true
+2026-03-27 12:35:37.218 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-03-27 12:35:37.362 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-27 12:35:38.333 [info] [perf] Render performance baseline is 31ms
+2026-03-27 12:35:38.347 [error] [Extension Host] (node:105890) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-27 12:35:38.348 [error] [Extension Host] (node:105890) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-03-27 12:35:38.457 [info] Settings Sync: Account status changed from uninitialized to available
+2026-03-27 13:33:53.881 [error] An unknown error occurred. Please consult the log for more details.

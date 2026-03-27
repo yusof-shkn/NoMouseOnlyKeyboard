@@ -1,0 +1,353 @@
+/* ─────────────────────────────────────────────────────────────
+   SwayNC — Wallust + Blur + Left Full-Height Control Center
+   ~/.config/swaync/style.css
+   ───────────────────────────────────────────────────────────── */
+
+/* Wallust auto-generated colors — regenerated on wallpaper change */
+@import 'colors.css';
+
+* {
+  font-family: "JetBrains Mono", "Noto Sans", monospace;
+  font-size: 13px;
+  border: none;
+  border-radius: 0;
+  transition: all 0.2s ease;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   POPUP NOTIFICATIONS  (top-right, slide in from right)
+   ══════════════════════════════════════════════════════════════ */
+
+.notification-row {
+  outline: none;
+  padding: 6px 10px 0 10px;
+}
+
+.notification {
+  border-radius: 14px;
+  padding: 0;
+  margin: 0;
+  background: alpha(@background, 0.55);
+
+  /* Blur — works on Hyprland with blur layer rules */
+  box-shadow:
+    0 8px 32px alpha(@background, 0.6),
+    inset 0 0 0 1px alpha(@foreground, 0.06);
+
+  animation: slideInRight 0.32s cubic-bezier(0.34, 1.4, 0.64, 1) both;
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(80px) scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+.notification:hover {
+  background: alpha(@background, 0.72);
+  box-shadow:
+    0 12px 40px alpha(@background, 0.7),
+    inset 0 0 0 1px alpha(@accent, 0.2);
+}
+
+/* ── Content layout ── */
+.notification-content {
+  padding: 14px 16px 12px 16px;
+  border-radius: 14px;
+}
+
+/* ── App icon ── */
+.app-icon {
+  min-width: 40px;
+  min-height: 40px;
+  border-radius: 10px;
+  margin-right: 2px;
+}
+
+/* ── Text ── */
+.summary {
+  font-weight: 600;
+  font-size: 13px;
+  color: @foreground2;
+}
+
+.time {
+  font-size: 10px;
+  color: @dim;
+  margin-top: 1px;
+}
+
+.body {
+  font-size: 11.5px;
+  color: @foreground;
+  margin-top: 5px;
+  line-height: 1.55;
+}
+
+/* ── Close button ── */
+.close-button {
+  background: alpha(@foreground, 0.08);
+  color: @foreground;
+  border-radius: 8px;
+  min-width: 22px;
+  min-height: 22px;
+  padding: 0;
+  margin: 10px 10px 0 0;
+  font-size: 11px;
+}
+
+.close-button:hover {
+  background: alpha(@urgent, 0.2);
+  color: @urgent;
+}
+
+/* ── Urgency variants ── */
+.notification.low {
+  box-shadow:
+    0 8px 28px alpha(@background, 0.5),
+    inset 0 0 0 1px alpha(@accent3, 0.15);
+}
+.notification.low .summary { color: @accent3; }
+
+.notification.normal {
+  box-shadow:
+    0 8px 28px alpha(@background, 0.5),
+    inset 0 0 0 1px alpha(@accent2, 0.15);
+}
+
+.notification.critical {
+  background: alpha(@background, 0.7);
+  box-shadow:
+    0 8px 32px alpha(@urgent, 0.3),
+    inset 0 0 0 1px alpha(@urgent, 0.35);
+  animation:
+    slideInRight 0.32s cubic-bezier(0.34, 1.4, 0.64, 1) both,
+    criticalPulse 2.5s ease-in-out 0.4s infinite;
+}
+.notification.critical .summary { color: @urgent; }
+
+@keyframes criticalPulse {
+  0%, 100% { box-shadow: 0 8px 32px alpha(@urgent, 0.25), inset 0 0 0 1px alpha(@urgent, 0.3); }
+  50%       { box-shadow: 0 8px 40px alpha(@urgent, 0.5), inset 0 0 0 1px alpha(@urgent, 0.6); }
+}
+
+/* ── Action buttons ── */
+.notification-action {
+  border-radius: 8px;
+  background: alpha(@foreground, 0.07);
+  color: @foreground;
+  padding: 6px 14px;
+  margin: 2px 4px 10px 4px;
+  font-size: 11px;
+}
+.notification-action:first-child { margin-left: 10px; }
+.notification-action:hover {
+  background: alpha(@accent, 0.18);
+  color: @accent;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   CONTROL CENTER  (full-height, left side, blur panel)
+   ══════════════════════════════════════════════════════════════ */
+
+.control-center {
+  background: alpha(@background, 0.45);
+
+  /* Only right border — left edge is flush with screen */
+  border-right: 1px solid alpha(@foreground, 0.06);
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 0;
+
+  box-shadow: 6px 0 48px alpha(@background, 0.55);
+  padding: 0;
+  margin: 0;
+
+  animation: slideInLeft 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.control-center-list {
+  background: transparent;
+  padding: 8px 0;
+}
+
+.control-center-list-placeholder {
+  color: alpha(@foreground, 0.3);
+  font-size: 12px;
+  padding: 40px 0;
+}
+
+/* ── Title widget ── */
+.widget-title {
+  padding: 20px 20px 12px 20px;
+  border-bottom: 1px solid alpha(@foreground, 0.06);
+  margin-bottom: 4px;
+}
+
+.widget-title > label {
+  font-weight: 700;
+  font-size: 15px;
+  color: @foreground2;
+  letter-spacing: 0.02em;
+}
+
+.widget-title > button {
+  font-size: 11px;
+  color: @foreground;
+  background: alpha(@foreground, 0.07);
+  border-radius: 8px;
+  padding: 5px 14px;
+}
+
+.widget-title > button:hover {
+  background: alpha(@urgent, 0.15);
+  color: @urgent;
+}
+
+/* ── DND widget ── */
+.widget-dnd {
+  padding: 10px 20px;
+  border-bottom: 1px solid alpha(@foreground, 0.06);
+}
+
+.widget-dnd > label {
+  font-size: 12px;
+  color: @foreground;
+}
+
+.widget-dnd > switch {
+  border-radius: 20px;
+  background: alpha(@foreground, 0.12);
+  border: none;
+  min-height: 22px;
+  min-width: 44px;
+}
+
+.widget-dnd > switch:checked {
+  background: @accent2;
+}
+
+.widget-dnd > switch slider {
+  background: @foreground2;
+  border-radius: 50%;
+  min-width: 18px;
+  min-height: 18px;
+  margin: 2px;
+  box-shadow: 0 1px 4px alpha(@background, 0.4);
+}
+
+/* ── Volume widget ── */
+.widget-volume {
+  padding: 10px 20px;
+  border-bottom: 1px solid alpha(@foreground, 0.06);
+  color: @foreground;
+}
+
+.widget-volume scale trough {
+  background: alpha(@foreground, 0.1);
+  border-radius: 4px;
+}
+
+.widget-volume scale highlight {
+  background: @accent;
+  border-radius: 4px;
+}
+
+/* ── MPRIS widget ── */
+.widget-mpris {
+  padding: 14px 20px;
+  border-bottom: 1px solid alpha(@foreground, 0.06);
+}
+
+.widget-mpris-album-art {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px alpha(@background, 0.6);
+}
+
+.widget-mpris-title {
+  font-weight: 600;
+  font-size: 13px;
+  color: @foreground2;
+}
+
+.widget-mpris-subtitle {
+  font-size: 11px;
+  color: @foreground;
+  opacity: 0.7;
+}
+
+.widget-mpris button {
+  background: alpha(@foreground, 0.07);
+  border-radius: 8px;
+  color: @foreground;
+  padding: 6px;
+  margin: 2px;
+  min-width: 32px;
+  min-height: 32px;
+}
+
+.widget-mpris button:hover {
+  background: alpha(@accent, 0.2);
+  color: @accent;
+}
+
+/* ── Notifications in control center ── */
+.control-center .notification-row {
+  padding: 4px 12px;
+}
+
+.control-center .notification {
+  border-radius: 12px;
+  background: alpha(@background2, 0.6);
+  box-shadow: none;
+  animation: none;
+}
+
+.control-center .notification:hover {
+  background: alpha(@background2, 0.8);
+}
+
+/* ── Notification group headers ── */
+.notification-group-headers {
+  color: alpha(@foreground, 0.35);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 12px 16px 4px 16px;
+}
+
+/* ── Group expand/collapse ── */
+.notification-group-collapse-button {
+  background: alpha(@foreground, 0.06);
+  color: @foreground;
+  border-radius: 8px;
+  margin: 4px 12px;
+  padding: 4px;
+}
+
+.notification-group-collapse-button:hover {
+  background: alpha(@accent, 0.15);
+  color: @accent;
+}
+
+/* ── Separator between notifications ── */
+.notification + .notification {
+  border-top: 1px solid alpha(@foreground, 0.04);
+}

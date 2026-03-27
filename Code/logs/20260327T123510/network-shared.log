@@ -1,0 +1,15 @@
+2026-03-27 13:29:07.055 [error] #106: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:29:25.305 [error] #108: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:29:25.305 [error] #107: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:29:48.438 [error] #109: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:29:48.450 [error] #110: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:30:08.479 [error] #111: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:30:31.314 [error] #112: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:31:01.319 [error] #113: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:31:13.956 [error] #114: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:31:36.618 [error] #115: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:31:45.927 [error] #116: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:32:49.390 [error] #117: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:32:58.049 [error] #118: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:33:11.950 [error] #119: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2026-03-27 13:33:41.987 [error] #120: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

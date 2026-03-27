@@ -1,0 +1,111 @@
+1. users - action buttons, delete the user from frontend but not backend ____________________ Done
+2. users- sales manager role just has access to the pos , not to sales history nor the others 
+3. areas - the static file are't update when the user add an areas __________________________ Done
+4. store  admin has no access to any of pages _______________________________________________ Done
+5. the sidebar can't fetch data properly in inventory manager role and also in store manager___Done
+7. at accounting manager the route of balancae sheet is incorrect / but it has the access to the necessary pages____ Done
+8. in general the side bar is not working in whole roles  __________________________________Done 
+9 .search bar refreshes the data in each letter typing_____________________________________Done
+
+
+ 
+
+
+,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+- users -  selecting the roles from filter ( custom role ) has this console error: 
+UsersManagement.tsx:130 ❌ [fetchUsers] Error fetching users: Error: Failed to fetch users: Unknown error occurred
+    at fetchUsersData (userManagement.utils.ts:212:11)
+    at async UsersManagement.tsx:112:27  ____________________________________________________ Done
+
+- the edit button for table in full screen mode is not working properly ______________________ Done
+
+
+
+
+
+6. access restriced page is coming in all the roles even if they has the permission 
+10. users syncing  data has a bug, it dose't sync the full data.
+11. medicines view details has error and that's why it redirect to Critical Error page.
+12. items master_ categories view details does't shows the details page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the code and database schema, here's what **should happen** for each row action:
+
+---
+
+## 1. APPROVE
+- PO status: `draft/pending` → `approved`
+- No inventory change yet
+- No journal entry yet
+- Supplier balance updated via trigger (`trigger_supplier_balance_on_po_status`)
+
+---
+
+## 2. RECEIVE GOODS
+- PO status: `approved` → `received`
+- **Inventory**: `product_batches.quantity_available` incremented for each item
+- **Journal Entry should fire**:
+  - Debit: Inventory (asset)
+  - Credit: Accounts Payable (supplier's sub-account)
+- `purchase_order_items.quantity_received` updated
+- `received_by` and `received_at` stamped
+
+---
+
+## 3. MARK AS PAID
+- PO `payment_status`: `unpaid` → `paid` (or stays `unpaid` if partial)
+- `paid_amount` incremented, `amount_due` decremented
+- Payment record created in `payment_transactions`
+- **Journal Entry should fire**:
+  - Debit: Accounts Payable (supplier)
+  - Credit: Cash/Bank (based on payment method)
+
+---
+
+## 4. REJECT
+- PO status: `pending` → `rejected`
+- No inventory change
+- No journal entry
+- Supplier balance reversed via trigger
+
+---
+
+## 5. CANCEL
+- PO status: `draft/pending/approved` → `cancelled`
+- No inventory change (goods never received)
+- Supplier balance reversed via trigger
+
+---
+
+## 6. DELETE
+- Soft delete only (`deleted_at` stamped)
+- Only allowed on `draft` status
+- No financial impact
+
+---
+
+## 7. RETURN (Purchase Return)
+- Only on `received` POs
+- **Inventory**: `product_batches.quantity_available` decremented
+- `purchase_return_items` created
+- **Journal Entry should fire**:
+  - Debit: Accounts Payable (reduce what's owed)
+  - Credit: Inventory (remove returned goods)
+- Supplier balance adjusted
+
+---
+
+Now tell me — what's actually broken or missing?

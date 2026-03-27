@@ -1,0 +1,264 @@
+2026-03-26 15:58:12.752 [info] Name: Ruff
+2026-03-26 15:58:12.752 [info] Module: ruff
+2026-03-26 15:58:12.752 [info] Python extension loading
+2026-03-26 15:58:12.752 [info] Waiting for interpreter from python extension.
+2026-03-26 15:58:12.752 [info] Python extension loaded
+2026-03-26 15:58:12.752 [info] Using interpreter: /usr/bin/python
+2026-03-26 15:58:12.752 [info] Workspace settings for /home/yusof_0090/Projects/insurance-proj: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090/Projects/insurance-proj",
+    "workspace": "file:///home/yusof_0090/Projects/insurance-proj",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/usr/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2026-03-26 15:58:12.752 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090",
+    "workspace": "/home/yusof_0090",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2026-03-26 15:58:13.019 [info] Falling back to bundled executable: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 15:58:13.190 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2026-03-26 15:58:13.196 [info] Found Ruff 0.15.7 at /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 15:58:13.196 [info] Server run command: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff server
+2026-03-26 15:58:13.198 [info] Server: Start requested.
+2026-03-26 16:01:04.259 [info] Name: Ruff
+2026-03-26 16:01:04.259 [info] Module: ruff
+2026-03-26 16:01:04.259 [info] Python extension loading
+2026-03-26 16:01:04.259 [info] Waiting for interpreter from python extension.
+2026-03-26 16:01:04.259 [info] Python extension loaded
+2026-03-26 16:01:04.259 [info] Using interpreter: /usr/bin/python
+2026-03-26 16:01:04.259 [info] Workspace settings for /home/yusof_0090/Projects/insurance-proj: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090/Projects/insurance-proj",
+    "workspace": "file:///home/yusof_0090/Projects/insurance-proj",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/usr/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2026-03-26 16:01:04.259 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090",
+    "workspace": "/home/yusof_0090",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2026-03-26 16:01:04.414 [info] Falling back to bundled executable: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 16:01:04.482 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2026-03-26 16:01:04.486 [info] Found Ruff 0.15.7 at /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 16:01:04.486 [info] Server run command: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff server
+2026-03-26 16:01:04.487 [info] Server: Start requested.
+2026-03-26 16:03:45.385 [info] Name: Ruff
+2026-03-26 16:03:45.385 [info] Module: ruff
+2026-03-26 16:03:45.385 [info] Python extension loading
+2026-03-26 16:03:45.385 [info] Waiting for interpreter from python extension.
+2026-03-26 16:03:45.385 [info] Python extension loaded
+2026-03-26 16:03:45.385 [info] Using interpreter: /usr/bin/python
+2026-03-26 16:03:45.385 [info] Workspace settings for /home/yusof_0090/Projects/insurance-proj: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090/Projects/insurance-proj",
+    "workspace": "file:///home/yusof_0090/Projects/insurance-proj",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/usr/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2026-03-26 16:03:45.385 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/yusof_0090",
+    "workspace": "/home/yusof_0090",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2026-03-26 16:03:45.636 [info] Falling back to bundled executable: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 16:03:45.768 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2026-03-26 16:03:45.771 [info] Found Ruff 0.15.7 at /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff
+2026-03-26 16:03:45.771 [info] Server run command: /home/yusof_0090/.vscode/extensions/charliermarsh.ruff-2026.38.0-linux-x64/bundled/libs/bin/ruff server
+2026-03-26 16:03:45.772 [info] Server: Start requested.

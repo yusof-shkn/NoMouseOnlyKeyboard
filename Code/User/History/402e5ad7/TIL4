@@ -1,0 +1,19 @@
+# ─── Database ────────────────────────────────────────────
+DATABASE_URL=postgresql+asyncpg://yusof_0090:yourpassword@localhost:5432/sawda
+
+# ─── JWT ─────────────────────────────────────────────────
+JWT_SECRET=change-this-to-a-long-random-secret-in-production
+JWT_ALGORITHM=HS256
+JWT_ACCESS_TOKEN_EXPIRE_MINUTES=60
+JWT_REFRESH_TOKEN_EXPIRE_DAYS=7
+
+# ─── Google OAuth (optional) ────────────────────────────
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+# ─── Facebook OAuth (optional) ──────────────────────────
+FACEBOOK_CLIENT_ID=
+FACEBOOK_CLIENT_SECRET=
+
+# ─── App ─────────────────────────────────────────────────
+APP_BASE_URL=http://localhost:8000

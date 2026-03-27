@@ -1,0 +1,38 @@
+{
+    "editor.formatOnPaste": true,
+    "git.autofetch": true,
+    "[markdown]": {
+        "editor.wordWrap": "on"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.png": "luna.editor"
+    }
+}

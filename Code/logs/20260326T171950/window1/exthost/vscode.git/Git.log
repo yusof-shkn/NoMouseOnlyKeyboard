@@ -1,0 +1,282 @@
+2026-03-26 17:19:54.920 [info] [main] Log level: Info
+2026-03-26 17:19:54.921 [info] [main] Validating found git in: "git"
+2026-03-26 17:19:54.921 [info] [main] Using git "2.53.0" from "git"
+2026-03-26 17:19:54.921 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [6ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [4ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [15ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-26 17:19:54.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:54.921 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-03-26 17:19:56.334 [info] > git rev-parse --show-toplevel [290ms]
+2026-03-26 17:19:56.334 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:19:56.964 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-26 17:19:56.964 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:38:22.087 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 17:38:22.087 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:39:29.958 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-26 17:39:29.958 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:39:51.782 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 17:39:51.782 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:41:02.013 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 17:41:02.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:41:11.529 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 17:41:11.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 17:41:51.436 [info] [main] Log level: Info
+2026-03-26 17:41:51.436 [info] [main] Validating found git in: "git"
+2026-03-26 17:41:51.436 [info] [main] Using git "2.53.0" from "git"
+2026-03-26 17:41:51.436 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-26 17:41:51.436 [info] > git rev-parse --show-toplevel [52ms]
+2026-03-26 17:41:51.474 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [2ms]
+2026-03-26 17:41:51.499 [info] [Model][openRepository] Opened repository (path): /home/yusof_0090/Projects/insurance-proj
+2026-03-26 17:41:51.499 [info] [Model][openRepository] Opened repository (real path): /home/yusof_0090/Projects/insurance-proj
+2026-03-26 17:41:51.499 [info] [Model][openRepository] Opened repository (kind): repository
+2026-03-26 17:41:51.591 [info] > git rev-parse --show-toplevel [68ms]
+2026-03-26 17:41:51.592 [info] > git config --get commit.template [76ms]
+2026-03-26 17:41:51.638 [info] > git rev-parse --show-toplevel [15ms]
+2026-03-26 17:41:51.639 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-03-26 17:41:51.716 [info] > git rev-parse --show-toplevel [51ms]
+2026-03-26 17:41:51.717 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-03-26 17:41:51.895 [info] > git status -z -uall [169ms]
+2026-03-26 17:41:51.895 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [161ms]
+2026-03-26 17:41:51.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2026-03-26 17:41:52.368 [info] > git config --get --local branch.main.vscode-merge-base [401ms]
+2026-03-26 17:41:52.376 [info] > git config --get commit.template [440ms]
+2026-03-26 17:41:52.682 [info] > git check-ignore -v -z --stdin [297ms]
+2026-03-26 17:41:52.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [307ms]
+2026-03-26 17:41:53.147 [info] > git check-ignore -v -z --stdin [476ms]
+2026-03-26 17:41:53.147 [info] > git merge-base refs/heads/main refs/remotes/origin/main [459ms]
+2026-03-26 17:41:53.203 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 5b3827ebe5bfa94e7c27377833eee0371904e2cf...refs/remotes/origin/main -- [50ms]
+2026-03-26 17:41:53.204 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [440ms]
+2026-03-26 17:41:53.263 [info] > git show --textconv :vite.config.ts [51ms]
+2026-03-26 17:41:53.263 [info] > git ls-files --stage -- vite.config.ts [46ms]
+2026-03-26 17:41:53.298 [info] > git cat-file -s 1dbde3f8828222b5e68e3e22480e76332699d4ec [29ms]
+2026-03-26 17:41:53.445 [info] > git status -z -uall [57ms]
+2026-03-26 17:41:53.528 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [131ms]
+2026-03-26 17:41:53.628 [info] > git check-ignore -v -z --stdin [62ms]
+2026-03-26 17:41:53.719 [info] > git blame --root --incremental 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- vite.config.ts [39ms]
+2026-03-26 17:41:53.951 [info] > git config --get commit.template [33ms]
+2026-03-26 17:41:53.993 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-03-26 17:41:54.034 [info] > git status -z -uall [10ms]
+2026-03-26 17:41:54.035 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-03-26 17:41:54.714 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 17:42:34.037 [info] > git fetch [1424ms]
+2026-03-26 17:42:34.037 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/monir-shokohyan/insurance-proj/'
+2026-03-26 17:42:34.064 [info] > git config --get commit.template [13ms]
+2026-03-26 17:42:34.065 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-03-26 17:42:34.083 [info] > git status -z -uall [8ms]
+2026-03-26 17:42:34.084 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-03-26 17:43:54.719 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 17:45:54.724 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 17:47:18.251 [info] > git ls-files --stage -- vite.config.ts [1ms]
+2026-03-26 17:47:18.258 [info] > git cat-file -s 1dbde3f8828222b5e68e3e22480e76332699d4ec [0ms]
+2026-03-26 17:47:18.266 [info] > git show --textconv :vite.config.ts [0ms]
+2026-03-26 17:47:54.719 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 17:49:54.726 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 17:51:54.721 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 17:53:54.728 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 17:55:54.728 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 17:57:54.729 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 17:59:54.728 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:01:54.734 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [10ms]
+2026-03-26 18:03:54.734 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:05:54.732 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:07:54.730 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 18:09:54.729 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 18:11:54.735 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:13:54.734 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:15:03.041 [info] > git config --get commit.template [8ms]
+2026-03-26 18:15:03.041 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-03-26 18:15:03.054 [info] > git status -z -uall [6ms]
+2026-03-26 18:15:03.055 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-03-26 18:15:03.381 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 18:15:07.122 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 18:15:12.851 [info] [main] Log level: Info
+2026-03-26 18:15:12.851 [info] [main] Validating found git in: "git"
+2026-03-26 18:15:12.851 [info] [main] Using git "2.53.0" from "git"
+2026-03-26 18:15:12.851 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-26 18:15:12.851 [info] > git rev-parse --show-toplevel [850ms]
+2026-03-26 18:15:12.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:12.851 [info] > git rev-parse --show-toplevel [112ms]
+2026-03-26 18:15:12.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:12.856 [info] > git rev-parse --show-toplevel [103ms]
+2026-03-26 18:15:12.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:12.873 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-26 18:15:12.873 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:12.908 [info] > git rev-parse --show-toplevel [27ms]
+2026-03-26 18:15:12.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:12.938 [info] > git rev-parse --show-toplevel [22ms]
+2026-03-26 18:15:12.938 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.033 [info] > git rev-parse --show-toplevel [17ms]
+2026-03-26 18:15:13.033 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.052 [info] > git rev-parse --show-toplevel [10ms]
+2026-03-26 18:15:13.052 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.070 [info] > git rev-parse --show-toplevel [12ms]
+2026-03-26 18:15:13.070 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.074 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-03-26 18:15:13.088 [info] > git rev-parse --show-toplevel [3ms]
+2026-03-26 18:15:13.089 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.102 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 18:15:13.102 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.111 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 18:15:13.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.118 [info] > git rev-parse --show-toplevel [1ms]
+2026-03-26 18:15:13.118 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.124 [info] > git rev-parse --show-toplevel [0ms]
+2026-03-26 18:15:13.124 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:13.995 [info] > git rev-parse --show-toplevel [265ms]
+2026-03-26 18:15:13.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:14.600 [info] > git rev-parse --show-toplevel [4ms]
+2026-03-26 18:15:14.600 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-03-26 18:15:48.173 [info] [main] Log level: Info
+2026-03-26 18:15:48.173 [info] [main] Validating found git in: "git"
+2026-03-26 18:15:48.173 [info] [main] Using git "2.53.0" from "git"
+2026-03-26 18:15:48.173 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-26 18:15:48.173 [info] > git rev-parse --show-toplevel [63ms]
+2026-03-26 18:15:48.225 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [27ms]
+2026-03-26 18:15:48.267 [info] [Model][openRepository] Opened repository (path): /home/yusof_0090/Projects/insurance-proj
+2026-03-26 18:15:48.267 [info] [Model][openRepository] Opened repository (real path): /home/yusof_0090/Projects/insurance-proj
+2026-03-26 18:15:48.267 [info] [Model][openRepository] Opened repository (kind): repository
+2026-03-26 18:15:48.287 [info] > git rev-parse --show-toplevel [5ms]
+2026-03-26 18:15:48.288 [info] > git config --get commit.template [12ms]
+2026-03-26 18:15:48.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-03-26 18:15:48.305 [info] > git rev-parse --show-toplevel [9ms]
+2026-03-26 18:15:48.327 [info] > git status -z -uall [9ms]
+2026-03-26 18:15:48.327 [info] > git rev-parse --show-toplevel [16ms]
+2026-03-26 18:15:48.328 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-03-26 18:15:48.445 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [121ms]
+2026-03-26 18:15:48.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2026-03-26 18:15:48.955 [info] > git config --get --local branch.main.vscode-merge-base [460ms]
+2026-03-26 18:15:48.964 [info] > git config --get commit.template [478ms]
+2026-03-26 18:15:49.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [166ms]
+2026-03-26 18:15:49.543 [info] > git check-ignore -v -z --stdin [429ms]
+2026-03-26 18:15:49.544 [info] > git check-ignore -v -z --stdin [392ms]
+2026-03-26 18:15:49.547 [info] > git merge-base refs/heads/main refs/remotes/origin/main [407ms]
+2026-03-26 18:15:49.686 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 5b3827ebe5bfa94e7c27377833eee0371904e2cf...refs/remotes/origin/main -- [133ms]
+2026-03-26 18:15:49.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [514ms]
+2026-03-26 18:15:49.687 [info] > git fetch [1421ms]
+2026-03-26 18:15:49.687 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/monir-shokohyan/insurance-proj/'
+2026-03-26 18:15:49.959 [info] > git show --textconv :vite.config.ts [119ms]
+2026-03-26 18:15:49.960 [info] > git ls-files --stage -- vite.config.ts [115ms]
+2026-03-26 18:15:50.119 [info] > git cat-file -s 1dbde3f8828222b5e68e3e22480e76332699d4ec [152ms]
+2026-03-26 18:15:50.120 [info] > git config --get commit.template [201ms]
+2026-03-26 18:15:50.202 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2026-03-26 18:15:50.282 [info] > git check-ignore -v -z --stdin [36ms]
+2026-03-26 18:15:50.342 [info] > git status -z -uall [18ms]
+2026-03-26 18:15:50.342 [info] > git blame --root --incremental 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- vite.config.ts [6ms]
+2026-03-26 18:15:50.343 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-03-26 18:15:50.943 [info] > git config --get commit.template [26ms]
+2026-03-26 18:15:51.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2026-03-26 18:15:51.081 [info] > git status -z -uall [7ms]
+2026-03-26 18:15:51.081 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-03-26 18:15:51.615 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 18:17:51.616 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:19:51.612 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:21:51.616 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 18:23:51.613 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 18:25:51.616 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 18:27:51.620 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:29:51.624 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:31:51.624 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:33:51.627 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:35:51.626 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:37:51.624 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [1ms]
+2026-03-26 18:39:51.627 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:41:51.631 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:43:51.632 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:45:51.631 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [2ms]
+2026-03-26 18:47:51.632 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:49:51.638 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:51:51.638 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:53:51.638 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:55:51.637 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:57:51.643 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 18:59:51.643 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 19:54:37.213 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 19:56:37.213 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 19:58:37.215 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:00:37.215 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:02:37.217 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:04:37.218 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:06:37.220 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:08:37.221 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:10:37.223 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:12:37.223 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:14:37.226 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:16:37.228 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:18:37.228 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:20:37.229 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 20:22:37.230 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:24:37.230 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 20:26:37.233 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 21:03:46.338 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-26 21:05:46.350 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [13ms]
+2026-03-26 21:05:46.488 [info] > git config --get commit.template [17ms]
+2026-03-26 21:05:46.491 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2026-03-26 21:05:46.522 [info] > git status -z -uall [15ms]
+2026-03-26 21:05:46.524 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2026-03-26 21:05:46.847 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 21:05:54.528 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:05:54.565 [info] > git show --textconv :src/app/pages/customer/Dashboard.tsx [15ms]
+2026-03-26 21:05:54.565 [info] > git ls-files --stage -- src/app/pages/customer/Dashboard.tsx [3ms]
+2026-03-26 21:05:54.575 [info] > git cat-file -s ba24cf3101890b0a59746e60de6b5e86b07ab9d7 [1ms]
+2026-03-26 21:05:54.681 [info] > git check-ignore -v -z --stdin [4ms]
+2026-03-26 21:06:06.701 [info] > git blame --root --incremental 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- src/app/pages/customer/Dashboard.tsx [40ms]
+2026-03-26 21:06:08.203 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 21:06:09.148 [info] > git check-ignore -v -z --stdin [1ms]
+2026-03-26 21:06:10.205 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 21:06:11.055 [info] > git config --get commit.template [5ms]
+2026-03-26 21:06:11.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-03-26 21:06:11.084 [info] > git status -z -uall [11ms]
+2026-03-26 21:06:11.087 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2026-03-26 21:06:16.061 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:06:17.296 [info] > git check-ignore -v -z --stdin [5ms]
+2026-03-26 21:06:17.946 [info] > git config --get commit.template [9ms]
+2026-03-26 21:06:17.946 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-03-26 21:06:17.962 [info] > git status -z -uall [8ms]
+2026-03-26 21:06:17.962 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-03-26 21:06:18.918 [info] > git check-ignore -v -z --stdin [4ms]
+2026-03-26 21:06:22.996 [info] > git config --get commit.template [15ms]
+2026-03-26 21:06:22.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-03-26 21:06:23.023 [info] > git status -z -uall [14ms]
+2026-03-26 21:06:23.024 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-03-26 21:06:41.006 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 21:06:41.446 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:06:41.802 [info] > git check-ignore -v -z --stdin [5ms]
+2026-03-26 21:06:42.135 [info] > git check-ignore -v -z --stdin [2ms]
+2026-03-26 21:06:43.002 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:06:43.511 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:06:44.804 [info] > git check-ignore -v -z --stdin [3ms]
+2026-03-26 21:06:45.391 [info] > git config --get commit.template [7ms]
+2026-03-26 21:06:45.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-03-26 21:06:45.408 [info] > git status -z -uall [8ms]
+2026-03-26 21:06:45.409 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-03-26 21:06:50.442 [info] > git config --get commit.template [13ms]
+2026-03-26 21:06:50.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-03-26 21:06:50.469 [info] > git status -z -uall [13ms]
+2026-03-26 21:06:50.471 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-03-26 21:06:51.396 [info] > git check-ignore -v -z --stdin [4ms]
+2026-03-26 21:07:46.341 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]
+2026-03-26 21:09:08.347 [info] > git config --get commit.template [16ms]
+2026-03-26 21:09:08.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2026-03-26 21:09:08.379 [info] > git status -z -uall [16ms]
+2026-03-26 21:09:08.380 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-03-26 21:09:46.342 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [4ms]
+2026-03-27 00:00:53.154 [info] > git diff --name-status -z --diff-filter=ADMR 5b3827ebe5bfa94e7c27377833eee0371904e2cf -- [3ms]

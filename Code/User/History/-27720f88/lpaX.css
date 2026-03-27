@@ -1,0 +1,287 @@
+/* ─────────────────────────────────────────────────────
+   SwayNC — Wallust (Jakoolit) colors, no box-shadow
+   ~/.config/swaync/style.css
+   ───────────────────────────────────────────────────── */
+
+@import 'colors.css';
+
+* {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* ── Parent window — must be transparent ── */
+.notification-window {
+  background: transparent;
+}
+
+window,
+.background {
+  background: transparent;
+}
+
+/* ════════════════════════════════════════
+   POPUP NOTIFICATIONS
+   ════════════════════════════════════════ */
+
+.notification-row {
+  outline: none;
+  padding: 4px 8px;
+  margin: 0;
+  background: transparent;
+}
+
+.notification-row:focus,
+.notification-row:hover {
+  background: transparent;
+}
+
+.notification {
+  border-radius: 12px;
+  /* NO box-shadow — GTK clips it at window boundary */
+  background: alpha(@background, 0.85);
+  border: 1px solid alpha(@color4, 0.2);
+  padding: 0;
+  margin: 0;
+}
+
+.notification:hover {
+  background: alpha(@background, 0.95);
+  border-color: alpha(@color4, 0.4);
+}
+
+.notification-content {
+  padding: 14px 16px;
+  border-radius: 12px;
+}
+
+/* ── Icon ── */
+.notification-default-action {
+  padding: 0;
+  background: transparent;
+  border-radius: 12px;
+}
+
+.app-icon {
+  min-width: 40px;
+  min-height: 40px;
+  border-radius: 8px;
+}
+
+/* ── Text ── */
+.summary {
+  font-weight: 600;
+  font-size: 13px;
+  color: @foreground;
+}
+
+.time {
+  font-size: 10px;
+  color: alpha(@foreground, 0.4);
+  margin-top: 2px;
+}
+
+.body {
+  font-size: 11px;
+  color: alpha(@foreground, 0.75);
+  margin-top: 4px;
+}
+
+/* ── Close button ── */
+.close-button {
+  background: alpha(@color8, 0.6);
+  color: @foreground;
+  border-radius: 6px;
+  min-width: 22px;
+  min-height: 22px;
+  padding: 0;
+  margin: 10px 10px 0px 0px;
+  font-size: 11px;
+}
+
+.close-button:hover {
+  background: alpha(@color1, 0.3);
+  color: @color1;
+}
+
+/* ── Urgency ── */
+.notification.low {
+  border-color: alpha(@color6, 0.2);
+}
+.notification.low .summary {
+  color: @color6;
+}
+
+.notification.normal {
+  border-color: alpha(@color4, 0.2);
+}
+.notification.normal .summary {
+  color: @foreground;
+}
+
+.notification.critical {
+  background: alpha(@background, 0.95);
+  border-color: alpha(@color1, 0.6);
+}
+.notification.critical .summary {
+  color: @color1;
+}
+
+/* ── Action buttons ── */
+.notification-action {
+  border-radius: 8px;
+  color: @foreground;
+  background: alpha(@color8, 0.5);
+  padding: 6px 14px;
+  margin: 0px 4px 10px 4px;
+  font-size: 11px;
+}
+
+.notification-action:first-child {
+  margin-left: 10px;
+}
+
+.notification-action:hover {
+  background: alpha(@color4, 0.25);
+  color: @color4;
+}
+
+/* ════════════════════════════════════════
+   CONTROL CENTER — full-height left panel
+   ════════════════════════════════════════ */
+
+.control-center {
+  background: alpha(@background, 0.85);
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+  border-right: 1px solid alpha(@color4, 0.1);
+}
+
+.control-center-list {
+  background: transparent;
+  padding: 4px 0px 12px 0px;
+}
+
+.control-center-list-placeholder {
+  color: alpha(@foreground, 0.3);
+  font-size: 12px;
+}
+
+/* ── Title ── */
+.widget-title {
+  padding: 20px 20px 14px 20px;
+  border-bottom: 1px solid alpha(@color4, 0.1);
+}
+
+.widget-title > label {
+  font-weight: 700;
+  font-size: 15px;
+  color: @foreground;
+}
+
+.widget-title > button {
+  font-size: 11px;
+  color: alpha(@foreground, 0.7);
+  background: alpha(@color8, 0.5);
+  border-radius: 8px;
+  padding: 5px 14px;
+}
+
+.widget-title > button:hover {
+  background: alpha(@color1, 0.2);
+  color: @color1;
+}
+
+/* ── DND ── */
+.widget-dnd {
+  padding: 12px 20px;
+  border-bottom: 1px solid alpha(@color4, 0.1);
+}
+
+.widget-dnd > label {
+  font-size: 12px;
+  color: @foreground;
+}
+
+.widget-dnd > switch {
+  border-radius: 20px;
+  background: alpha(@color8, 0.6);
+  min-height: 22px;
+  min-width: 44px;
+}
+
+.widget-dnd > switch:checked {
+  background: @color4;
+}
+
+.widget-dnd > switch slider {
+  background: @foreground;
+  border-radius: 50%;
+  min-width: 18px;
+  min-height: 18px;
+  margin: 2px;
+}
+
+/* ── Inhibitors ── */
+.widget-inhibitors {
+  padding: 10px 20px;
+  border-bottom: 1px solid alpha(@color4, 0.1);
+}
+
+.widget-inhibitors > label {
+  font-size: 12px;
+  color: @foreground;
+}
+
+.widget-inhibitors > button {
+  font-size: 11px;
+  color: alpha(@foreground, 0.7);
+  background: alpha(@color8, 0.5);
+  border-radius: 8px;
+  padding: 4px 12px;
+}
+
+.widget-inhibitors > button:hover {
+  background: alpha(@color1, 0.2);
+  color: @color1;
+}
+
+/* ── Notifications inside panel ── */
+.control-center .notification-row {
+  padding: 4px 10px;
+}
+
+.control-center .notification {
+  border-radius: 12px;
+  background: alpha(@background, 0.6);
+  border-color: alpha(@color4, 0.08);
+}
+
+.control-center .notification:hover {
+  background: alpha(@background, 0.8);
+}
+
+/* ── Group headers ── */
+.notification-group-headers {
+  color: alpha(@foreground, 0.3);
+  font-size: 10px;
+  padding: 12px 16px 4px 16px;
+}
+
+.notification-group-collapse-button {
+  background: alpha(@color8, 0.4);
+  color: @foreground;
+  border-radius: 8px;
+  margin: 4px 10px;
+  padding: 4px;
+}
+
+.notification-group-collapse-button:hover {
+  background: alpha(@color4, 0.2);
+  color: @color4;
+}

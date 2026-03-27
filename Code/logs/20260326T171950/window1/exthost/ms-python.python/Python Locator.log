@@ -1,0 +1,11 @@
+2026-03-26 17:41:51.476 [info] Starting Python Locator /home/yusof_0090/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+2026-03-26 17:41:51.590 [info] Discovered env: /usr/bin/python
+2026-03-26 17:41:51.623 [info] Refresh completed in 159ms
+2026-03-26 17:41:51.715 [info] Resolved Python Environment /usr/bin/python
+2026-03-26 18:15:48.228 [info] Starting Python Locator /home/yusof_0090/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+2026-03-26 18:15:48.228 [info] Discovered env: /usr/bin/python
+2026-03-26 18:15:48.228 [info] Refresh completed in 206ms
+2026-03-26 18:15:49.960 [info] Discovered env: /usr/bin/python
+2026-03-26 18:15:50.101 [info] Resolved Python Environment /usr/bin/python
+2026-03-26 18:15:50.146 [info] Refresh completed in 109ms
+2026-03-26 21:05:54.082 [info] Resolved Python Environment /usr/bin/python

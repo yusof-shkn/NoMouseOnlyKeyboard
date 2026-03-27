@@ -1,0 +1,217 @@
+/* ─────────────────────────────────────────────────────
+   Modern SwayNC Style — Top Right, Clean & Minimal
+   Place at: ~/.config/swaync/style.css
+   ───────────────────────────────────────────────────── */
+
+@import 'colors.css';
+
+* {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  transition: all 0.2s ease;
+  border: none;
+  border-radius: 0;
+}
+
+/* ── Notification Window ───────────────────────────── */
+.notification-window {
+  background: transparent;
+}
+
+.notification-row {
+  outline: none;
+  margin: 0;
+  padding: 4px 8px;
+}
+
+.notification-row:focus,
+.notification-row:hover {
+  background: transparent;
+}
+
+/* ── Individual Notification ───────────────────────── */
+.notification {
+  border-radius: 12px;
+  background: @background;
+  border: 1px solid alpha(@color4, 0.15);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.5),
+    0 2px 8px rgba(0, 0, 0, 0.3);
+  padding: 0;
+  margin: 0;
+}
+
+.notification:hover {
+  background: @color8;
+  border-color: alpha(@color4, 0.35);
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.6),
+    0 0 0 1px alpha(@color5, 0.15);
+}
+
+/* ── Notification Content ──────────────────────────── */
+.notification-content {
+  padding: 14px 16px;
+  border-radius: 12px;
+}
+
+/* ── App Icon ──────────────────────────────────────── */
+.notification-default-action,
+.notification-action {
+  padding: 0;
+  background: transparent;
+}
+
+.app-icon {
+  min-width: 40px;
+  min-height: 40px;
+  border-radius: 8px;
+}
+
+/* ── Text ──────────────────────────────────────────── */
+.summary {
+  font-weight: 600;
+  font-size: 13px;
+  color: @foreground;
+  text-shadow: none;
+}
+
+.time {
+  font-size: 10px;
+  color: alpha(@foreground, 0.4);
+  margin-top: 2px;
+}
+
+.body {
+  font-size: 11px;
+  color: alpha(@foreground, 0.7);
+  margin-top: 4px;
+  line-height: 1.5;
+}
+
+/* ── Close Button ──────────────────────────────────── */
+.close-button {
+  background: @color8;
+  color: @foreground;
+  border-radius: 6px;
+  min-width: 22px;
+  min-height: 22px;
+  padding: 0;
+  margin: 10px 10px 0 0;
+  font-size: 11px;
+  transition: background 0.15s ease;
+}
+
+.close-button:hover {
+  background: alpha(@color1, 0.25);
+  color: @color1;
+}
+
+/* ── Urgency Colors ────────────────────────────────── */
+.notification.low {
+  border-color: alpha(@color6, 0.2);
+}
+.notification.low .summary {
+  color: @color6;
+}
+
+.notification.normal {
+  border-color: alpha(@color4, 0.2);
+}
+
+.notification.critical {
+  border-color: alpha(@color1, 0.5);
+  background: @background;
+}
+.notification.critical .summary {
+  color: @color1;
+}
+
+/* ── Action Buttons ────────────────────────────────── */
+.notification-action {
+  border-radius: 8px;
+  color: @foreground;
+  background: @color8;
+  padding: 6px 14px;
+  margin: 0 4px 10px 4px;
+  font-size: 11px;
+}
+
+.notification-action:hover {
+  background: alpha(@color4, 0.2);
+  color: @color4;
+}
+
+.notification-action:first-child {
+  margin-left: 10px;
+}
+
+/* ── Control Center ────────────────────────────────── */
+.control-center {
+  background: @background;
+  border-radius: 0;
+  border-right: 1px solid alpha(@color4, 0.1);
+  padding: 0;
+  margin: 0;
+}
+
+.control-center-list {
+  background: transparent;
+}
+
+.control-center-list-placeholder {
+  color: alpha(@foreground, 0.3);
+  font-size: 12px;
+}
+
+/* ── Control Center Header ─────────────────────────── */
+.widget-title > label {
+  font-weight: 600;
+  font-size: 14px;
+  color: @foreground;
+}
+
+.widget-title button {
+  font-size: 11px;
+  color: alpha(@foreground, 0.7);
+  background: @color8;
+  border-radius: 8px;
+  padding: 4px 12px;
+  transition: all 0.15s;
+}
+
+.widget-title button:hover {
+  background: alpha(@color1, 0.2);
+  color: @color1;
+}
+
+/* ── DND Toggle ────────────────────────────────────── */
+.widget-dnd {
+  padding: 8px 4px;
+}
+
+.widget-dnd > switch {
+  border-radius: 20px;
+  background: @color8;
+  border: none;
+}
+
+.widget-dnd > switch:checked {
+  background: @color4;
+}
+
+.widget-dnd > switch slider {
+  background: @foreground;
+  border-radius: 50%;
+  min-width: 20px;
+  min-height: 20px;
+}
+
+/* ── Separator ─────────────────────────────────────── */
+.notification-group-headers {
+  color: alpha(@foreground, 0.3);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 8px 4px 4px 4px;
+}

@@ -1,0 +1,160 @@
+2026-03-22 19:45:20.269 [info] Extension host with pid 4175 started
+2026-03-22 19:45:20.269 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/4b0526516e2f9adedbc41ff8651977f0.
+2026-03-22 19:45:20.513 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-22 19:45:20.540 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-22 19:45:20.555 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-22 19:45:20.603 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2026-03-22 19:45:21.315 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-22 19:45:21.319 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-03-22 19:45:21.327 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-22 19:45:22.049 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-22 19:45:22.118 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-22 19:45:22.210 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md', root cause: charliermarsh.ruff
+2026-03-22 19:45:23.667 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md'
+2026-03-22 19:45:23.903 [info] Eager extensions activated
+2026-03-22 19:45:24.209 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.214 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.270 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.294 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.377 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.446 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.446 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:24.756 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-03-22 19:45:25.579 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-03-22 19:45:25.597 [warning] ExtHostTextEditorOptions 'setOptions' failed:'
+2026-03-22 19:45:25.598 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model3)
+2026-03-22 19:45:26.327 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-03-22 19:45:26.457 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-03-22 19:45:27.184 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-22 19:45:48.256 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatSession:claude-code'
+2026-03-22 19:45:50.740 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-03-22 20:14:05.013 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-22 20:36:41.090 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-22 20:44:48.021 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-22 22:58:27.601 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-23 14:43:38.019 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-23 17:02:12.835 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-23 17:09:26.347 [error] [vscode.typescript-language-features] provider FAILED
+2026-03-23 17:09:26.347 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Cannot read properties of undefined (reading 'lineOffsetToPosition')
+TypeError: Cannot read properties of undefined (reading 'lineOffsetToPosition')
+    at IpcIOSession.getStartAndEndPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196559:34)
+    at IpcIOSession.getRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196399:49)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196453:122
+    at Array.map (<anonymous>)
+    at IpcIOSession.getPasteEdits (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196453:101)
+    at getPasteEdits (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:194568:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at r.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:24:168)
+	at r.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:2654)
+	at r.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:1162)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:379)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-03-23 23:31:31.745 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-03-23 23:31:31.828 [info] ExtensionService#_doActivateExtension humao.rest-client, startup: false, activationEvent: 'onLanguage:markdown'
+2026-03-23 23:31:54.889 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-23 23:59:50.903 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 00:28:05.840 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 00:48:05.597 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 01:15:29.128 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 01:45:02.778 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 02:00:27.252 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 13:18:14.773 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 13:19:33.461 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 13:23:52.101 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 13:29:32.515 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-24 14:32:50.822 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 11:10:06.494 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 12:24:12.732 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 12:43:52.528 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 14:19:44.467 [error] [vscode.typescript-language-features] provider FAILED
+2026-03-25 14:19:44.467 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Cannot read properties of undefined (reading 'lineOffsetToPosition')
+TypeError: Cannot read properties of undefined (reading 'lineOffsetToPosition')
+    at IpcIOSession.getStartAndEndPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196559:34)
+    at IpcIOSession.getRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196399:49)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196453:122
+    at Array.map (<anonymous>)
+    at IpcIOSession.getPasteEdits (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196453:101)
+    at getPasteEdits (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:194568:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at r.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:24:168)
+	at r.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:2654)
+	at r.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:1162)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:26:379)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-03-25 14:41:04.863 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 14:45:12.871 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 14:52:58.385 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 15:16:47.620 [error] Error: command '_aiEdits.clearAiContributions' not found
+    at NXe._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4829)
+    at NXe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1743:4729)
+2026-03-25 20:54:26.176 [info] Extension host terminating: renderer closed the MessagePort
