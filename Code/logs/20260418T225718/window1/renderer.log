@@ -1,0 +1,133 @@
+2026-04-18 22:57:19.945 [info] Started local extension host with pid 5365.
+2026-04-18 22:57:20.460 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0]: Extension is not compatible with Code 1.114.0. Extension requires: ^1.115.0.
+2026-04-18 22:57:20.466 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1]: Extension is not compatible with Code 1.114.0. Extension requires: ^1.116.0.
+2026-04-18 22:57:22.067 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-04-18 22:57:22.617 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-18 22:57:23.810 [info] [perf] Render performance baseline is 40ms
+2026-04-18 22:57:25.004 [error] [Extension Host] (node:5365) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-18 22:57:25.006 [error] [Extension Host] (node:5365) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-18 22:57:49.056 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-18 22:57:50.486 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+2026-04-18 23:07:47.312 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-04-18 23:10:32.293 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-04-19 11:58:38.159 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-19 11:58:38.159 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-19 11:58:38.160 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'
+2026-04-19 11:58:39.205 [info] Started local extension host with pid 405195.
+2026-04-19 11:58:39.502 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0]: Extension is not compatible with Code 1.114.0. Extension requires: ^1.115.0.
+2026-04-19 11:58:39.505 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1]: Extension is not compatible with Code 1.114.0. Extension requires: ^1.116.0.
+2026-04-19 11:58:39.838 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 11:58:39.955 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 11:58:41.054 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2026-04-19 11:58:41.055 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2026-04-19 11:58:41.640 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-19 11:58:42.242 [info] [perf] Render performance baseline is 41ms
+2026-04-19 11:58:43.084 [info] Auto updating outdated extensions. ms-python.vscode-python-envs, rangav.vscode-thunder-client
+2026-04-19 11:58:44.600 [error] [Extension Host] (node:405195) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-19 11:58:44.601 [error] [Extension Host] (node:405195) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-19 12:35:58.268 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:241618)
+    at _.scrollLines (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:198460)
+    at F.scrollLines (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:61296)
+    at F.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:61568)
+    at p.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:256061)
+    at QM.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3729:7085)
+    at dv.sendText (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:6396)
+    at async dv.runCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:860)
+2026-04-19 12:45:54.556 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 12:46:46.778 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-19 12:46:46.778 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-19 12:46:46.778 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'
+2026-04-19 12:46:46.852 [info] Started local extension host with pid 493403.
+2026-04-19 12:46:48.216 [error] [Extension Host] (node:493403) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-19 12:46:48.216 [error] [Extension Host] (node:493403) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-19 12:46:49.667 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 12:46:50.915 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 12:46:53.108 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 12:51:47.422 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 12:52:22.396 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:241618)
+    at get dimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:46520)
+    at get dimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:254613)
+    at dv._updatePtyDimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:3213)
+    at hct._resizeBothCallback (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:37057)
+    at hct.resize (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:18381)
+    at dv._resize (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:3156)
+    at dv.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:7109)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:28709)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E._deliverQueue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3155)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3490)
+    at H9t.triggerConfigurationChange (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5026:61804)
+    at H9t.onDefaultConfigurationChanged (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5026:52597)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5026:39332)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E._deliverQueue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3155)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3490)
+    at a.onDidUpdateConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5025:2736)
+    at a.onDidUpdateConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5026:14377)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5025:2450)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E._deliverQueue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3155)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3490)
+    at fei.updateConfigurations (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:70970)
+    at jgi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:990:1465)
+    at bbe._updateConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4082:15475)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4082:14961)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3385)
+    at xXt._fn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1005:36959)
+    at xXt.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1319)
+    at Be (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:747)
+    at _I.clear (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1634)
+    at _I.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1544)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:30290)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E._deliverQueue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3155)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3490)
+    at dv.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:5705)
+    at xXt._fn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:993:607)
+    at xXt.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1319)
+    at Be (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:747)
+    at a.clear (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1634)
+    at a.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:1544)
+    at xf.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:2429)
+    at xf.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:932:92817)
+    at Wb.handleOnDidCloseEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:24608)
+    at Wb.onDidGroupModelChange (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:23989)
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:23415)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E._deliverQueue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3155)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3490)
+    at mA.closeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:973:10355)
+    at Wb.doCloseActiveEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:34404)
+    at Wb.doCloseAllEditors (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:37932)
+    at Wb.closeAllEditors (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:37547)
+    at Jpe.doClose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:102065)
+    at Jpe.close (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:102000)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:99809
+    at YSe.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:11393)
+    at E._deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3066)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:405:3385)
+    at vSe.handleUnload (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:91524)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:90458
+2026-04-19 12:52:36.563 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 13:47:14.422 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 14:37:51.290 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 14:39:41.185 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 14:39:55.555 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:241618)
+    at _.scrollLines (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:198460)
+    at F.scrollLines (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:61296)
+    at F.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:61568)
+    at p.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:256061)
+    at QM.scrollToBottom (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3729:7085)
+    at dv.sendText (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:6396)
+    at async dv.runCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3870:860)
+2026-04-19 14:41:22.738 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-04-19 14:41:25.367 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 14:42:56.038 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true

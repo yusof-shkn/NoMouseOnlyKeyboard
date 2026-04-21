@@ -1,0 +1,248 @@
+2026-04-19 12:51:47.508 [info] getInterpreterDetails: resource='/home/yusof_0090/Projects/sawda_backend' executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:51:47.508 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='${workspaceFolder}/.venv/bin/python', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/yusof_0090/Projects/sawda_backend'resolvedInterpreterPath='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:51:47.520 [info] Resolving launch configuration with substituted variables
+2026-04-19 12:51:47.534 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 12:51:47.535 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:51:47.535 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 12:51:47.535 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:51:47.535 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 12:51:47.681 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:51:47.683 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:51:47.684 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:51:53.603 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:51:54.084 [info] Resolving attach configuration with substituted variables
+2026-04-19 12:51:54.084 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 12:51:54.093 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 504391'
+2026-04-19 12:51:54.093 [info] Connecting to DAP Server at:  127.0.0.1:34419
+2026-04-19 12:51:54.104 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:51:54.414 [info] Resolving attach configuration with substituted variables
+2026-04-19 12:51:54.414 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 12:51:54.418 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 504390'
+2026-04-19 12:51:54.418 [info] Connecting to DAP Server at:  127.0.0.1:34419
+2026-04-19 12:51:54.421 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:25.423 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:25.429 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:36.661 [info] getInterpreterDetails: resource='/home/yusof_0090/Projects/sawda_backend' executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:52:36.661 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='${workspaceFolder}/.venv/bin/python', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/yusof_0090/Projects/sawda_backend'resolvedInterpreterPath='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:52:36.676 [info] Resolving launch configuration with substituted variables
+2026-04-19 12:52:36.703 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 12:52:36.703 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:52:36.703 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 12:52:36.704 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 12:52:36.704 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 12:52:36.795 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:36.796 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:36.797 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:37.492 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:37.950 [info] Resolving attach configuration with substituted variables
+2026-04-19 12:52:37.950 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 12:52:37.953 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 506255'
+2026-04-19 12:52:37.953 [info] Connecting to DAP Server at:  127.0.0.1:43625
+2026-04-19 12:52:37.956 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 12:52:38.266 [info] Resolving attach configuration with substituted variables
+2026-04-19 12:52:38.266 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 12:52:38.269 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 506254'
+2026-04-19 12:52:38.269 [info] Connecting to DAP Server at:  127.0.0.1:43625
+2026-04-19 12:52:38.272 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:06.905 [info] Resolving attach configuration with substituted variables
+2026-04-19 13:47:06.905 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 13:47:06.911 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 600459'
+2026-04-19 13:47:06.911 [info] Connecting to DAP Server at:  127.0.0.1:43625
+2026-04-19 13:47:06.915 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:14.492 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:14.495 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:14.795 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 13:47:14.795 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 13:47:14.796 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 13:47:14.796 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 13:47:14.796 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 13:47:14.896 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:14.897 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:14.897 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:15.669 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:16.143 [info] Resolving attach configuration with substituted variables
+2026-04-19 13:47:16.143 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 13:47:16.150 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 601268'
+2026-04-19 13:47:16.150 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 13:47:16.158 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:47:16.467 [info] Resolving attach configuration with substituted variables
+2026-04-19 13:47:16.467 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 13:47:16.470 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 601267'
+2026-04-19 13:47:16.470 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 13:47:16.473 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 13:53:32.365 [info] Resolving attach configuration with substituted variables
+2026-04-19 13:53:32.365 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 13:53:32.368 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 611727'
+2026-04-19 13:53:32.368 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 13:53:32.373 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:31:58.408 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:31:58.408 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:31:58.410 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 676632'
+2026-04-19 14:31:58.410 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 14:31:58.413 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:06.335 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:37:06.335 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:37:06.341 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 685434'
+2026-04-19 14:37:06.341 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 14:37:06.359 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:39.845 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:37:39.845 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:37:39.851 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 686671'
+2026-04-19 14:37:39.851 [info] Connecting to DAP Server at:  127.0.0.1:54787
+2026-04-19 14:37:39.860 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:51.361 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:51.363 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:51.664 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 14:37:51.664 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:37:51.665 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 14:37:51.665 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:37:51.665 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 14:37:51.767 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:51.768 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:51.768 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:52.639 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:53.126 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:37:53.126 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:37:53.132 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 687611'
+2026-04-19 14:37:53.132 [info] Connecting to DAP Server at:  127.0.0.1:50333
+2026-04-19 14:37:53.136 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:37:53.527 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:37:53.527 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:37:53.531 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 687610'
+2026-04-19 14:37:53.531 [info] Connecting to DAP Server at:  127.0.0.1:50333
+2026-04-19 14:37:53.534 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:38:26.440 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:38:26.447 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:22.798 [info] getInterpreterDetails: resource='/home/yusof_0090/Projects/sawda_backend' executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:41:22.798 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='${workspaceFolder}/.venv/bin/python', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/yusof_0090/Projects/sawda_backend'resolvedInterpreterPath='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:41:22.805 [info] Resolving launch configuration with substituted variables
+2026-04-19 14:41:22.809 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 14:41:22.809 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:41:22.810 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 14:41:22.810 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:41:22.810 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 14:41:22.904 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:22.905 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:22.905 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:23.608 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:24.138 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:41:24.138 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:41:24.150 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 694812'
+2026-04-19 14:41:24.150 [info] Connecting to DAP Server at:  127.0.0.1:52995
+2026-04-19 14:41:24.157 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:41:24.483 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:41:24.484 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:41:24.486 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 694811'
+2026-04-19 14:41:24.486 [info] Connecting to DAP Server at:  127.0.0.1:52995
+2026-04-19 14:41:24.489 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:30.323 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:30.329 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:56.139 [info] getInterpreterDetails: resource='/home/yusof_0090/Projects/sawda_backend' executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:42:56.139 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='${workspaceFolder}/.venv/bin/python', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/yusof_0090/Projects/sawda_backend'resolvedInterpreterPath='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:42:56.147 [info] Resolving launch configuration with substituted variables
+2026-04-19 14:42:56.152 [info] createDebugAdapterDescriptor: request='launch' name='Sawda: Run (uvicorn --reload)'
+2026-04-19 14:42:56.152 [info] resolveEnvironment: new API resolving from string='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:42:56.152 [info] getExecutableCommand: executable='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python' version='3.14.4'
+2026-04-19 14:42:56.152 [info] createDebugAdapterDescriptor: python command parts='/home/yusof_0090/Projects/sawda_backend/.venv/bin/python'
+2026-04-19 14:42:56.152 [info] DAP Server launched with command: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python /home/yusof_0090/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter
+2026-04-19 14:42:56.248 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:56.250 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:56.250 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:56.897 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:57.389 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:42:57.389 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:42:57.396 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 698193'
+2026-04-19 14:42:57.396 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 14:42:57.408 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 14:42:57.729 [info] Resolving attach configuration with substituted variables
+2026-04-19 14:42:57.729 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 14:42:57.739 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 698194'
+2026-04-19 14:42:57.739 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 14:42:57.745 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:49:44.018 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:49:44.018 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:49:44.020 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 905448'
+2026-04-19 16:49:44.020 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:49:44.024 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:49:52.346 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:49:52.346 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:49:52.349 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 905750'
+2026-04-19 16:49:52.349 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:49:52.354 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:49:58.324 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:49:58.324 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:49:58.328 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 906019'
+2026-04-19 16:49:58.328 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:49:58.332 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:50:12.985 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:50:12.985 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:50:12.988 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 906417'
+2026-04-19 16:50:12.989 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:50:12.996 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:50:47.748 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:50:47.748 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:50:47.753 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 907466'
+2026-04-19 16:50:47.753 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:50:47.759 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:00.730 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:00.730 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:00.733 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 907798'
+2026-04-19 16:51:00.733 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:00.735 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:14.153 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:14.153 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:14.157 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 908192'
+2026-04-19 16:51:14.157 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:14.161 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:31.635 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:31.635 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:31.639 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 908742'
+2026-04-19 16:51:31.639 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:31.645 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:39.897 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:39.897 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:39.899 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 909072'
+2026-04-19 16:51:39.899 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:39.902 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:50.576 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:50.576 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:50.578 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 909400'
+2026-04-19 16:51:50.578 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:50.582 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:51:56.693 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:51:56.694 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:51:56.698 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 909627'
+2026-04-19 16:51:56.698 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:51:56.702 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:52:05.513 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:52:05.513 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:52:05.518 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 909808'
+2026-04-19 16:52:05.518 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:52:05.532 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:52:16.912 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:52:16.912 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:52:16.914 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 910286'
+2026-04-19 16:52:16.914 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:52:16.918 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:52:27.116 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:52:27.116 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:52:27.121 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 910636'
+2026-04-19 16:52:27.121 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:52:27.125 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:52:41.485 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:52:41.485 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:52:41.487 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 911035'
+2026-04-19 16:52:41.487 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:52:41.491 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:52:59.286 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:52:59.286 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:52:59.289 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 911618'
+2026-04-19 16:52:59.289 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:52:59.291 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 16:53:10.734 [info] Resolving attach configuration with substituted variables
+2026-04-19 16:53:10.734 [info] Using the only workspaceFolder found:  /home/yusof_0090/Projects/sawda_backend
+2026-04-19 16:53:10.737 [info] createDebugAdapterDescriptor: request='attach' name='Subprocess 911953'
+2026-04-19 16:53:10.737 [info] Connecting to DAP Server at:  127.0.0.1:55251
+2026-04-19 16:53:10.740 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 17:22:26.539 [info] Received 'debugpySockets' event from debugpy.
+2026-04-19 17:22:26.544 [info] Received 'debugpySockets' event from debugpy.

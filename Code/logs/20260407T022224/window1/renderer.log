@@ -1,0 +1,62 @@
+2026-04-07 02:22:26.590 [info] Started local extension host with pid 11276.
+2026-04-07 02:22:28.342 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-04-07 02:22:29.736 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-07 02:22:31.108 [info] [perf] Render performance baseline is 32ms
+2026-04-07 02:22:32.984 [error] [Extension Host] (node:11276) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-07 02:22:32.986 [error] [Extension Host] (node:11276) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-07 13:25:38.914 [warning] [LM] Failed to request chat control data Offline
+2026-04-07 13:32:41.600 [warning] [LM] Failed to request chat control data Offline
+2026-04-07 21:30:15.686 [warning] [LM] Failed to request chat control data Offline
+2026-04-07 21:32:03.827 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:03.834 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:03.838 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:03.843 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:36.700 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:36.704 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:36.708 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-07 21:32:36.712 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-08 13:56:33.424 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-08 13:56:45.872 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+    at async pc.doRun (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:96206)
+2026-04-09 10:51:42.964 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-09 10:51:42.971 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-09 10:51:42.977 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-09 10:51:42.984 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/v2/token
+2026-04-09 11:50:53.213 [info] Auto updating outdated extensions. editorconfig.editorconfig, github.copilot-chat
+2026-04-09 11:50:58.062 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+2026-04-09 12:11:08.189 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-09 12:11:13.591 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+2026-04-09 13:11:11.563 [error] TypeError: Failed to fetch
+    at XPo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5032:50482)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5032:51778
+    at upt.logAndRequest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10291)
+    at upt.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5032:51758)
+    at jqe.doFetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7550)
+    at jqe.fetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7443)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7334
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:80448
+2026-04-09 13:11:16.540 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-04-09 13:16:35.355 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-04-09 13:31:43.462 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-09 13:31:50.228 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+2026-04-09 15:10:07.568 [error] Offline: Offline
+    at XPo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5032:50631)
+    at async upt.logAndRequest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10285)
+    at async jqe.doFetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7524)
+    at async jqe.fetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7432)
+2026-04-09 15:10:32.271 [warning] [LM] Failed to request chat control data Offline
+2026-04-09 16:10:11.651 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-09 16:10:14.742 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+2026-04-09 21:11:33.137 [error] Error: Fetch timeout: 20000ms
+    at XPo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5032:50692)
+    at async upt.logAndRequest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:935:10285)
+    at async jqe.doFetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7524)
+    at async jqe.fetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5390:7432)
+2026-04-10 09:34:44.032 [warning] [LM] Failed to request chat control data Failed to fetch
+2026-04-10 09:40:04.062 [warning] [LM] Failed to request chat control data Failed to fetch

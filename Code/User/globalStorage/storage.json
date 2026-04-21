@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/yusof_0090/.config/hypr"
+                "folderUri": "file:///home/yusof_0090/Projects/sawda_backend"
             }
         ],
         "emptyWindows": []
@@ -22,54 +22,56 @@
             "file:///home/yusof_0090/Projects": "__default__profile__",
             "file:///home/yusof_0090/Projects/sawda_backend": "-744039c3",
             "file:///home/yusof_0090/.config/hypr/configs": "-5c992e2",
-            "file:///home/yusof_0090/.config/hypr": "-5c992e2",
             "file:///home/yusof_0090/BlazinLock/hyprlock": "-5c992e2",
             "file:///home/yusof_0090/.mydotfiles/com.ml4w.dotfiles.stable/.config/hypr": "-5c992e2",
             "file:///home/yusof_0090/Projects/pharmacy_management/Python": "-5c992e2",
             "file:///home/yusof_0090/Projects/pharmacy_management": "-5c992e2",
-            "file:///home/yusof_0090/Projects/insurance-proj": "-5c992e2"
+            "file:///home/yusof_0090/Projects/insurance-proj": "-5c992e2",
+            "file:///home/yusof_0090/.config/hypr": "-5c992e2",
+            "file:///home/yusof_0090/Projects/backend_insurance/medideliver-backend": "-5c992e2",
+            "file:///home/yusof_0090/Projects/portfolio": "-5c992e2"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/yusof_0090/.config/hypr",
-            "backupPath": "/home/yusof_0090/.config/Code/Backups/89947ef5bee5b070168a9b59ba254397",
+            "folder": "file:///home/yusof_0090/Projects/sawda_backend",
+            "backupPath": "/home/yusof_0090/.config/Code/Backups/86d2dd74b89026c5e0c7372446917038",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 955,
-                "height": 1018
+                "width": 956,
+                "height": 1020
             }
         },
         "openedWindows": []
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#121314",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "titleBarBorder": "#2b2b2b",
-            "activityBarBackground": "#181818",
-            "activityBarBorder": "#2b2b2b",
-            "sideBarBackground": "#181818",
-            "sideBarBorder": "#2b2b2b",
-            "statusBarBackground": "#181818",
-            "statusBarBorder": "#2b2b2b",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 298,
+            "sideBarWidth": 229,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -77,7 +79,7 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 298,
+            "sideBarWidth": 229,
             "auxiliaryBarWidth": 212,
             "workspaces": {
                 "08dfcab2cc0659aa248322c9bd3c0593": {
@@ -128,11 +130,19 @@
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 },
+                "71047dedc6999e4b375002b3b3d983f9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
                 "4b0526516e2f9adedbc41ff8651977f0": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 },
-                "71047dedc6999e4b375002b3b3d983f9": {
+                "d0c7c368f68d763bf7b4d275e3ecc4f9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "acf3bebc54f7705e855a6036286d7fdd": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 },

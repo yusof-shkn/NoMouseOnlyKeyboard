@@ -1,0 +1,111 @@
+2026-04-11 10:07:32.897 [info] Extension host with pid 95308 started
+2026-04-11 10:07:32.897 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/4b0526516e2f9adedbc41ff8651977f0.
+2026-04-11 10:07:33.328 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-11 10:07:33.358 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-11 10:07:33.376 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-11 10:07:33.433 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-11 10:07:33.898 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-11 10:07:33.902 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-04-11 10:07:33.909 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-04-11 10:07:34.641 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-11 10:07:34.730 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-11 10:07:34.905 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md', root cause: charliermarsh.ruff
+2026-04-11 10:07:36.071 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md'
+2026-04-11 10:07:36.473 [info] Eager extensions activated
+2026-04-11 10:07:36.570 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.573 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.609 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.635 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.705 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.771 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:36.772 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:38.689 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:38.868 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 10:07:39.340 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-11 10:07:39.353 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-11 10:07:39.505 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-11 10:07:39.723 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-11 10:07:40.550 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-04-11 10:07:41.655 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-11 15:25:06.015 [info] Extension host terminating: received terminate message from renderer
+2026-04-11 15:25:06.084 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new zI (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:148505)
+	at r._remoteCall (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154557)
+	at i.<computed>.s.charCodeAt.i.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151352)
+	at ng.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:498:79598)
+	at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:631:26898)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:995:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5) 
+2026-04-11 15:25:06.120 [error] Error: Channel has been closed
+	at i (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:3935)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:4305)
+	at WT.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:14:709)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:19:48759)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-04-11 15:25:06.122 [info] Extension host with pid 95308 exiting with code 0
+2026-04-11 15:25:07.286 [info] Extension host with pid 173349 started
+2026-04-11 15:25:07.286 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/acf3bebc54f7705e855a6036286d7fdd.
+2026-04-11 15:25:07.576 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-11 15:25:07.608 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-11 15:25:07.628 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-11 15:25:07.645 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-11 15:25:07.726 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:markdown', root cause: charliermarsh.ruff
+2026-04-11 15:25:07.920 [info] ExtensionService#_doActivateExtension humao.rest-client, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-11 15:25:08.509 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-11 15:25:08.511 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-04-11 15:25:08.628 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-04-11 15:25:08.688 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-04-11 15:25:08.703 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-11 15:25:08.752 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-11 15:25:08.983 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-11 15:25:09.056 [info] Eager extensions activated
+2026-04-11 15:25:09.096 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.099 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.124 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.146 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.181 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.203 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:09.203 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:10.177 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:10.298 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 15:25:10.499 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-11 15:25:10.670 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-11 15:25:11.279 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-04-11 15:25:13.885 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-11 15:25:13.889 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-04-11 17:01:42.890 [info] Extension host terminating: received terminate message from renderer
+2026-04-11 17:01:43.138 [info] Extension host with pid 173349 exiting with code 0
+2026-04-11 17:01:49.442 [info] Extension host with pid 218632 started
+2026-04-11 17:01:49.442 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/4b0526516e2f9adedbc41ff8651977f0.
+2026-04-11 17:01:49.662 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-11 17:01:49.689 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-11 17:01:49.704 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-11 17:01:49.763 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-11 17:01:50.044 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-11 17:01:50.048 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-04-11 17:01:50.057 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-04-11 17:01:50.497 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-11 17:01:50.585 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-11 17:01:50.590 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md', root cause: charliermarsh.ruff
+2026-04-11 17:01:51.444 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md'
+2026-04-11 17:01:51.579 [info] Eager extensions activated
+2026-04-11 17:01:51.627 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.630 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.660 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.690 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.753 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.784 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:51.784 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:53.444 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:53.635 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-11 17:01:54.061 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-11 17:01:54.385 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-11 17:01:55.254 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-04-11 17:01:56.767 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-11 17:01:56.778 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-11 17:01:56.794 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-04-13 17:38:23.704 [info] Extension host terminating: renderer closed the MessagePort

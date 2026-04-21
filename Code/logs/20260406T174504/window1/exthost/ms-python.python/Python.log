@@ -1,0 +1,8 @@
+2026-04-06 17:45:12.456 [info] Native locator: Refresh started
+2026-04-06 17:45:12.456 [info] Native locator: Refresh finished in 802 ms
+2026-04-06 17:45:12.685 [info] Native locator: Refresh started
+2026-04-06 17:45:13.012 [info] Python interpreter path: /usr/bin/python
+2026-04-06 17:45:13.101 [info] Native locator: Refresh finished in 418 ms
+2026-04-06 17:45:13.250 [info] > pyenv which python
+2026-04-06 17:45:13.251 [info] cwd: .
+2026-04-06 17:45:19.512 [info] Starting Jedi language server for insurance-proj.

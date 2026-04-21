@@ -1,0 +1,2 @@
+2026-04-20 15:29:09.050 [warning] Couldn't attach to process Could not find pty 13 on pty host []
+2026-04-20 15:29:09.050 [warning] Attach to process failed for terminal [{"id":13,"pid":570101,"title":"zsh","titleSource":2,"cwd":"","icon":{"id":"terminal","defaults":{"fontCharacter":"\\ea85"}},"hasChildProcesses":false,"shellIntegrationNonce":"f600f914-fc93-4f9b-ad2f-5eac75b3741b","findRevivedId":true}]

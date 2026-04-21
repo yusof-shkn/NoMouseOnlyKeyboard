@@ -1,6 +1,0 @@
-2026-03-23 10:59:27.932 [error] #116: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
-2026-03-25 13:42:46.204 [error] #453: https://api.github.com/copilot_internal/v2/token - error GET Offline
-2026-03-25 13:42:46.218 [error] #454: https://api.github.com/copilot_internal/v2/token - error GET Offline
-2026-03-25 13:42:46.223 [error] #455: https://api.github.com/copilot_internal/v2/token - error GET Offline
-2026-03-25 13:42:46.228 [error] #456: https://api.github.com/copilot_internal/v2/token - error GET Offline
-2026-03-25 16:11:51.920 [error] #493: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline

@@ -1,0 +1,4 @@
+2026-04-18 12:24:49.112 [info] update#setState idle
+2026-04-18 12:25:19.115 [info] update#setState checking for updates
+2026-04-18 12:25:19.470 [info] update#setState available for download
+2026-04-18 18:40:27.695 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

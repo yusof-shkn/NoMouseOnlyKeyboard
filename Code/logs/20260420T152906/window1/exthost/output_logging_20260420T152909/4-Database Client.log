@@ -1,0 +1,20 @@
+2026-04-20 15:29:15 [DEBUG] Resource server started on port 8828
+2026-04-20 21:23:29 [DEBUG] Creating PostgreSQL connection for 1776709409455/postgres
+2026-04-20 21:23:32 [DEBUG] Creating PostgreSQL connection for 1776709409455/postgres_tree
+2026-04-20 21:23:34 [DEBUG] Start load foreignKey meta data...
+2026-04-20 21:23:34 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda_meta
+2026-04-20 21:23:34 [DEBUG] Load foreignKey meta data success! cost: 13ms
+2026-04-20 21:23:34 [DEBUG] Closing connection 1776709409455/sawda_meta
+2026-04-20 21:23:34 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda_tree
+2026-04-20 21:23:43 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda
+2026-04-20 23:59:10 [DEBUG] Connection 1776709409455/postgres idle for 9337s, closing...
+2026-04-20 23:59:10 [DEBUG] Connection 1776709409455/postgres_tree idle for 9337s, closing...
+2026-04-20 23:59:10 [DEBUG] Closing connection 1776709409455/postgres
+2026-04-20 23:59:10 [DEBUG] Closing connection 1776709409455/postgres_tree
+2026-04-21 00:10:54 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda
+2026-04-21 00:10:54 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda_tree
+2026-04-21 00:11:26 [DEBUG] Creating PostgreSQL connection for 1776709409455/postgres
+2026-04-21 10:25:49 [DEBUG] Connection 1776709409455/postgres idle for 36862s, closing...
+2026-04-21 10:25:49 [DEBUG] Closing connection 1776709409455/postgres
+2026-04-21 18:09:54 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda
+2026-04-21 18:09:54 [DEBUG] Creating PostgreSQL connection for 1776709409455/sawda_tree

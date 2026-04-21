@@ -1,0 +1,162 @@
+2026-04-14 23:37:51.434 [error] #276: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.437 [error] #277: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.440 [error] #278: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.442 [error] #279: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.445 [error] #280: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.447 [error] #281: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.448 [error] #282: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.449 [error] #283: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.450 [error] #284: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.451 [error] #285: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.451 [error] #286: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.452 [error] #287: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.453 [error] #288: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.453 [error] #289: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.454 [error] #290: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.454 [error] #291: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.455 [error] #292: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.455 [error] #293: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.456 [error] #294: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.456 [error] #295: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.457 [error] #296: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.457 [error] #297: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.458 [error] #298: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.458 [error] #299: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.459 [error] #300: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Fetch timeout: 60000ms
+2026-04-14 23:37:51.460 [error] #301: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Fetch timeout: 60000ms
+2026-04-15 20:48:52.828 [error] #405: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Offline
+2026-04-15 20:48:52.842 [error] #406: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Offline
+2026-04-15 20:48:52.848 [error] #407: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Offline
+2026-04-15 20:48:52.871 [error] #408: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Offline
+2026-04-15 20:48:52.871 [error] #409: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Offline
+2026-04-15 20:48:52.878 [error] #410: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Offline
+2026-04-15 20:48:52.883 [error] #411: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Offline
+2026-04-15 20:48:52.886 [error] #412: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Offline
+2026-04-15 20:48:52.889 [error] #413: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Offline
+2026-04-15 20:48:52.891 [error] #414: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Offline
+2026-04-15 20:48:52.894 [error] #415: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Offline
+2026-04-15 20:48:52.896 [error] #416: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Offline
+2026-04-15 20:48:52.898 [error] #417: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Offline
+2026-04-15 20:48:52.901 [error] #418: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Offline
+2026-04-15 20:48:52.903 [error] #419: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Offline
+2026-04-15 20:48:52.905 [error] #420: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2026-04-15 20:48:52.906 [error] #421: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Offline
+2026-04-15 20:48:52.910 [error] #422: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Offline
+2026-04-15 20:48:52.912 [error] #423: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Offline
+2026-04-15 20:48:52.914 [error] #424: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Offline
+2026-04-15 20:48:52.915 [error] #425: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2026-04-15 20:48:52.916 [error] #426: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Offline
+2026-04-15 20:48:52.917 [error] #427: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Offline
+2026-04-15 20:48:52.918 [error] #428: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Offline
+2026-04-15 20:48:52.919 [error] #429: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Offline
+2026-04-15 20:48:52.921 [error] #430: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Offline
+2026-04-15 20:48:55.702 [error] #431: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2026-04-17 09:51:39.618 [error] #491: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2026-04-17 09:53:38.984 [error] #492: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Offline
+2026-04-17 09:53:38.988 [error] #493: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Offline
+2026-04-17 09:53:38.993 [error] #494: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Offline
+2026-04-17 09:53:38.995 [error] #495: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Offline
+2026-04-17 09:53:38.995 [error] #496: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Offline
+2026-04-17 09:53:38.995 [error] #497: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Offline
+2026-04-17 09:53:38.996 [error] #498: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Offline
+2026-04-17 09:53:38.996 [error] #499: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Offline
+2026-04-17 09:53:38.997 [error] #500: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Offline
+2026-04-17 09:53:38.998 [error] #501: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Offline
+2026-04-17 09:53:38.999 [error] #502: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Offline
+2026-04-17 09:53:39.000 [error] #503: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Offline
+2026-04-17 09:53:39.000 [error] #504: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Offline
+2026-04-17 09:53:39.001 [error] #505: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Offline
+2026-04-17 09:53:39.002 [error] #506: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Offline
+2026-04-17 09:53:39.003 [error] #507: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2026-04-17 09:53:39.004 [error] #508: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Offline
+2026-04-17 09:53:39.005 [error] #509: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Offline
+2026-04-17 09:53:39.006 [error] #510: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Offline
+2026-04-17 09:53:39.007 [error] #511: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Offline
+2026-04-17 09:53:39.008 [error] #512: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2026-04-17 09:53:39.009 [error] #513: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Offline
+2026-04-17 09:53:39.010 [error] #514: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Offline
+2026-04-17 09:53:39.011 [error] #515: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Offline
+2026-04-17 09:53:39.013 [error] #516: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Offline
+2026-04-17 09:53:39.013 [error] #517: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Offline
+2026-04-17 09:54:09.373 [error] #518: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Offline
+2026-04-17 09:54:09.377 [error] #519: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Offline
+2026-04-17 09:54:09.378 [error] #520: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Offline
+2026-04-17 09:54:09.378 [error] #521: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Offline
+2026-04-17 09:54:09.379 [error] #522: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Offline
+2026-04-17 09:54:09.379 [error] #523: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Offline
+2026-04-17 09:54:09.379 [error] #524: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Offline
+2026-04-17 09:54:09.379 [error] #525: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Offline
+2026-04-17 09:54:09.382 [error] #526: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Offline
+2026-04-17 09:54:09.383 [error] #527: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Offline
+2026-04-17 09:54:09.383 [error] #528: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Offline
+2026-04-17 09:54:09.383 [error] #529: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Offline
+2026-04-17 09:54:09.384 [error] #530: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Offline
+2026-04-17 09:54:09.384 [error] #531: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Offline
+2026-04-17 09:54:09.390 [error] #532: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Offline
+2026-04-17 09:54:09.391 [error] #533: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2026-04-17 09:54:09.392 [error] #534: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Offline
+2026-04-17 09:54:09.392 [error] #535: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Offline
+2026-04-17 09:54:09.392 [error] #536: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Offline
+2026-04-17 09:54:09.393 [error] #537: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Offline
+2026-04-17 09:54:09.393 [error] #538: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2026-04-17 09:54:09.393 [error] #539: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Offline
+2026-04-17 09:54:09.393 [error] #540: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Offline
+2026-04-17 09:54:09.393 [error] #541: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Offline
+2026-04-17 09:54:09.394 [error] #542: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Offline
+2026-04-17 09:54:09.394 [error] #543: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Offline
+2026-04-17 09:55:10.295 [error] #544: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Offline
+2026-04-17 09:55:10.299 [error] #545: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Offline
+2026-04-17 09:55:10.299 [error] #546: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Offline
+2026-04-17 09:55:10.299 [error] #547: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Offline
+2026-04-17 09:55:10.299 [error] #548: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Offline
+2026-04-17 09:55:10.300 [error] #549: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Offline
+2026-04-17 09:55:10.301 [error] #550: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Offline
+2026-04-17 09:55:10.301 [error] #551: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Offline
+2026-04-17 09:55:10.306 [error] #552: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Offline
+2026-04-17 09:55:10.307 [error] #553: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Offline
+2026-04-17 09:55:10.307 [error] #554: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Offline
+2026-04-17 09:55:10.307 [error] #555: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Offline
+2026-04-17 09:55:10.308 [error] #556: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Offline
+2026-04-17 09:55:10.308 [error] #557: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Offline
+2026-04-17 09:55:10.308 [error] #558: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Offline
+2026-04-17 09:55:10.310 [error] #559: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2026-04-17 09:55:10.311 [error] #560: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Offline
+2026-04-17 09:55:10.311 [error] #561: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Offline
+2026-04-17 09:55:10.317 [error] #563: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Offline
+2026-04-17 09:55:10.317 [error] #562: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Offline
+2026-04-17 09:55:10.317 [error] #564: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2026-04-17 09:55:10.318 [error] #569: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Offline
+2026-04-17 09:55:10.322 [error] #565: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Offline
+2026-04-17 09:55:10.323 [error] #568: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Offline
+2026-04-17 09:55:10.334 [error] #567: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Offline
+2026-04-17 09:55:10.335 [error] #566: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Offline
+2026-04-17 09:56:41.729 [error] #570: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2026-04-17 10:01:42.480 [error] #571: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2026-04-17 10:06:42.487 [error] #572: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2026-04-17 10:07:19.114 [error] #573: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Offline
+2026-04-17 10:07:19.122 [error] #574: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/burkeholland/simple-react-snippets/latest - error GET Offline
+2026-04-17 10:07:19.122 [error] #575: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/charliermarsh/ruff/latest - error GET Offline
+2026-04-17 10:07:19.122 [error] #576: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/christian-kohler/npm-intellisense/latest - error GET Offline
+2026-04-17 10:07:19.122 [error] #577: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/dbaeumer/vscode-eslint/latest - error GET Offline
+2026-04-17 10:07:19.123 [error] #578: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/discountry/react-redux-react-router-snippets/latest - error GET Offline
+2026-04-17 10:07:19.123 [error] #579: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/editorconfig/editorconfig/latest - error GET Offline
+2026-04-17 10:07:19.125 [error] #580: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Offline
+2026-04-17 10:07:19.125 [error] #591: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET Offline
+2026-04-17 10:07:19.126 [error] #589: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Offline
+2026-04-17 10:07:19.126 [error] #592: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/orta/vscode-jest/latest - error GET Offline
+2026-04-17 10:07:19.126 [error] #593: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2026-04-17 10:07:19.133 [error] #594: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/redhat/vscode-yaml/latest - error GET Offline
+2026-04-17 10:07:19.133 [error] #595: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/runningcoder/react-snippets/latest - error GET Offline
+2026-04-17 10:07:19.134 [error] #596: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/tyriar/luna-paint/latest - error GET Offline
+2026-04-17 10:07:19.134 [error] #581: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Offline
+2026-04-17 10:07:19.142 [error] #597: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xabikos/javascriptsnippets/latest - error GET Offline
+2026-04-17 10:07:19.144 [error] #598: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/xshrim/txt-syntax/latest - error GET Offline
+2026-04-17 10:07:19.150 [error] #582: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET Offline
+2026-04-17 10:07:20.582 [error] #583: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/heberalmeida/php-snippets/latest - error GET Offline
+2026-04-17 10:07:20.582 [error] #584: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/humao/rest-client/latest - error GET Offline
+2026-04-17 10:07:20.635 [error] #585: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/infeng/vscode-react-typescript/latest - error GET Offline
+2026-04-17 10:07:20.636 [error] #586: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mikestead/dotenv/latest - error GET Offline
+2026-04-17 10:07:20.639 [error] #587: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-docker/latest - error GET Offline
+2026-04-17 10:07:20.643 [error] #588: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2026-04-17 10:07:20.645 [error] #590: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET Offline
+2026-04-17 16:15:31.492 [error] #757: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch

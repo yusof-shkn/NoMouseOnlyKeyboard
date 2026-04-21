@@ -1,0 +1,451 @@
+Debug: Getting roots
+Debug: Getting roots
+Debug: Found roots
+Debug: Start watching file for changes /home/yusof_0090/.conda/environments.txt
+Debug: Start watching: /home/yusof_0090/.conda with pattern environments.txt using VSCode API
+Debug: Searching for conda.
+Debug: Probing conda binary: conda
+Debug: Found roots
+Debug: Start watching root /home/yusof_0090/Projects/sawda_backend for globs ["python","*/python","*/bin/python"]
+Debug: Start watching: /home/yusof_0090/Projects/sawda_backend with pattern python using VSCode API
+Debug: Start watching: /home/yusof_0090/Projects/sawda_backend with pattern */python using VSCode API
+Debug: Start watching: /home/yusof_0090/Projects/sawda_backend with pattern */bin/python using VSCode API
+Debug: Dump environment variables {
+    "DATABASE_URL": "postgresql+asyncpg://yusof_0090:yourpassword@localhost:5432/sawda",
+    "JWT_SECRET": "476a4c589f7de7faab965566bff1f61f7deb8dc59f21f61d29d3ed5a92bf4d8f",
+    "JWT_ALGORITHM": "HS256",
+    "JWT_ACCESS_TOKEN_EXPIRE_MINUTES": "60",
+    "JWT_REFRESH_TOKEN_EXPIRE_DAYS": "7",
+    "GOOGLE_CLIENT_ID": "",
+    "GOOGLE_CLIENT_SECRET": "",
+    "FACEBOOK_CLIENT_ID": "",
+    "FACEBOOK_CLIENT_SECRET": "",
+    "APP_BASE_URL": "http://localhost:8000",
+    "BROWSER": "firefox",
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_BACKEND": "wayland",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "DESKTOP_SESSION": "hyprland",
+    "DISPLAY": ":1",
+    "EDITOR": "nano",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "ELECTRON_OZONE_PLATFORM_HINT": "wayland",
+    "FC_FONTATIONS": "1",
+    "GDK_BACKEND": "wayland",
+    "GDK_SCALE": "1",
+    "HG": "/usr/bin/hg",
+    "HL_INITIAL_WORKSPACE_TOKEN": "8909285e-a861-4b33-bac7-480499647dd6",
+    "HOME": "/home/yusof_0090",
+    "HYPRCURSOR_SIZE": "24",
+    "HYPRLAND_CMD": "Hyprland --watchdog-fd 4",
+    "HYPRLAND_INSTANCE_SIGNATURE": "521ece463c4a9d3d128670688a34756805a4328f_1776542223_991459728",
+    "LANG": "en_US.UTF-8",
+    "LC_ADDRESS": "lg_UG.UTF-8",
+    "LC_IDENTIFICATION": "lg_UG.UTF-8",
+    "LC_MEASUREMENT": "lg_UG.UTF-8",
+    "LC_MONETARY": "lg_UG.UTF-8",
+    "LC_NAME": "lg_UG.UTF-8",
+    "LC_NUMERIC": "lg_UG.UTF-8",
+    "LC_PAPER": "lg_UG.UTF-8",
+    "LC_TELEPHONE": "lg_UG.UTF-8",
+    "LC_TIME": "lg_UG.UTF-8",
+    "LOGNAME": "yusof_0090",
+    "MAIL": "/var/spool/mail/yusof_0090",
+    "MOTD_SHOWN": "pam",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "NO_AT_BRIDGE": "1",
+    "OLDPWD": "/home/yusof_0090",
+    "OZONE_PLATFORM": "wayland",
+    "PWD": "/home/yusof_0090",
+    "QT_AUTO_SCREEN_SCALE_FACTOR": "1",
+    "QT_QPA_PLATFORM": "wayland;xcb",
+    "QT_QPA_PLATFORMTHEME": "qt6ct",
+    "QT_WAYLAND_DISABLE_WINDOWDECORATION": "1",
+    "SDL_VIDEODRIVER": "wayland",
+    "SHELL": "/usr/bin/zsh",
+    "SHLVL": "1",
+    "USER": "yusof_0090",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/yusof_0090/.config/Code/CachedData/e7fb5e96c0730b9deb70b33781f98e2f35975036",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/yusof_0090",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-a892c609-1.11-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"en-us\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "4950",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "XCURSOR_SIZE": "24",
+    "XDG_BACKEND": "wayland",
+    "XDG_CURRENT_DESKTOP": "Hyprland",
+    "XDG_DATA_DIRS": "/home/yusof_0090/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "Hyprland",
+    "XDG_SESSION_ID": "2",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session1",
+    "XDG_SESSION_TYPE": "wayland",
+    "XDG_VTNR": "1",
+    "_": "/opt/visual-studio-code/bin/../code",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_STATSBEAT": "true",
+    "VSCODE_L10N_BUNDLE_LOCATION": "",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+}
+> conda info --json
+Debug: Failed to spawn conda binary conda Error: spawn conda ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn conda',
+  path: 'conda',
+  spawnargs: [ 'info', '--json' ]
+}
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+> poetry --version
+cwd: ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client
+Debug: Shell Exec: poetry --version with options: {
+    "cwd": "/home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client",
+    "throwOnStdErr": true,
+    "timeout": 50000,
+    "encoding": "utf8",
+    "env": {
+        "DATABASE_URL": "postgresql+asyncpg://yusof_0090:yourpassword@localhost:5432/sawda",
+        "JWT_SECRET": "476a4c589f7de7faab965566bff1f61f7deb8dc59f21f61d29d3ed5a92bf4d8f",
+        "JWT_ALGORITHM": "HS256",
+        "JWT_ACCESS_TOKEN_EXPIRE_MINUTES": "60",
+        "JWT_REFRESH_TOKEN_EXPIRE_DAYS": "7",
+        "GOOGLE_CLIENT_ID": "",
+        "GOOGLE_CLIENT_SECRET": "",
+        "FACEBOOK_CLIENT_ID": "",
+        "FACEBOOK_CLIENT_SECRET": "",
+        "APP_BASE_URL": "http://localhost:8000",
+        "BROWSER": "firefox",
+        "CHROME_DESKTOP": "code.desktop",
+        "CLUTTER_BACKEND": "wayland",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DESKTOP_SESSION": "hyprland",
+        "DISPLAY": ":1",
+        "EDITOR": "nano",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "ELECTRON_OZONE_PLATFORM_HINT": "wayland",
+        "FC_FONTATIONS": "1",
+        "GDK_BACKEND": "wayland",
+        "GDK_SCALE": "1",
+        "HG": "/usr/bin/hg",
+        "HL_INITIAL_WORKSPACE_TOKEN": "8909285e-a861-4b33-bac7-480499647dd6",
+        "HOME": "/home/yusof_0090",
+        "HYPRCURSOR_SIZE": "24",
+        "HYPRLAND_CMD": "Hyprland --watchdog-fd 4",
+        "HYPRLAND_INSTANCE_SIGNATURE": "521ece463c4a9d3d128670688a34756805a4328f_1776542223_991459728",
+        "LANG": "en_US.UTF-8",
+        "LC_ADDRESS": "lg_UG.UTF-8",
+        "LC_IDENTIFICATION": "lg_UG.UTF-8",
+        "LC_MEASUREMENT": "lg_UG.UTF-8",
+        "LC_MONETARY": "lg_UG.UTF-8",
+        "LC_NAME": "lg_UG.UTF-8",
+        "LC_NUMERIC": "lg_UG.UTF-8",
+        "LC_PAPER": "lg_UG.UTF-8",
+        "LC_TELEPHONE": "lg_UG.UTF-8",
+        "LC_TIME": "lg_UG.UTF-8",
+        "LOGNAME": "yusof_0090",
+        "MAIL": "/var/spool/mail/yusof_0090",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "OLDPWD": "/home/yusof_0090",
+        "OZONE_PLATFORM": "wayland",
+        "PWD": "/home/yusof_0090",
+        "QT_AUTO_SCREEN_SCALE_FACTOR": "1",
+        "QT_QPA_PLATFORM": "wayland;xcb",
+        "QT_QPA_PLATFORMTHEME": "qt6ct",
+        "QT_WAYLAND_DISABLE_WINDOWDECORATION": "1",
+        "SDL_VIDEODRIVER": "wayland",
+        "SHELL": "/usr/bin/zsh",
+        "SHLVL": "1",
+        "USER": "yusof_0090",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/yusof_0090/.config/Code/CachedData/e7fb5e96c0730b9deb70b33781f98e2f35975036",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/yusof_0090",
+        "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-a892c609-1.11-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"en-us\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+        "VSCODE_PID": "4950",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "24",
+        "XDG_BACKEND": "wayland",
+        "XDG_CURRENT_DESKTOP": "Hyprland",
+        "XDG_DATA_DIRS": "/home/yusof_0090/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "Hyprland",
+        "XDG_SESSION_ID": "2",
+        "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "1",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_STATSBEAT": "true",
+        "VSCODE_L10N_BUNDLE_LOCATION": "",
+        "PATH": "/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Shell path 'hidden', base path 'hidden'
+Debug: Shell path identified as shell 'other'
+Debug: Terminal name 'hidden' identified as shell 'other'
+Debug: [object Object]. Shell identified as other (Terminal name is hidden)
+Debug: Shell path '/usr/bin/zsh', base path '/usr/bin/zsh'
+Debug: Shell path identified as shell 'zsh'
+Debug: Terminal shell path '/usr/bin/zsh' identified as shell 'zsh'
+Debug: [object Object]. Shell identified as zsh (Terminal name is hidden)
+Debug: Shell identified as 'zsh'
+Error: Error: Command failed: poetry --version
+/bin/sh: line 1: poetry: command not found
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:418:12)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:519:28)
+    at Pipe.<anonymous> (node:net:346:12) {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'poetry --version'
+}
+Debug: Time taken to run poetry --version in ms 123
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client
+Debug: Couldn't locate the conda binary.
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+Debug: Cached data exists KeyPrefix=Cache_Method_Output_Poetry.getVersionCached-Args=
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client
+Debug: Dump environment variables {
+    "DATABASE_URL": "postgresql+asyncpg://yusof_0090:yourpassword@localhost:5432/sawda",
+    "JWT_SECRET": "476a4c589f7de7faab965566bff1f61f7deb8dc59f21f61d29d3ed5a92bf4d8f",
+    "JWT_ALGORITHM": "HS256",
+    "JWT_ACCESS_TOKEN_EXPIRE_MINUTES": "60",
+    "JWT_REFRESH_TOKEN_EXPIRE_DAYS": "7",
+    "GOOGLE_CLIENT_ID": "",
+    "GOOGLE_CLIENT_SECRET": "",
+    "FACEBOOK_CLIENT_ID": "",
+    "FACEBOOK_CLIENT_SECRET": "",
+    "APP_BASE_URL": "http://localhost:8000",
+    "BROWSER": "firefox",
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_BACKEND": "wayland",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "DESKTOP_SESSION": "hyprland",
+    "DISPLAY": ":1",
+    "EDITOR": "nano",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "ELECTRON_OZONE_PLATFORM_HINT": "wayland",
+    "FC_FONTATIONS": "1",
+    "GDK_BACKEND": "wayland",
+    "GDK_SCALE": "1",
+    "HG": "/usr/bin/hg",
+    "HL_INITIAL_WORKSPACE_TOKEN": "8909285e-a861-4b33-bac7-480499647dd6",
+    "HOME": "/home/yusof_0090",
+    "HYPRCURSOR_SIZE": "24",
+    "HYPRLAND_CMD": "Hyprland --watchdog-fd 4",
+    "HYPRLAND_INSTANCE_SIGNATURE": "521ece463c4a9d3d128670688a34756805a4328f_1776542223_991459728",
+    "LANG": "en_US.UTF-8",
+    "LC_ADDRESS": "lg_UG.UTF-8",
+    "LC_IDENTIFICATION": "lg_UG.UTF-8",
+    "LC_MEASUREMENT": "lg_UG.UTF-8",
+    "LC_MONETARY": "lg_UG.UTF-8",
+    "LC_NAME": "lg_UG.UTF-8",
+    "LC_NUMERIC": "lg_UG.UTF-8",
+    "LC_PAPER": "lg_UG.UTF-8",
+    "LC_TELEPHONE": "lg_UG.UTF-8",
+    "LC_TIME": "lg_UG.UTF-8",
+    "LOGNAME": "yusof_0090",
+    "MAIL": "/var/spool/mail/yusof_0090",
+    "MOTD_SHOWN": "pam",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "NO_AT_BRIDGE": "1",
+    "OLDPWD": "/home/yusof_0090",
+    "OZONE_PLATFORM": "wayland",
+    "PWD": "/home/yusof_0090",
+    "QT_AUTO_SCREEN_SCALE_FACTOR": "1",
+    "QT_QPA_PLATFORM": "wayland;xcb",
+    "QT_QPA_PLATFORMTHEME": "qt6ct",
+    "QT_WAYLAND_DISABLE_WINDOWDECORATION": "1",
+    "SDL_VIDEODRIVER": "wayland",
+    "SHELL": "/usr/bin/zsh",
+    "SHLVL": "1",
+    "USER": "yusof_0090",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/yusof_0090/.config/Code/CachedData/e7fb5e96c0730b9deb70b33781f98e2f35975036",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/yusof_0090",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-a892c609-1.11-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"en-us\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "4950",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "XCURSOR_SIZE": "24",
+    "XDG_BACKEND": "wayland",
+    "XDG_CURRENT_DESKTOP": "Hyprland",
+    "XDG_DATA_DIRS": "/home/yusof_0090/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "Hyprland",
+    "XDG_SESSION_ID": "2",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session1",
+    "XDG_SESSION_TYPE": "wayland",
+    "XDG_VTNR": "1",
+    "_": "/opt/visual-studio-code/bin/../code",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_STATSBEAT": "true",
+    "VSCODE_L10N_BUNDLE_LOCATION": "",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "APPLICATIONINSIGHTS_CONFIGURATION_CONTENT": "{}",
+    "NODE_TLS_REJECT_UNAUTHORIZED": "undefined",
+    "COPILOT_OTEL_ENABLED": "true",
+    "OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT": "true",
+    "COPILOT_OTEL_EXPORTER_TYPE": "file",
+    "COPILOT_OTEL_FILE_EXPORTER_PATH": "/dev/null",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+}
+> ./.venv/bin/python -m pip list --outdated --format json
+Debug: Dump environment variables {
+    "DATABASE_URL": "postgresql+asyncpg://yusof_0090:yourpassword@localhost:5432/sawda",
+    "JWT_SECRET": "476a4c589f7de7faab965566bff1f61f7deb8dc59f21f61d29d3ed5a92bf4d8f",
+    "JWT_ALGORITHM": "HS256",
+    "JWT_ACCESS_TOKEN_EXPIRE_MINUTES": "60",
+    "JWT_REFRESH_TOKEN_EXPIRE_DAYS": "7",
+    "GOOGLE_CLIENT_ID": "",
+    "GOOGLE_CLIENT_SECRET": "",
+    "FACEBOOK_CLIENT_ID": "",
+    "FACEBOOK_CLIENT_SECRET": "",
+    "APP_BASE_URL": "http://localhost:8000",
+    "BROWSER": "firefox",
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_BACKEND": "wayland",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "DESKTOP_SESSION": "hyprland",
+    "DISPLAY": ":1",
+    "EDITOR": "nano",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "ELECTRON_OZONE_PLATFORM_HINT": "wayland",
+    "FC_FONTATIONS": "1",
+    "GDK_BACKEND": "wayland",
+    "GDK_SCALE": "1",
+    "HG": "/usr/bin/hg",
+    "HL_INITIAL_WORKSPACE_TOKEN": "8909285e-a861-4b33-bac7-480499647dd6",
+    "HOME": "/home/yusof_0090",
+    "HYPRCURSOR_SIZE": "24",
+    "HYPRLAND_CMD": "Hyprland --watchdog-fd 4",
+    "HYPRLAND_INSTANCE_SIGNATURE": "521ece463c4a9d3d128670688a34756805a4328f_1776542223_991459728",
+    "LANG": "en_US.UTF-8",
+    "LC_ADDRESS": "lg_UG.UTF-8",
+    "LC_IDENTIFICATION": "lg_UG.UTF-8",
+    "LC_MEASUREMENT": "lg_UG.UTF-8",
+    "LC_MONETARY": "lg_UG.UTF-8",
+    "LC_NAME": "lg_UG.UTF-8",
+    "LC_NUMERIC": "lg_UG.UTF-8",
+    "LC_PAPER": "lg_UG.UTF-8",
+    "LC_TELEPHONE": "lg_UG.UTF-8",
+    "LC_TIME": "lg_UG.UTF-8",
+    "LOGNAME": "yusof_0090",
+    "MAIL": "/var/spool/mail/yusof_0090",
+    "MOTD_SHOWN": "pam",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "NO_AT_BRIDGE": "1",
+    "OLDPWD": "/home/yusof_0090",
+    "OZONE_PLATFORM": "wayland",
+    "PWD": "/home/yusof_0090",
+    "QT_AUTO_SCREEN_SCALE_FACTOR": "1",
+    "QT_QPA_PLATFORM": "wayland;xcb",
+    "QT_QPA_PLATFORMTHEME": "qt6ct",
+    "QT_WAYLAND_DISABLE_WINDOWDECORATION": "1",
+    "SDL_VIDEODRIVER": "wayland",
+    "SHELL": "/usr/bin/zsh",
+    "SHLVL": "1",
+    "USER": "yusof_0090",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/yusof_0090/.config/Code/CachedData/e7fb5e96c0730b9deb70b33781f98e2f35975036",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/yusof_0090",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-a892c609-1.11-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"en-us\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "4950",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "XCURSOR_SIZE": "24",
+    "XDG_BACKEND": "wayland",
+    "XDG_CURRENT_DESKTOP": "Hyprland",
+    "XDG_DATA_DIRS": "/home/yusof_0090/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "Hyprland",
+    "XDG_SESSION_ID": "2",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session1",
+    "XDG_SESSION_TYPE": "wayland",
+    "XDG_VTNR": "1",
+    "_": "/opt/visual-studio-code/bin/../code",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_STATSBEAT": "true",
+    "VSCODE_L10N_BUNDLE_LOCATION": "",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "APPLICATIONINSIGHTS_CONFIGURATION_CONTENT": "{}",
+    "NODE_TLS_REJECT_UNAUTHORIZED": "undefined",
+    "COPILOT_OTEL_ENABLED": "true",
+    "OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT": "true",
+    "COPILOT_OTEL_EXPORTER_TYPE": "file",
+    "COPILOT_OTEL_FILE_EXPORTER_PATH": "/dev/null",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+}
+> ./.venv/bin/python -m pip list --format json
+Debug: python -m pip list --format --json: 
+Debug: python -m pip list --format --json: 
+> ./.venv/bin/python -m pip list --outdated --format json
+Debug: python -m pip list --format --json: 
+Error: No outdated packages found for /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+> ./.venv/bin/python -m pip install -U
+> ./.venv/bin/python -m pip list --outdated --format json
+> ./.venv/bin/python -m pip list --format json
+Debug: python -m pip list --format --json: 
+Debug: python -m pip list --format --json: 
+> ./.venv/bin/python -m pip list --outdated --format json
+> ./.venv/bin/python -m pip list --format json
+Debug: python -m pip list --format --json: 
+Debug: python -m pip list --format --json: 
+Error: Failed to install a package in /home/yusof_0090/Projects/sawda_backend/.venv/bin/python) Canceled: Canceled
+    at searchPackage (/home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client/extension.js:19226:19)
+    at /home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client/extension.js:20962:24
+    at yg._executeContributedCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:48675)
+Error: Failed to install a package in /home/yusof_0090/Projects/sawda_backend/.venv/bin/python Canceled: Canceled
+    at searchPackage (/home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client/extension.js:19226:19)
+    at /home/yusof_0090/.vscode/extensions/donjayamanne.python-environment-manager-1.2.7/out/client/extension.js:20962:24
+    at yg._executeContributedCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:48675)

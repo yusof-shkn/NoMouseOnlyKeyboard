@@ -2,7 +2,6 @@
 # Place this file at: ~/.config/wl-kbptr/config
 # The file location can also be passed with the -c parameter.
 # Run `wl-kbptr --help-config` for full documentation.
-
 [general]
 home_row_keys=
 # Default modes used when no -o modes= flag is passed on the command line.
@@ -12,48 +11,48 @@ modes=tile,bisect
 cancellation_status_code=0
 
 [mode_tile]
-label_color=#fffd
-label_select_color=#fd0d
+label_color=#ccffccff
+label_select_color=#00ff44ff
 unselectable_bg_color=#2226
-selectable_bg_color=#0304
-selectable_border_color=#040c
+selectable_bg_color=#00000080
+selectable_border_color=#00ff4433
 label_font_family=sans-serif
 label_font_size=8 50% 100
 label_symbols=abcdefghijklmnopqrstuvwxyz
 
 [mode_floating]
 source=detect
-label_color=#fffd
-label_select_color=#fd0d
-unselectable_bg_color=#2226
-selectable_bg_color=#1718
-selectable_border_color=#040c
+label_color=#ccffccff
+label_select_color=#00ff44ff
+unselectable_bg_color=#0000
+selectable_bg_color=#111111cc
+selectable_border_color=#00ff4433
 label_font_family=sans-serif
-label_font_size=12 50% 100
+label_font_size=14 50% 100
 label_symbols=abcdefghijklmnopqrstuvwxyz
 
 [mode_bisect]
-label_color=#fffd
+label_color=#ccffccff
 label_font_size=20
 label_font_family=sans-serif
 label_padding=12
 pointer_size=20
-pointer_color=#e22d
+pointer_color=#00ff44ff
 unselectable_bg_color=#2226
-even_area_bg_color=#0304
-even_area_border_color=#0408
-odd_area_bg_color=#0034
-odd_area_border_color=#0048
-history_border_color=#3339
+even_area_bg_color=#00000080
+even_area_border_color=#00ff4433
+odd_area_bg_color=#00000080
+odd_area_border_color=#00ff4455
+history_border_color=#ccffcc55
 
 [mode_split]
 pointer_size=20
-pointer_color=#e22d
+pointer_color=#00ff44ff
 bg_color=#2226
-area_bg_color=#11111188
+area_bg_color=#00000080
 vertical_color=#8888ffcc
-horizontal_color=#008800cc
-history_border_color=#3339
+horizontal_color=#00ff44cc
+history_border_color=#ccffcc55
 
 [mode_click]
 button=left

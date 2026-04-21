@@ -46,5 +46,21 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "medideliver-backend",
+		"rootPath": "/home/yusof_0090/Projects/backend_insurance/medideliver-backend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "portfolio",
+		"rootPath": "/home/yusof_0090/Projects/portfolio",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]

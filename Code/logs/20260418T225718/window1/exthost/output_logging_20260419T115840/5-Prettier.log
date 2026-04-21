@@ -1,0 +1,137 @@
+["INFO" - 11:58:45 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:58:45 AM] Extension Version: 12.4.0.
+["INFO" - 11:58:47 AM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 11:58:47 AM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 11:58:47 AM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:35:08 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:35:08 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:35:08 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:39:55 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:39:55 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:39:55 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:44:09 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:44:09 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:44:09 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:44:15 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:44:15 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:44:15 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:44:29 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:44:29 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:44:29 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:44:31 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:44:31 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:44:31 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:45:24 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:45:24 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:45:24 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}
+["INFO" - 12:46:30 PM] Using config file at /home/yusof_0090/Projects/.prettierrc
+["INFO" - 12:46:30 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:46:30 PM] Resolved config:
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "crlf",
+  "useTabs": false,
+  "singleAttributePerLine": true
+}

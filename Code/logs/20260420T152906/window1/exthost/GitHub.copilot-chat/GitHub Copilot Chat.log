@@ -1,0 +1,339 @@
+2026-04-20 15:29:18.421 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-04-20 15:29:18.421 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-04-20 15:29:18.421 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-04-20 15:29:18.421 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-04-20 15:29:18.421 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-04-20 15:29:18.421 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-04-20 15:29:18.421 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-04-20 15:29:18.465 [info] Logged in as yusof-shkn
+2026-04-20 15:29:18.473 [info] Using the Electron fetcher.
+2026-04-20 15:29:18.512 [info] [CopilotCLI] MCP server started. Lock file: /home/yusof_0090/.copilot/ide/b517e7f7-16a2-4eab-bfe7-05c4e616cd44.lock
+2026-04-20 15:29:18.512 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-1FHz5Q/mcp.sock#%2Fmcp
+2026-04-20 15:29:19.534 [info] Got Copilot token for yusof-shkn
+2026-04-20 15:29:19.534 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-20 15:29:19.551 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-04-20 15:29:19.553 [info] activationBlocker from 'languageModelAccess' took for 3198ms
+2026-04-20 15:29:19.678 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-20 15:29:19.678 [info] copilot token sku: free_limited_copilot
+2026-04-20 15:29:19.678 [info] ConversationFeature: Activating contributions
+2026-04-20 15:29:19.678 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-04-20 15:29:19.703 [info] Registering default platform agent...
+2026-04-20 15:29:19.704 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-20 15:29:19.704 [info] [code-referencing] Public code references are enabled.
+2026-04-20 15:29:19.706 [info] activationBlocker from 'conversationFeature' took for 3362ms
+2026-04-20 15:29:19.737 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-04-20 15:29:19.741 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-04-20 15:29:19.899 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-04-20 15:29:20.904 [info] Fetched model metadata in 4520ms f1269c7d-608a-41e8-8dca-50ec69e3c8c4
+2026-04-20 15:29:21.126 [info] Latest entry: ccreq:latest.copilotmd
+2026-04-20 15:29:21.126 [info] ccreq:48aa398d.copilotmd | markdown
+2026-04-20 18:29:25.995 [info] Logged in as yusof-shkn
+2026-04-20 18:29:26.877 [info] Got Copilot token for yusof-shkn
+2026-04-20 18:29:26.877 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-20 18:29:26.915 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-20 18:29:26.915 [info] copilot token sku: free_limited_copilot
+2026-04-20 18:29:26.915 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-20 18:29:26.915 [info] [code-referencing] Public code references are enabled.
+2026-04-20 18:29:27.359 [info] Fetched model metadata in 444ms efc40f9e-e59d-40b3-aba5-94b0ce031ccb
+2026-04-20 18:29:27.591 [info] ccreq:19c0fd7d.copilotmd | markdown
+2026-04-20 20:17:52.804 [info] Logged in as yusof-shkn
+2026-04-20 20:17:53.871 [info] Got Copilot token for yusof-shkn
+2026-04-20 20:17:53.871 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-20 20:17:53.887 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-20 20:17:53.887 [info] copilot token sku: free_limited_copilot
+2026-04-20 20:17:53.887 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-20 20:17:53.887 [info] [code-referencing] Public code references are enabled.
+2026-04-20 20:17:54.255 [info] Fetched model metadata in 369ms 33c06554-5269-45d2-917c-9e236e23745c
+2026-04-20 20:17:54.480 [info] ccreq:33b4434f.copilotmd | markdown
+2026-04-20 20:17:54.485 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-20 21:12:56.150 [info] Logged in as yusof-shkn
+2026-04-20 21:12:57.284 [info] Got Copilot token for yusof-shkn
+2026-04-20 21:12:57.284 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-20 21:12:57.302 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-20 21:12:57.302 [info] copilot token sku: free_limited_copilot
+2026-04-20 21:12:57.302 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-20 21:12:57.302 [info] [code-referencing] Public code references are enabled.
+2026-04-20 21:12:58.137 [info] Fetched model metadata in 835ms 9f633d8d-e7aa-40b3-aa7e-dcfe4bad0cb8
+2026-04-20 21:12:58.354 [info] ccreq:8af7ef81.copilotmd | markdown
+2026-04-20 23:59:03.132 [info] Logged in as yusof-shkn
+2026-04-20 23:59:04.002 [info] Got Copilot token for yusof-shkn
+2026-04-20 23:59:04.002 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-20 23:59:04.021 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-20 23:59:04.021 [info] copilot token sku: free_limited_copilot
+2026-04-20 23:59:04.021 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-20 23:59:04.021 [info] [code-referencing] Public code references are enabled.
+2026-04-20 23:59:05.246 [info] Fetched model metadata in 1225ms 2297c95f-5d48-4aa8-8729-9ca0514737ee
+2026-04-20 23:59:05.934 [info] ccreq:33f67380.copilotmd | markdown
+2026-04-20 23:59:05.945 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 10:47:42.749 [info] Logged in as yusof-shkn
+2026-04-21 10:47:43.906 [info] Got Copilot token for yusof-shkn
+2026-04-21 10:47:43.906 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 10:47:44.053 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 10:47:44.053 [info] copilot token sku: free_limited_copilot
+2026-04-21 10:47:44.053 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 10:47:44.053 [info] [code-referencing] Public code references are enabled.
+2026-04-21 10:47:44.319 [info] Fetched model metadata in 267ms cac17184-bc22-442a-b9a5-a690ed3445c8
+2026-04-21 10:47:44.602 [info] ccreq:37af8907.copilotmd | markdown
+2026-04-21 11:42:44.007 [info] Logged in as yusof-shkn
+2026-04-21 11:42:45.045 [info] Got Copilot token for yusof-shkn
+2026-04-21 11:42:45.045 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 11:42:45.090 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 11:42:45.090 [info] copilot token sku: free_limited_copilot
+2026-04-21 11:42:45.090 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 11:42:45.090 [info] [code-referencing] Public code references are enabled.
+2026-04-21 11:42:46.156 [info] Fetched model metadata in 1067ms 356cb912-9f19-42d8-b949-f82e3c6b7a91
+2026-04-21 11:42:46.382 [info] ccreq:c6b5bd54.copilotmd | markdown
+2026-04-21 11:42:46.400 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 12:37:45.013 [info] Logged in as yusof-shkn
+2026-04-21 12:37:46.101 [info] Got Copilot token for yusof-shkn
+2026-04-21 12:37:46.101 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 12:37:46.141 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 12:37:46.141 [info] copilot token sku: free_limited_copilot
+2026-04-21 12:37:46.141 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 12:37:46.141 [info] [code-referencing] Public code references are enabled.
+2026-04-21 12:37:47.087 [info] Fetched model metadata in 947ms c84b0b82-988c-4d31-9075-edceaf7afa06
+2026-04-21 12:37:47.309 [info] ccreq:ffed79a5.copilotmd | markdown
+2026-04-21 12:37:47.324 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 13:32:46.011 [info] Logged in as yusof-shkn
+2026-04-21 13:32:47.162 [info] Got Copilot token for yusof-shkn
+2026-04-21 13:32:47.162 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 13:32:47.261 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 13:32:47.261 [info] copilot token sku: free_limited_copilot
+2026-04-21 13:32:47.261 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 13:32:47.261 [info] [code-referencing] Public code references are enabled.
+2026-04-21 13:32:48.199 [info] Fetched model metadata in 938ms a74aa09c-c292-4579-a662-e4355de72580
+2026-04-21 13:32:48.432 [info] ccreq:816822e7.copilotmd | markdown
+2026-04-21 13:32:48.450 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 14:46:19.959 [info] Logged in as yusof-shkn
+2026-04-21 14:46:21.184 [info] Got Copilot token for yusof-shkn
+2026-04-21 14:46:21.185 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 14:46:21.207 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 14:46:21.207 [info] copilot token sku: free_limited_copilot
+2026-04-21 14:46:21.207 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 14:46:21.207 [info] [code-referencing] Public code references are enabled.
+2026-04-21 14:46:22.341 [info] Fetched model metadata in 1134ms 50d56058-067c-4881-81c0-ab4e19f06d8c
+2026-04-21 14:46:22.700 [info] ccreq:a7c09ad9.copilotmd | markdown
+2026-04-21 15:41:22.012 [info] Logged in as yusof-shkn
+2026-04-21 15:41:23.152 [info] Got Copilot token for yusof-shkn
+2026-04-21 15:41:23.152 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 15:41:23.183 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 15:41:23.183 [info] copilot token sku: free_limited_copilot
+2026-04-21 15:41:23.183 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 15:41:23.183 [info] [code-referencing] Public code references are enabled.
+2026-04-21 15:41:24.213 [info] Fetched model metadata in 1032ms 8b30cdb6-831b-4b86-8d51-7711b15808fc
+2026-04-21 15:41:24.437 [info] ccreq:8ed5974a.copilotmd | markdown
+2026-04-21 15:41:24.453 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 17:04:25.859 [info] Logged in as yusof-shkn
+2026-04-21 17:04:27.050 [info] Got Copilot token for yusof-shkn
+2026-04-21 17:04:27.050 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 17:04:27.063 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 17:04:27.063 [info] copilot token sku: free_limited_copilot
+2026-04-21 17:04:27.063 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 17:04:27.063 [info] [code-referencing] Public code references are enabled.
+2026-04-21 17:04:28.500 [info] Fetched model metadata in 1438ms d0cd9684-9003-47f2-9584-ee1c63cae5ff
+2026-04-21 17:04:28.715 [info] ccreq:0c59a2c0.copilotmd | markdown
+2026-04-21 17:04:28.731 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 17:57:58.405 [warning] [relatedFiles] unknown language python
+2026-04-21 17:57:58.492 [info] ccreq:acd96413.copilotmd | markdown
+2026-04-21 17:57:59.155 [info] [fetchCompletions] Request 22e03dd7-6d2a-4587-a9ea-064fbd7f7b36 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 427.8822429999709ms
+2026-04-21 17:57:59.174 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2026-04-21 17:57:59.206 [info] ccreq:9e160038.copilotmd | markdown
+2026-04-21 17:57:59.263 [info] Logged in as yusof-shkn
+2026-04-21 17:58:00.130 [info] ccreq:c1a14dbe.copilotmd | markdown
+2026-04-21 17:58:00.152 [info] Got Copilot token for yusof-shkn
+2026-04-21 17:58:00.152 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 17:58:00.174 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 17:58:00.175 [info] copilot token sku: free_limited_copilot
+2026-04-21 17:58:00.175 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 17:58:00.175 [info] [code-referencing] Public code references are enabled.
+2026-04-21 17:58:00.244 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 17:58:00.244 [info] copilot token sku: free_limited_copilot
+2026-04-21 17:58:00.244 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 17:58:00.244 [info] [code-referencing] Public code references are enabled.
+2026-04-21 17:58:00.302 [info] ccreq:b21582ef.copilotmd | markdown
+2026-04-21 17:58:00.543 [info] [fetchCompletions] Request 4750df21-82d8-4652-be9d-59c3bdf272a1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 252.9895699992776ms
+2026-04-21 17:58:00.547 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:00.597 [info] ccreq:9ddd6656.copilotmd | markdown
+2026-04-21 17:58:00.990 [info] Fetched model metadata in 818ms 049d950e-92ac-44f0-ae2b-22e4d8d86736
+2026-04-21 17:58:01.212 [info] ccreq:25ce26c5.copilotmd | markdown
+2026-04-21 17:58:01.246 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 17:58:01.252 [error] Auto mode failed: no available model found in known endpoints.
+2026-04-21 17:58:02.757 [info] message 0 returned. finish reason: [stop]
+2026-04-21 17:58:02.757 [info] request done: requestId: [6bdb03a3-8c84-4373-ace0-6a3c577db435] model deployment ID: []
+2026-04-21 17:58:02.919 [info] ccreq:e42b99e7.copilotmd | markdown
+2026-04-21 17:58:03.054 [info] ccreq:5c80daa1.copilotmd | success | nes-callisto-003 | 653ms | [XtabProvider]
+2026-04-21 17:58:23.018 [info] ccreq:c90e512e.copilotmd | markdown
+2026-04-21 17:58:23.268 [info] [fetchCompletions] Request 1725fa31-9bd5-465a-aafe-e5b02a8c88b7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 263.7372020035982ms
+2026-04-21 17:58:23.275 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:23.324 [info] ccreq:63133d95.copilotmd | markdown
+2026-04-21 17:58:23.786 [info] ccreq:a1ec28a9.copilotmd | markdown
+2026-04-21 17:58:23.842 [info] ccreq:17ec0563.copilotmd | markdown
+2026-04-21 17:58:24.250 [info] [fetchCompletions] Request f51be5ab-6d7d-4c6c-82c7-5f914212273a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 406.2864120006561ms
+2026-04-21 17:58:24.257 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:24.264 [info] ccreq:0cecd83d.copilotmd | markdown
+2026-04-21 17:58:38.762 [info] ccreq:c5513851.copilotmd | markdown
+2026-04-21 17:58:39.182 [info] [fetchCompletions] Request 0e8aece6-922b-4c7c-927a-396ee365c6b3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 431.08236300200224ms
+2026-04-21 17:58:39.189 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:39.268 [error] [AsyncCompletionManager] [0e8aece6-922b-4c7c-927a-396ee365c6b3] Request errored with AbortError: The operation was aborted
+    at handleKnownInternalErrors (node:internal/webstreams/adapters:111:14)
+    at IncomingMessage.<anonymous> (node:internal/webstreams/adapters:476:13)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at IncomingMessage.<anonymous> (node:internal/streams/end-of-stream:61:21)
+    at IncomingMessage.<anonymous> (node:internal/util:575:20)
+    at IncomingMessage.onclose (node:internal/streams/end-of-stream:165:25)
+    at IncomingMessage.emit (node:events:519:28)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at processTicksAndRejections (node:internal/process/task_queues:88:21) {
+  code: 'ABORT_ERR',
+  [cause]: Error: Premature close
+      at IncomingMessage.onclose (node:internal/streams/end-of-stream:166:30)
+      at IncomingMessage.emit (node:events:519:28)
+      at emitCloseNT (node:internal/streams/destroy:148:10)
+      at processTicksAndRejections (node:internal/process/task_queues:88:21) {
+    code: 'ERR_STREAM_PREMATURE_CLOSE'
+  }
+}
+2026-04-21 17:58:39.277 [info] ccreq:e2212633.copilotmd | markdown
+2026-04-21 17:58:39.363 [info] ccreq:4d3789a2.copilotmd | markdown
+2026-04-21 17:58:39.814 [info] [fetchCompletions] Request db3f9488-856c-4b37-bb2d-f81661732678 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 449.6565079987049ms
+2026-04-21 17:58:39.819 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:39.822 [info] ccreq:ecaa85cf.copilotmd | markdown
+2026-04-21 17:58:50.789 [info] ccreq:b0616420.copilotmd | markdown
+2026-04-21 17:58:51.386 [info] [fetchCompletions] Request 3f0ea242-970e-408a-b286-4497d8db6f76 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 593.8691259995103ms
+2026-04-21 17:58:51.393 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:51.398 [info] ccreq:b4f7a49a.copilotmd | markdown
+2026-04-21 17:58:51.625 [info] ccreq:901eae7c.copilotmd | markdown
+2026-04-21 17:58:51.731 [info] ccreq:e9c61149.copilotmd | markdown
+2026-04-21 17:58:52.126 [info] [fetchCompletions] Request c9952b0a-b303-4925-aedd-932af8849641 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 391.60811299830675ms
+2026-04-21 17:58:52.138 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 17:58:52.180 [info] ccreq:4879bdfc.copilotmd | markdown
+2026-04-21 18:00:25.493 [info] ccreq:f8429984.copilotmd | markdown
+2026-04-21 18:00:25.499 [info] ccreq:d4823b89.copilotmd | markdown
+2026-04-21 18:00:25.670 [info] ccreq:ca4db73e.copilotmd | markdown
+2026-04-21 18:00:25.671 [info] ccreq:e913d58b.copilotmd | markdown
+2026-04-21 18:00:26.141 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:00:26.142 [info] request done: requestId: [fa782d9f-204d-4525-bde7-deb1e1748dd9] model deployment ID: []
+2026-04-21 18:00:26.206 [info] ccreq:c4b5a5d4.copilotmd | markdown
+2026-04-21 18:00:26.208 [info] ccreq:122f0235.copilotmd | markdown
+2026-04-21 18:00:26.409 [info] ccreq:f84d3060.copilotmd | success | nes-callisto-003 | 814ms | [XtabProvider]
+2026-04-21 18:00:26.905 [info] ccreq:760d6c53.copilotmd | markdown
+2026-04-21 18:00:26.907 [info] ccreq:405d30d4.copilotmd | markdown
+2026-04-21 18:00:26.944 [info] ccreq:b8c50afd.copilotmd | markdown
+2026-04-21 18:00:26.945 [info] ccreq:8e55dab4.copilotmd | markdown
+2026-04-21 18:00:26.985 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:00:26.987 [info] request done: requestId: [dec57023-20f5-4080-bce1-af378e1cefb5] model deployment ID: []
+2026-04-21 18:00:26.999 [info] ccreq:e6f0c53f.copilotmd | success | nes-callisto-003 | 488ms | [XtabProvider]
+2026-04-21 18:00:27.853 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:00:27.854 [info] request done: requestId: [fcccb81e-031a-4fdb-a71b-1b7022a1bacd] model deployment ID: []
+2026-04-21 18:00:27.857 [info] ccreq:3c62c58f.copilotmd | success | nes-callisto-003 | 753ms | [XtabProvider]
+2026-04-21 18:04:50.282 [info] ccreq:04301615.copilotmd | markdown
+2026-04-21 18:04:50.579 [info] ccreq:ff37d716.copilotmd | markdown
+2026-04-21 18:04:51.098 [info] ccreq:c45aaa3b.copilotmd | markdown
+2026-04-21 18:04:51.262 [info] ccreq:9bbd3f32.copilotmd | markdown
+2026-04-21 18:04:51.442 [info] ccreq:8c7f4281.copilotmd | markdown
+2026-04-21 18:04:51.748 [info] ccreq:7feef830.copilotmd | markdown
+2026-04-21 18:04:52.138 [info] [fetchCompletions] Request f1dc4da3-45b4-4731-9cb4-6d0939a754ff at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 388.95186699926853ms
+2026-04-21 18:04:52.142 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:52.145 [info] ccreq:841fb962.copilotmd | markdown
+2026-04-21 18:04:52.181 [info] ccreq:56aa6b68.copilotmd | markdown
+2026-04-21 18:04:52.486 [info] [fetchCompletions] Request c65741ac-1303-47f9-a41b-89244130608e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 316.6665610000491ms
+2026-04-21 18:04:52.487 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:52.489 [info] ccreq:d502f244.copilotmd | markdown
+2026-04-21 18:04:54.803 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:04:54.804 [info] request done: requestId: [b838b3ba-e92b-4337-b3ce-d96b3f31a66e] model deployment ID: []
+2026-04-21 18:04:55.038 [info] ccreq:340acb74.copilotmd | success | nes-callisto-003 | 764ms | [XtabProvider]
+2026-04-21 18:04:55.344 [info] ccreq:44ec91a1.copilotmd | markdown
+2026-04-21 18:04:55.660 [info] [fetchCompletions] Request 9f59f070-dc24-47d5-ac63-39f903f0935c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 314.2522220015526ms
+2026-04-21 18:04:55.765 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:55.797 [info] ccreq:fa8bc0a7.copilotmd | markdown
+2026-04-21 18:04:55.955 [info] ccreq:6cf603aa.copilotmd | markdown
+2026-04-21 18:04:56.002 [info] ccreq:44455cbd.copilotmd | markdown
+2026-04-21 18:04:56.027 [info] ccreq:5411f91a.copilotmd | markdown
+2026-04-21 18:04:56.066 [info] ccreq:5799f13c.copilotmd | markdown
+2026-04-21 18:04:56.110 [info] ccreq:2cc814de.copilotmd | markdown
+2026-04-21 18:04:56.142 [info] ccreq:6b66ae05.copilotmd | markdown
+2026-04-21 18:04:56.202 [info] ccreq:ca2a9a00.copilotmd | markdown
+2026-04-21 18:04:56.235 [info] ccreq:321ec6f1.copilotmd | markdown
+2026-04-21 18:04:56.282 [info] ccreq:f00d2289.copilotmd | markdown
+2026-04-21 18:04:56.319 [info] ccreq:dd413811.copilotmd | markdown
+2026-04-21 18:04:56.350 [info] ccreq:d301fb1a.copilotmd | markdown
+2026-04-21 18:04:56.392 [info] ccreq:260d7afd.copilotmd | markdown
+2026-04-21 18:04:56.430 [info] ccreq:7934a3e2.copilotmd | markdown
+2026-04-21 18:04:56.480 [info] ccreq:5ff61989.copilotmd | markdown
+2026-04-21 18:04:56.518 [info] ccreq:06833697.copilotmd | markdown
+2026-04-21 18:04:56.793 [info] [fetchCompletions] Request 502c817c-83e0-465a-b816-635a2d53a41c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 273.19003400206566ms
+2026-04-21 18:04:56.795 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:56.840 [info] ccreq:6e37bcf9.copilotmd | markdown
+2026-04-21 18:04:56.868 [info] ccreq:43ea7b7a.copilotmd | markdown
+2026-04-21 18:04:57.131 [info] ccreq:e66a673f.copilotmd | markdown
+2026-04-21 18:04:57.382 [info] [fetchCompletions] Request 3152bc11-e26c-4ffe-8f77-00038f6f96a8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.4929759949446ms
+2026-04-21 18:04:57.388 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:57.412 [error] [AsyncCompletionManager] [3152bc11-e26c-4ffe-8f77-00038f6f96a8] Request errored with AbortError: The operation was aborted
+    at handleKnownInternalErrors (node:internal/webstreams/adapters:111:14)
+    at IncomingMessage.<anonymous> (node:internal/webstreams/adapters:476:13)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at IncomingMessage.<anonymous> (node:internal/streams/end-of-stream:61:21)
+    at IncomingMessage.<anonymous> (node:internal/util:575:20)
+    at IncomingMessage.onclose (node:internal/streams/end-of-stream:165:25)
+    at IncomingMessage.emit (node:events:519:28)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at processTicksAndRejections (node:internal/process/task_queues:88:21) {
+  code: 'ABORT_ERR',
+  [cause]: Error: Premature close
+      at IncomingMessage.onclose (node:internal/streams/end-of-stream:166:30)
+      at IncomingMessage.emit (node:events:519:28)
+      at emitCloseNT (node:internal/streams/destroy:148:10)
+      at processTicksAndRejections (node:internal/process/task_queues:88:21) {
+    code: 'ERR_STREAM_PREMATURE_CLOSE'
+  }
+}
+2026-04-21 18:04:57.425 [info] ccreq:9551b9ab.copilotmd | markdown
+2026-04-21 18:04:57.754 [info] ccreq:ed6a68d2.copilotmd | markdown
+2026-04-21 18:04:57.998 [info] [fetchCompletions] Request e57d523a-7fbc-4a66-a910-4b9fb1e6b9f7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 241.2752529978752ms
+2026-04-21 18:04:58.001 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:04:58.045 [info] ccreq:4ccb49e6.copilotmd | markdown
+2026-04-21 18:04:59.656 [info] ccreq:7fb49553.copilotmd | markdown
+2026-04-21 18:04:59.667 [info] ccreq:b174e1af.copilotmd | markdown
+2026-04-21 18:05:00.238 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:05:00.239 [info] request done: requestId: [216aa7ef-a6ae-4720-8460-731b9c92fdb6] model deployment ID: []
+2026-04-21 18:05:00.242 [info] ccreq:be8f7b56.copilotmd | success | nes-callisto-003 | 482ms | [XtabProvider]
+2026-04-21 18:05:02.403 [info] ccreq:5b6cc876.copilotmd | markdown
+2026-04-21 18:05:04.820 [info] ccreq:4d94e655.copilotmd | markdown
+2026-04-21 18:05:04.831 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:05:04.831 [info] request done: requestId: [62fd9ab3-1897-4396-ba41-3abbf59696ba] model deployment ID: []
+2026-04-21 18:05:04.838 [info] ccreq:a7c98265.copilotmd | success | nes-callisto-003 | 334ms | [XtabProvider]
+2026-04-21 18:05:05.068 [info] ccreq:66e97101.copilotmd | markdown
+2026-04-21 18:05:05.319 [info] [fetchCompletions] Request 603293a1-17b4-4135-a3c1-4380323fc689 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 250.92160499840975ms
+2026-04-21 18:05:05.321 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:05:05.358 [info] ccreq:8b952f63.copilotmd | markdown
+2026-04-21 18:05:05.685 [info] ccreq:625e9fcc.copilotmd | markdown
+2026-04-21 18:05:05.857 [info] ccreq:0bb9cebc.copilotmd | markdown
+2026-04-21 18:05:06.016 [info] ccreq:84f22baf.copilotmd | markdown
+2026-04-21 18:05:06.187 [info] ccreq:22f6d188.copilotmd | markdown
+2026-04-21 18:05:06.355 [info] ccreq:9e7a57aa.copilotmd | markdown
+2026-04-21 18:05:06.537 [info] ccreq:ca2075ab.copilotmd | markdown
+2026-04-21 18:05:06.810 [info] [fetchCompletions] Request ba9a23dc-022e-4c40-8254-72f27923b199 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 272.1554030030966ms
+2026-04-21 18:05:06.815 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:05:06.861 [info] ccreq:59f01ede.copilotmd | markdown
+2026-04-21 18:05:07.697 [info] ccreq:5376faa4.copilotmd | markdown
+2026-04-21 18:05:07.732 [info] ccreq:862a96d6.copilotmd | markdown
+2026-04-21 18:05:07.981 [info] [fetchCompletions] Request 6546633b-1b53-486c-9300-d42d95d18f5a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 291.5938430055976ms
+2026-04-21 18:05:07.984 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:05:08.213 [info] [fetchCompletions] Request 5f858e9d-2c8d-4fa4-b252-4e7fbb669f93 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 284.973895996809ms
+2026-04-21 18:05:08.215 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2026-04-21 18:05:08.238 [info] ccreq:90d29d6e.copilotmd | markdown
+2026-04-21 18:05:09.297 [info] ccreq:14fadc18.copilotmd | markdown
+2026-04-21 18:05:15.186 [info] ccreq:79f6ce83.copilotmd | markdown
+2026-04-21 18:05:17.859 [info] message 0 returned. finish reason: [stop]
+2026-04-21 18:05:17.862 [info] request done: requestId: [240328f9-d3d2-4c3c-8468-f3ff5728d1aa] model deployment ID: []
+2026-04-21 18:05:17.863 [info] ccreq:476ea95b.copilotmd | success | nes-callisto-003 | 579ms | [XtabProvider]
+2026-04-21 18:53:00.007 [info] Logged in as yusof-shkn
+2026-04-21 18:53:00.976 [info] Got Copilot token for yusof-shkn
+2026-04-21 18:53:00.976 [info] Copilot Chat: 0.42.3, VS Code: 1.114.0
+2026-04-21 18:53:00.989 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-21 18:53:00.989 [info] copilot token sku: free_limited_copilot
+2026-04-21 18:53:00.989 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-21 18:53:00.989 [info] [code-referencing] Public code references are enabled.
+2026-04-21 18:53:01.875 [info] Fetched model metadata in 886ms 5a1c40ff-eb99-41c2-9179-38dfc76c1619
+2026-04-21 18:53:02.098 [info] ccreq:90a50060.copilotmd | markdown

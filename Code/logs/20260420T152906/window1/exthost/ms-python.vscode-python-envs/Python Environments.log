@@ -1,0 +1,125 @@
+2026-04-20 15:29:12.443 [info] Python-envs extension version: 1.28.0
+2026-04-20 15:29:12.443 [info] 
+=== Python Envs Configuration Levels ===
+2026-04-20 15:29:12.443 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-04-20 15:29:12.443 [info] [pet] Starting Python Locator /home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/python-env-tools/bin/pet server
+2026-04-20 15:29:12.443 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-04-20 15:29:12.443 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-04-20 15:29:12.443 [info] Registering poetry manager (environments will be discovered lazily)
+2026-04-20 15:29:12.443 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/yusof_0090/Projects/sawda_backend"],"environmentDirectories":["/home/yusof_0090/Projects/sawda_backend/.venv","/home/yusof_0090/Projects/sawda_backend/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/yusof_0090/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-04-20 15:29:12.495 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:12.508 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:12.629 [info] Refreshing Pyenv Environments
+2026-04-20 15:29:12.629 [info] Refreshing pyenv environments
+2026-04-20 15:29:12.629 [info] Refreshing Pipenv Environments
+2026-04-20 15:29:12.629 [info] Refreshing pipenv environments
+2026-04-20 15:29:12.629 [info] Refreshing Poetry Environments
+2026-04-20 15:29:12.629 [info] Refreshing poetry environments
+2026-04-20 15:29:12.683 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:12.737 [info] Conda not found, turning off conda features. Error: Conda not found
+    at F (/home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/dist/extension.js:2:598008)
+    at L (/home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/dist/extension.js:2:598133)
+    at t.registerCondaFeatures (/home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/dist/extension.js:2:618030)
+    at t.safeRegister (/home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/dist/extension.js:2:282183)
+    at async Promise.all (index 1)
+    at Immediate.<anonymous> (/home/yusof_0090/.vscode/extensions/ms-python.vscode-python-envs-1.28.0-linux-x64/dist/extension.js:2:743851)
+2026-04-20 15:29:12.741 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-04-20 15:29:12.857 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":166,"breakdown":{"GlobalVirtualEnvs":14,"Locators":149,"Path":166,"Workspaces":13},"locators":{"Conda":148,"Homebrew":0,"LinuxGlobal":127,"PipEnv":0,"Pixi":0,"Poetry":9,"PyEnv":2,"Uv":12,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:13.066 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:15.801 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:16.062 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:16.466 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:16.830 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":133,"breakdown":{"GlobalVirtualEnvs":17,"Locators":103,"Path":132,"Workspaces":15},"locators":{"Conda":103,"Homebrew":0,"LinuxGlobal":98,"PipEnv":0,"Pixi":0,"Poetry":2,"PyEnv":0,"Uv":5,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:17.639 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:17.713 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:17.716 [info] Python API: Changed environment from undefined to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:17.716 [info] Internal: Changed environment from undefined to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.345 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.448 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.540 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:18.581 [info] Found venv environment: cpython-3.12.12-linux-x86_64-gnu (3.12.12)
+2026-04-20 15:29:18.641 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.737 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:18.881 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":112,"breakdown":{"GlobalVirtualEnvs":7,"Locators":92,"Path":112,"Workspaces":6},"locators":{"Conda":91,"Homebrew":0,"LinuxGlobal":78,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Uv":2,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:18.907 [info] [interpreterSelection] sawda_backend: sawda-marketplace (3.14.4) (source: autoDiscovery)
+2026-04-20 15:29:18.930 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.932 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.932 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.933 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.933 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.973 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.974 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.974 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.975 [info] [interpreterSelection] global: Python 3.14.4 (source: autoDiscovery)
+2026-04-20 15:29:18.988 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:18.989 [info] Python API: Changed environment from undefined to Python 3.14.4 for: global
+2026-04-20 15:29:18.989 [info] Internal: Changed environment from undefined to Python 3.14.4 for: global
+2026-04-20 15:29:18.990 [info] Found venv environment: sawda-marketplace (3.14.4)
+2026-04-20 15:29:18.992 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.993 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.995 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:18.995 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.995 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.995 [info] Resolved Python Environment /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:18.997 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:18.997 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.026 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.026 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.090 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":126,"breakdown":{"GlobalVirtualEnvs":5,"Locators":103,"Path":126,"Workspaces":6},"locators":{"Conda":102,"Homebrew":0,"LinuxGlobal":99,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Uv":3,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:19.091 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.091 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.125 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.125 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.215 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:19.225 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:19.237 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:19.239 [info] Found venv environment: cpython-3.12.12-linux-x86_64-gnu (3.12.12)
+2026-04-20 15:29:19.246 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":125,"breakdown":{"GlobalVirtualEnvs":5,"Locators":102,"Path":125,"Workspaces":7},"locators":{"Conda":101,"Homebrew":0,"LinuxGlobal":99,"PipEnv":0,"Pixi":0,"Poetry":2,"PyEnv":0,"Uv":3,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:19.248 [info] Found venv environment: sawda-marketplace (3.14.4)
+2026-04-20 15:29:19.249 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:19.253 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:19.256 [info] Python API: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.256 [info] Internal: Changed environment from sawda-marketplace (3.14.4) to sawda-marketplace (3.14.4) for: /home/yusof_0090/Projects/sawda_backend
+2026-04-20 15:29:19.310 [info] Refreshing pyenv environments
+2026-04-20 15:29:19.350 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:19.362 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:19.365 [info] Pipenv not found via settings, cache, or PATH
+2026-04-20 15:29:19.365 [info] Refreshing pipenv environments
+2026-04-20 15:29:19.381 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":129,"breakdown":{"GlobalVirtualEnvs":10,"Locators":89,"Path":129,"Workspaces":6},"locators":{"Conda":89,"Homebrew":0,"LinuxGlobal":85,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:19.404 [info] Pipenv not found via settings, cache, or PATH
+2026-04-20 15:29:19.404 [info] Found 0 pipenv environments
+2026-04-20 15:29:19.408 [info] Discovered env: /home/yusof_0090/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/bin/python
+2026-04-20 15:29:19.416 [info] Discovered env: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:19.417 [info] Pipenv not found via settings, cache, or PATH
+2026-04-20 15:29:19.417 [info] Found 0 pipenv environments
+2026-04-20 15:29:19.426 [info] Pipenv not found via settings, cache, or PATH
+2026-04-20 15:29:19.434 [info] Refreshing poetry environments
+2026-04-20 15:29:19.438 [info] Poetry executable not found
+2026-04-20 15:29:19.443 [info] Environment discovery complete: 3 environments found (Global: 1, venv: 2)
+2026-04-20 15:29:19.478 [info] Discovered env: /usr/bin/python
+2026-04-20 15:29:19.499 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":116,"breakdown":{"GlobalVirtualEnvs":8,"Locators":98,"Path":116,"Workspaces":3},"locators":{"Conda":98,"Homebrew":0,"LinuxGlobal":94,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Uv":4,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-04-20 15:29:19.499 [info] Poetry executable not found
+2026-04-20 15:29:24.057 [error] Shell execution timed out:  source /home/yusof_0090/Projects/sawda_backend/.venv/bin/activate
+2026-04-20 15:29:24.058 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 15:29:27.769 [error] Shell execution timed out:  source /home/yusof_0090/Projects/sawda_backend/.venv/bin/activate
+2026-04-20 15:29:27.769 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-20 21:04:40.460 [error] Shell execution timed out:  source /home/yusof_0090/Projects/sawda_backend/.venv/bin/activate
+2026-04-20 21:04:40.460 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-21 10:51:45.570 [error] Shell execution timed out:  source /home/yusof_0090/Projects/sawda_backend/.venv/bin/activate
+2026-04-21 10:51:45.570 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python
+2026-04-21 17:37:39.482 [error] Shell execution timed out:  source /home/yusof_0090/Projects/sawda_backend/.venv/bin/activate
+2026-04-21 17:37:39.490 [info] Terminal is activated: /home/yusof_0090/Projects/sawda_backend/.venv/bin/python

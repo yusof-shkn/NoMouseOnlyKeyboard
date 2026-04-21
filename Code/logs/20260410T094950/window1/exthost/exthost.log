@@ -1,0 +1,215 @@
+2026-04-10 09:49:52.893 [info] Extension host with pid 740496 started
+2026-04-10 09:49:53.031 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-10 09:49:53.067 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-10 09:49:53.209 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-10 09:49:53.216 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-04-10 09:49:53.465 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-10 09:49:53.527 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-10 09:49:53.663 [info] Eager extensions activated
+2026-04-10 09:49:53.832 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:53.836 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:53.855 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:53.874 [info] ExtensionService#_doActivateExtension cweijan.vscode-excel, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:54.110 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:54.756 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:54.759 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:54.759 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:56.179 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:56.355 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:56.378 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:49:57.188 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-10 09:49:57.409 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-10 09:49:57.418 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-10 09:49:57.495 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-10 09:50:01.403 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.403 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.403 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.404 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.404 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.404 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.404 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:01.405 [error] TypeError: Cannot read properties of undefined (reading 'rootPath')
+    at Object.provideFileDecoration (/home/yusof_0090/.vscode/extensions/alefragnani.project-manager-13.1.0/dist/extension.js:1:53054)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5801
+    at Array.map (<anonymous>)
+    at Ws.$provideDecorations (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:508:5739)
+    at r._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154500)
+    at r._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:154248)
+    at r._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:152979)
+    at r._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:151868)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:149943)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at op.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:9911)
+    at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+    at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+    at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-10 09:50:04.299 [info] Extension host terminating: received terminate message from renderer
+2026-04-10 09:50:04.362 [info] Extension host with pid 740496 exiting with code 0
+2026-04-10 09:50:06.328 [info] Extension host with pid 740734 started
+2026-04-10 09:50:06.328 [info] Skipping acquiring lock for /home/yusof_0090/.config/Code/User/workspaceStorage/4b0526516e2f9adedbc41ff8651977f0.
+2026-04-10 09:50:06.840 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-10 09:50:06.877 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-10 09:50:06.898 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-10 09:50:06.959 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2026-04-10 09:50:07.545 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-10 09:50:07.549 [info] ExtensionService#_doActivateExtension xshrim.txt-syntax, startup: true, activationEvent: '*'
+2026-04-10 09:50:07.606 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-04-10 09:50:07.724 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-10 09:50:07.813 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-10 09:50:07.831 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md', root cause: charliermarsh.ruff
+2026-04-10 09:50:08.772 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb,*.md'
+2026-04-10 09:50:08.923 [info] Eager extensions activated
+2026-04-10 09:50:08.957 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:08.961 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:08.994 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:09.022 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:09.092 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:09.139 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:09.139 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:10.719 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:10.910 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-10 09:50:11.291 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-10 09:50:11.459 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-10 09:50:12.382 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2026-04-10 09:50:13.464 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-10 09:50:13.474 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-10 09:50:13.494 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-04-10 11:13:58.333 [info] Extension host terminating: renderer closed the MessagePort

@@ -1,0 +1,1038 @@
+2026-04-10 12:18:11.020 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2026-04-10 12:18:11.020 [info] [AutoSync] Enabled.
+2026-04-10 12:18:11.020 [info] [AutoSync] Suspended until auth token is available.
+2026-04-10 12:18:13.756 [info] [AutoSync] Triggered by Interval
+2026-04-10 12:18:13.756 [info] Sync started.
+2026-04-10 12:18:15.248 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 12:18:15.268 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 12:18:15.271 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 12:18:15.274 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 12:18:15.277 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 12:18:15.286 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 12:18:15.346 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 12:18:15.351 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 12:18:15.369 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 12:18:15.372 [info] Syncing profile. Frontend
+2026-04-10 12:18:15.468 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 12:18:15.502 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 12:18:15.504 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 12:18:15.506 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 12:18:15.508 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 12:18:15.530 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 12:18:15.590 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 12:18:15.594 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 12:18:15.597 [info] Syncing profile. yusof
+2026-04-10 12:18:15.610 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 12:18:15.617 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 12:18:15.667 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 12:18:15.669 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 12:18:15.671 [info] Sync done. Took 1920ms
+2026-04-10 12:18:25.229 [info] [AutoSync] Triggered by Activity
+2026-04-10 12:18:25.229 [info] Sync started.
+2026-04-10 12:18:25.513 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 12:18:25.514 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 12:18:25.516 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 12:18:25.517 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 12:18:25.519 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 12:18:25.521 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 12:18:25.555 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 12:18:25.556 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 12:18:25.556 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 12:18:25.557 [info] Syncing profile. Frontend
+2026-04-10 12:18:25.559 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 12:18:25.570 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 12:18:25.571 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 12:18:25.572 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 12:18:25.573 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 12:18:25.575 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 12:18:25.605 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 12:18:25.606 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 12:18:25.606 [info] Syncing profile. yusof
+2026-04-10 12:18:25.607 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 12:18:25.608 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 12:18:25.610 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 12:18:25.611 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 12:18:25.611 [info] Sync done. Took 384ms
+2026-04-10 12:23:25.614 [info] [AutoSync] Triggered by Interval
+2026-04-10 12:23:25.615 [info] Sync started.
+2026-04-10 12:23:26.974 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 12:23:26.977 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 12:23:26.980 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 12:23:26.981 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 12:23:26.982 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 12:23:26.986 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 12:23:27.074 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 12:23:27.076 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 12:23:27.077 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 12:23:27.078 [info] Syncing profile. Frontend
+2026-04-10 12:23:27.081 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 12:23:27.088 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 12:23:27.090 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 12:23:27.091 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 12:23:27.092 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 12:23:27.093 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 12:23:27.123 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 12:23:27.124 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 12:23:27.125 [info] Syncing profile. yusof
+2026-04-10 12:23:27.126 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 12:23:27.127 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 12:23:27.129 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 12:23:27.130 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 12:23:27.130 [info] Sync done. Took 1518ms
+2026-04-10 12:28:27.134 [info] [AutoSync] Triggered by Interval
+2026-04-10 12:28:27.135 [info] Sync started.
+2026-04-10 12:28:27.722 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2026-04-10 12:28:27.723 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 12:28:27.723 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 14:41:28.004 [info] [AutoSync] Triggered by Interval
+2026-04-10 14:41:28.004 [info] Sync started.
+2026-04-10 14:41:29.076 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 14:41:29.078 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 14:41:29.080 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 14:41:29.082 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 14:41:29.083 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 14:41:29.086 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 14:41:29.130 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 14:41:29.132 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 14:41:29.133 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 14:41:29.133 [info] Syncing profile. Frontend
+2026-04-10 14:41:29.137 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 14:41:29.143 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 14:41:29.145 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 14:41:29.146 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 14:41:29.147 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 14:41:29.148 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 14:41:29.183 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 14:41:29.189 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 14:41:29.189 [info] Syncing profile. yusof
+2026-04-10 14:41:29.191 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 14:41:29.193 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 14:41:29.195 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 14:41:29.196 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 14:41:29.196 [info] Sync done. Took 1194ms
+2026-04-10 14:46:29.199 [info] [AutoSync] Triggered by Interval
+2026-04-10 14:46:29.199 [info] Sync started.
+2026-04-10 14:46:30.424 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 14:46:30.426 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 14:46:30.428 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 14:46:30.429 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 14:46:30.430 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 14:46:30.433 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 14:46:30.481 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 14:46:30.483 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 14:46:30.484 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 14:46:30.484 [info] Syncing profile. Frontend
+2026-04-10 14:46:30.489 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 14:46:30.496 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 14:46:30.497 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 14:46:30.498 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 14:46:30.499 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 14:46:30.501 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 14:46:30.542 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 14:46:30.542 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 14:46:30.543 [info] Syncing profile. yusof
+2026-04-10 14:46:30.544 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 14:46:30.546 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 14:46:30.547 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 14:46:30.548 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 14:46:30.549 [info] Sync done. Took 1352ms
+2026-04-10 14:48:08.115 [info] [AutoSync] Triggered by Activity
+2026-04-10 14:48:08.115 [info] Sync started.
+2026-04-10 14:48:08.389 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 14:48:08.391 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 14:48:08.392 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 14:48:08.393 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 14:48:08.394 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 14:48:08.397 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 14:48:08.430 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 14:48:08.433 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 14:48:08.433 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 14:48:08.434 [info] Syncing profile. Frontend
+2026-04-10 14:48:08.437 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 14:48:08.442 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 14:48:08.452 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 14:48:08.453 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 14:48:08.454 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 14:48:08.456 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 14:48:08.492 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 14:48:08.495 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 14:48:08.495 [info] Syncing profile. yusof
+2026-04-10 14:48:08.496 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 14:48:08.497 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 14:48:08.499 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 14:48:08.499 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 14:48:08.500 [info] Sync done. Took 386ms
+2026-04-10 14:52:49.145 [info] [AutoSync] Suspended because connection is metered.
+2026-04-10 14:52:49.146 [info] [AutoSync] Stopped
+2026-04-10 14:57:52.104 [info] [AutoSync] Triggered by Interval
+2026-04-10 14:57:52.104 [info] Sync started.
+2026-04-10 14:57:53.452 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 14:57:53.455 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 14:57:53.456 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 14:57:53.457 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 14:57:53.459 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 14:57:53.462 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 14:57:53.506 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 14:57:53.513 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 14:57:53.514 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 14:57:53.515 [info] Syncing profile. Frontend
+2026-04-10 14:57:53.520 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 14:57:53.530 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 14:57:53.531 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 14:57:53.532 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 14:57:53.533 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 14:57:53.534 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 14:57:53.568 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 14:57:53.573 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 14:57:53.573 [info] Syncing profile. yusof
+2026-04-10 14:57:53.576 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 14:57:53.577 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 14:57:53.589 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 14:57:53.591 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 14:57:53.592 [info] Sync done. Took 1490ms
+2026-04-10 15:02:53.595 [info] [AutoSync] Triggered by Interval
+2026-04-10 15:02:53.595 [info] Sync started.
+2026-04-10 15:02:54.484 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 15:02:54.487 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 15:02:54.489 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 15:02:54.490 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 15:02:54.491 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 15:02:54.494 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 15:02:54.572 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 15:02:54.574 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 15:02:54.575 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 15:02:54.575 [info] Syncing profile. Frontend
+2026-04-10 15:02:54.578 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 15:02:54.584 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 15:02:54.586 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 15:02:54.587 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 15:02:54.589 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 15:02:54.590 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 15:02:54.618 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 15:02:54.619 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 15:02:54.619 [info] Syncing profile. yusof
+2026-04-10 15:02:54.621 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 15:02:54.622 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 15:02:54.623 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 15:02:54.624 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 15:02:54.624 [info] Sync done. Took 1031ms
+2026-04-10 15:07:54.628 [info] [AutoSync] Triggered by Interval
+2026-04-10 15:07:54.628 [info] Sync started.
+2026-04-10 15:07:55.453 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 15:07:55.455 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 15:07:55.457 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 15:07:55.458 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 15:07:55.460 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 15:07:55.463 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 15:07:55.504 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 15:07:55.510 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 15:07:55.511 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 15:07:55.511 [info] Syncing profile. Frontend
+2026-04-10 15:07:55.515 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 15:07:55.521 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 15:07:55.522 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 15:07:55.523 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 15:07:55.524 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 15:07:55.526 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 15:07:55.553 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 15:07:55.554 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 15:07:55.555 [info] Syncing profile. yusof
+2026-04-10 15:07:55.556 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 15:07:55.558 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 15:07:55.562 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 15:07:55.563 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 15:07:55.564 [info] Sync done. Took 939ms
+2026-04-10 15:12:55.566 [info] [AutoSync] Triggered by Interval
+2026-04-10 15:12:55.567 [info] Sync started.
+2026-04-10 15:12:56.764 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 15:12:56.767 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 15:12:56.771 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 15:12:56.773 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 15:12:56.776 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 15:12:56.781 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 15:12:56.824 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 15:12:56.826 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 15:12:56.826 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 15:12:56.827 [info] Syncing profile. Frontend
+2026-04-10 15:12:56.831 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 15:12:56.838 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 15:12:56.839 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 15:12:56.840 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 15:12:56.841 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 15:12:56.843 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 15:12:56.871 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 15:12:56.873 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 15:12:56.873 [info] Syncing profile. yusof
+2026-04-10 15:12:56.880 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 15:12:56.882 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 15:12:56.883 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 15:12:56.884 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 15:12:56.885 [info] Sync done. Took 1320ms
+2026-04-10 15:17:56.886 [info] [AutoSync] Triggered by Interval
+2026-04-10 15:17:56.887 [info] Sync started.
+2026-04-10 15:17:59.110 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 15:17:59.112 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 15:17:59.114 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 15:17:59.115 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 15:17:59.117 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 15:17:59.120 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 15:17:59.163 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 15:17:59.165 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 15:17:59.165 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 15:17:59.166 [info] Syncing profile. Frontend
+2026-04-10 15:17:59.169 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 15:17:59.176 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 15:17:59.177 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 15:17:59.179 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 15:17:59.180 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 15:17:59.182 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 15:17:59.217 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 15:17:59.219 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 15:17:59.219 [info] Syncing profile. yusof
+2026-04-10 15:17:59.220 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 15:17:59.221 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 15:17:59.223 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 15:17:59.224 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 15:17:59.225 [info] Sync done. Took 2340ms
+2026-04-10 18:41:56.790 [info] [AutoSync] Triggered by Activity
+2026-04-10 18:41:56.790 [info] Sync started.
+2026-04-10 18:41:59.170 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 18:41:59.172 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 18:41:59.175 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 18:41:59.175 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 18:41:59.176 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 18:41:59.179 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 18:41:59.222 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 18:41:59.229 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 18:41:59.229 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 18:41:59.230 [info] Syncing profile. Frontend
+2026-04-10 18:41:59.235 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 18:41:59.243 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 18:41:59.245 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 18:41:59.246 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 18:41:59.247 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 18:41:59.249 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 18:41:59.278 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 18:41:59.280 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 18:41:59.280 [info] Syncing profile. yusof
+2026-04-10 18:41:59.281 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 18:41:59.282 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 18:41:59.284 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 18:41:59.285 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 18:41:59.285 [info] Sync done. Took 2497ms
+2026-04-10 18:46:59.288 [info] [AutoSync] Triggered by Interval
+2026-04-10 18:46:59.288 [info] Sync started.
+2026-04-10 18:47:05.442 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 18:47:05.444 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 18:47:05.446 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 18:47:05.448 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 18:47:05.449 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 18:47:05.452 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 18:47:05.490 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 18:47:05.496 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 18:47:05.496 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 18:47:05.497 [info] Syncing profile. Frontend
+2026-04-10 18:47:05.500 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 18:47:05.506 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 18:47:05.507 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 18:47:05.508 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 18:47:05.509 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 18:47:05.510 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 18:47:05.536 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 18:47:05.538 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 18:47:05.538 [info] Syncing profile. yusof
+2026-04-10 18:47:05.539 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 18:47:05.540 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 18:47:05.542 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 18:47:05.543 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 18:47:05.543 [info] Sync done. Took 6257ms
+2026-04-10 18:52:05.547 [info] [AutoSync] Triggered by Interval
+2026-04-10 18:52:05.547 [info] Sync started.
+2026-04-10 18:52:06.896 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 18:52:06.899 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 18:52:06.901 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 18:52:06.904 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 18:52:06.905 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 18:52:06.908 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 18:52:06.947 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 18:52:06.949 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 18:52:06.950 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 18:52:06.950 [info] Syncing profile. Frontend
+2026-04-10 18:52:06.953 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 18:52:06.960 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 18:52:06.961 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 18:52:06.962 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 18:52:06.964 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 18:52:06.965 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 18:52:06.999 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 18:52:07.001 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 18:52:07.001 [info] Syncing profile. yusof
+2026-04-10 18:52:07.003 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 18:52:07.004 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 18:52:07.006 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 18:52:07.006 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 18:52:07.007 [info] Sync done. Took 1462ms
+2026-04-10 18:57:07.010 [info] [AutoSync] Triggered by Interval
+2026-04-10 18:57:07.010 [info] Sync started.
+2026-04-10 18:57:08.059 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 18:57:08.061 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 18:57:08.064 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 18:57:08.065 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 18:57:08.066 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 18:57:08.069 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 18:57:08.108 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 18:57:08.113 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 18:57:08.114 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 18:57:08.115 [info] Syncing profile. Frontend
+2026-04-10 18:57:08.118 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 18:57:08.124 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 18:57:08.125 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 18:57:08.126 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 18:57:08.127 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 18:57:08.129 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 18:57:08.156 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 18:57:08.158 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 18:57:08.158 [info] Syncing profile. yusof
+2026-04-10 18:57:08.159 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 18:57:08.160 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 18:57:08.161 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 18:57:08.162 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 18:57:08.162 [info] Sync done. Took 1155ms
+2026-04-10 19:02:08.166 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:02:08.166 [info] Sync started.
+2026-04-10 19:02:09.211 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:02:09.213 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:02:09.215 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:02:09.217 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:02:09.218 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:02:09.221 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:02:09.262 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:02:09.269 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:02:09.270 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:02:09.270 [info] Syncing profile. Frontend
+2026-04-10 19:02:09.273 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:02:09.279 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:02:09.280 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:02:09.281 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:02:09.282 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:02:09.283 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:02:09.314 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:02:09.319 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:02:09.319 [info] Syncing profile. yusof
+2026-04-10 19:02:09.320 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:02:09.322 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:02:09.323 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:02:09.324 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:02:09.324 [info] Sync done. Took 1161ms
+2026-04-10 19:07:09.327 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:07:09.327 [info] Sync started.
+2026-04-10 19:07:15.306 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:07:15.308 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:07:15.311 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:07:15.312 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:07:15.313 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:07:15.322 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:07:15.400 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:07:15.401 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:07:15.402 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:07:15.402 [info] Syncing profile. Frontend
+2026-04-10 19:07:15.406 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:07:15.412 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:07:15.414 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:07:15.415 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:07:15.417 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:07:15.419 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:07:15.449 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:07:15.451 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:07:15.451 [info] Syncing profile. yusof
+2026-04-10 19:07:15.452 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:07:15.454 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:07:15.456 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:07:15.457 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:07:15.458 [info] Sync done. Took 6133ms
+2026-04-10 19:12:15.460 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:12:15.460 [info] Sync started.
+2026-04-10 19:12:16.897 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:12:16.898 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:12:16.899 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:12:16.901 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:12:16.902 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:12:16.904 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:12:16.945 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:12:16.952 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:12:16.953 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:12:16.954 [info] Syncing profile. Frontend
+2026-04-10 19:12:16.956 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:12:16.961 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:12:16.963 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:12:16.964 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:12:16.965 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:12:16.966 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:12:16.996 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:12:16.997 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:12:16.998 [info] Syncing profile. yusof
+2026-04-10 19:12:16.999 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:12:17.000 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:12:17.001 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:12:17.002 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:12:17.002 [info] Sync done. Took 1544ms
+2026-04-10 19:17:17.004 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:17:17.005 [info] Sync started.
+2026-04-10 19:17:37.032 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2026-04-10 19:17:37.032 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 19:17:37.032 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 19:29:58.721 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:29:58.721 [info] Sync started.
+2026-04-10 19:29:59.927 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:29:59.928 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:29:59.930 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:29:59.933 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:29:59.934 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:29:59.938 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:29:59.977 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:29:59.982 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:29:59.983 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:29:59.984 [info] Syncing profile. Frontend
+2026-04-10 19:29:59.986 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:29:59.992 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:29:59.993 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:29:59.994 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:29:59.995 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:29:59.996 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:30:00.031 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:30:00.032 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:30:00.032 [info] Syncing profile. yusof
+2026-04-10 19:30:00.033 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:30:00.034 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:30:00.035 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:30:00.036 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:30:00.037 [info] Sync done. Took 1317ms
+2026-04-10 19:35:00.040 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:35:00.041 [info] Sync started.
+2026-04-10 19:35:01.800 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:35:01.802 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:35:01.804 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:35:01.805 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:35:01.806 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:35:01.809 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:35:01.852 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:35:01.853 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:35:01.854 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:35:01.854 [info] Syncing profile. Frontend
+2026-04-10 19:35:01.858 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:35:01.865 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:35:01.866 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:35:01.867 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:35:01.868 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:35:01.869 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:35:01.902 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:35:01.903 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:35:01.903 [info] Syncing profile. yusof
+2026-04-10 19:35:01.904 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:35:01.905 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:35:01.907 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:35:01.908 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:35:01.908 [info] Sync done. Took 1870ms
+2026-04-10 19:40:01.910 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:40:01.911 [info] Sync started.
+2026-04-10 19:40:02.953 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:40:02.955 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:40:02.957 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:40:02.958 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:40:02.960 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:40:02.964 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:40:03.016 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:40:03.017 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:40:03.018 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:40:03.018 [info] Syncing profile. Frontend
+2026-04-10 19:40:03.022 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:40:03.028 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:40:03.029 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:40:03.030 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:40:03.031 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:40:03.032 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:40:03.071 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:40:03.072 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:40:03.072 [info] Syncing profile. yusof
+2026-04-10 19:40:03.074 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:40:03.075 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:40:03.076 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:40:03.077 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:40:03.078 [info] Sync done. Took 1169ms
+2026-04-10 19:45:03.080 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:45:03.080 [info] Sync started.
+2026-04-10 19:45:04.171 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:45:04.172 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:45:04.174 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:45:04.175 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:45:04.176 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:45:04.179 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:45:04.222 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:45:04.223 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:45:04.223 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:45:04.224 [info] Syncing profile. Frontend
+2026-04-10 19:45:04.227 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:45:04.234 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:45:04.235 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:45:04.236 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:45:04.237 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:45:04.238 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:45:04.277 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:45:04.278 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:45:04.278 [info] Syncing profile. yusof
+2026-04-10 19:45:04.279 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:45:04.280 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:45:04.281 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:45:04.282 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:45:04.283 [info] Sync done. Took 1204ms
+2026-04-10 19:50:04.286 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:50:04.287 [info] Sync started.
+2026-04-10 19:50:05.363 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:50:05.365 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:50:05.371 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:50:05.373 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:50:05.375 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:50:05.379 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:50:05.421 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:50:05.422 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:50:05.423 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:50:05.423 [info] Syncing profile. Frontend
+2026-04-10 19:50:05.426 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:50:05.433 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:50:05.434 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:50:05.435 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:50:05.436 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:50:05.437 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:50:05.473 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:50:05.474 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:50:05.474 [info] Syncing profile. yusof
+2026-04-10 19:50:05.475 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:50:05.476 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:50:05.478 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:50:05.479 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:50:05.479 [info] Sync done. Took 1195ms
+2026-04-10 19:55:05.482 [info] [AutoSync] Triggered by Interval
+2026-04-10 19:55:05.482 [info] Sync started.
+2026-04-10 19:55:11.363 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 19:55:11.365 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 19:55:11.367 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 19:55:11.369 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 19:55:11.370 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 19:55:11.372 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 19:55:11.431 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 19:55:11.433 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 19:55:11.434 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 19:55:11.435 [info] Syncing profile. Frontend
+2026-04-10 19:55:11.441 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 19:55:11.453 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 19:55:11.455 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 19:55:11.457 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 19:55:11.458 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 19:55:11.459 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 19:55:11.492 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 19:55:11.493 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 19:55:11.494 [info] Syncing profile. yusof
+2026-04-10 19:55:11.495 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 19:55:11.496 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 19:55:11.497 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 19:55:11.498 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 19:55:11.498 [info] Sync done. Took 6018ms
+2026-04-10 20:00:11.501 [info] [AutoSync] Triggered by Interval
+2026-04-10 20:00:11.501 [info] Sync started.
+2026-04-10 20:00:12.632 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:00:12.634 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:00:12.639 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:00:12.641 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:00:12.643 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:00:12.646 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:00:12.686 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:00:12.691 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:00:12.692 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:00:12.693 [info] Syncing profile. Frontend
+2026-04-10 20:00:12.696 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:00:12.703 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:00:12.704 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:00:12.705 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:00:12.706 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:00:12.708 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:00:12.736 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:00:12.737 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:00:12.737 [info] Syncing profile. yusof
+2026-04-10 20:00:12.739 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:00:12.743 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:00:12.745 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:00:12.746 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:00:12.746 [info] Sync done. Took 1247ms
+2026-04-10 20:05:12.749 [info] [AutoSync] Triggered by Interval
+2026-04-10 20:05:12.749 [info] Sync started.
+2026-04-10 20:05:13.774 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:05:13.776 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:05:13.780 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:05:13.782 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:05:13.783 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:05:13.787 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:05:13.827 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:05:13.828 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:05:13.828 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:05:13.829 [info] Syncing profile. Frontend
+2026-04-10 20:05:13.832 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:05:13.839 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:05:13.840 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:05:13.842 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:05:13.843 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:05:13.844 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:05:13.883 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:05:13.884 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:05:13.884 [info] Syncing profile. yusof
+2026-04-10 20:05:13.886 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:05:13.887 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:05:13.888 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:05:13.889 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:05:13.889 [info] Sync done. Took 1143ms
+2026-04-10 20:10:13.892 [info] [AutoSync] Triggered by Interval
+2026-04-10 20:10:13.893 [info] Sync started.
+2026-04-10 20:10:14.890 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:10:14.892 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:10:14.895 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:10:14.896 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:10:14.897 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:10:14.901 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:10:14.941 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:10:14.942 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:10:14.942 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:10:14.943 [info] Syncing profile. Frontend
+2026-04-10 20:10:14.945 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:10:14.951 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:10:14.952 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:10:14.953 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:10:14.954 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:10:14.956 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:10:14.992 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:10:14.993 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:10:14.994 [info] Syncing profile. yusof
+2026-04-10 20:10:14.995 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:10:14.996 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:10:14.997 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:10:14.998 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:10:14.999 [info] Sync done. Took 1109ms
+2026-04-10 20:15:15.002 [info] [AutoSync] Triggered by Interval
+2026-04-10 20:15:15.002 [info] Sync started.
+2026-04-10 20:15:16.047 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:15:16.049 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:15:16.051 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:15:16.053 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:15:16.054 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:15:16.058 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:15:16.097 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:15:16.103 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:15:16.103 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:15:16.104 [info] Syncing profile. Frontend
+2026-04-10 20:15:16.107 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:15:16.113 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:15:16.115 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:15:16.116 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:15:16.117 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:15:16.119 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:15:16.145 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:15:16.147 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:15:16.147 [info] Syncing profile. yusof
+2026-04-10 20:15:16.149 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:15:16.151 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:15:16.155 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:15:16.156 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:15:16.157 [info] Sync done. Took 1156ms
+2026-04-10 20:49:23.088 [info] [AutoSync] Triggered by Activity
+2026-04-10 20:49:23.088 [info] Sync started.
+2026-04-10 20:49:24.679 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:49:24.682 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:49:24.685 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:49:24.687 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:49:24.688 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:49:24.693 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:49:24.735 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:49:24.736 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:49:24.737 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:49:24.738 [info] Syncing profile. Frontend
+2026-04-10 20:49:24.742 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:49:24.750 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:49:24.751 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:49:24.752 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:49:24.753 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:49:24.754 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:49:24.781 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:49:24.783 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:49:24.783 [info] Syncing profile. yusof
+2026-04-10 20:49:24.785 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:49:24.786 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:49:24.789 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:49:24.792 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:49:24.793 [info] Sync done. Took 1706ms
+2026-04-10 20:49:41.263 [info] [AutoSync] Triggered by Activity
+2026-04-10 20:49:41.263 [info] Sync started.
+2026-04-10 20:49:41.513 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:49:41.514 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:49:41.515 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:49:41.516 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:49:41.518 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:49:41.521 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:49:41.557 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:49:41.564 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:49:41.565 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:49:41.565 [info] Syncing profile. Frontend
+2026-04-10 20:49:41.571 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:49:41.581 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:49:41.583 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:49:41.585 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:49:41.586 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:49:41.588 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:49:41.616 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:49:41.617 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:49:41.617 [info] Syncing profile. yusof
+2026-04-10 20:49:41.618 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:49:41.619 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:49:41.620 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:49:41.620 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:49:41.621 [info] Sync done. Took 361ms
+2026-04-10 20:50:10.234 [info] [AutoSync] Triggered by Activity
+2026-04-10 20:50:10.234 [info] Sync started.
+2026-04-10 20:50:10.504 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:50:10.507 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:50:10.510 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:50:10.511 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:50:10.512 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:50:10.514 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:50:10.547 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:50:10.548 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:50:10.548 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:50:10.549 [info] Syncing profile. Frontend
+2026-04-10 20:50:10.551 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:50:10.558 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:50:10.559 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:50:10.560 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:50:10.561 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:50:10.562 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:50:10.593 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:50:10.595 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:50:10.596 [info] Syncing profile. yusof
+2026-04-10 20:50:10.599 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:50:10.601 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:50:10.604 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:50:10.608 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:50:10.608 [info] Sync done. Took 377ms
+2026-04-10 20:55:10.610 [info] [AutoSync] Triggered by Interval
+2026-04-10 20:55:10.611 [info] Sync started.
+2026-04-10 20:55:12.172 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 20:55:12.174 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 20:55:12.176 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 20:55:12.177 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 20:55:12.177 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 20:55:12.180 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 20:55:12.223 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 20:55:12.223 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 20:55:12.224 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 20:55:12.224 [info] Syncing profile. Frontend
+2026-04-10 20:55:12.228 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 20:55:12.234 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 20:55:12.235 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 20:55:12.236 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 20:55:12.237 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 20:55:12.238 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 20:55:12.273 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 20:55:12.277 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 20:55:12.277 [info] Syncing profile. yusof
+2026-04-10 20:55:12.279 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 20:55:12.280 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 20:55:12.281 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 20:55:12.282 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 20:55:12.282 [info] Sync done. Took 1674ms
+2026-04-10 21:00:12.285 [info] [AutoSync] Triggered by Interval
+2026-04-10 21:00:12.285 [info] Sync started.
+2026-04-10 21:00:14.096 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 21:00:14.097 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 21:00:14.099 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 21:00:14.100 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 21:00:14.101 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 21:00:14.104 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 21:00:14.144 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 21:00:14.150 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 21:00:14.151 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 21:00:14.151 [info] Syncing profile. Frontend
+2026-04-10 21:00:14.155 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 21:00:14.161 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 21:00:14.163 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 21:00:14.164 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 21:00:14.165 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 21:00:14.166 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 21:00:14.193 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 21:00:14.195 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 21:00:14.195 [info] Syncing profile. yusof
+2026-04-10 21:00:14.196 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 21:00:14.197 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 21:00:14.198 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 21:00:14.199 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 21:00:14.199 [info] Sync done. Took 1916ms
+2026-04-10 21:05:14.200 [info] [AutoSync] Triggered by Interval
+2026-04-10 21:05:14.200 [info] Sync started.
+2026-04-10 21:05:15.258 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 21:05:15.260 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 21:05:15.262 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 21:05:15.265 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 21:05:15.268 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 21:05:15.277 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 21:05:15.325 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 21:05:15.326 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 21:05:15.326 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 21:05:15.327 [info] Syncing profile. Frontend
+2026-04-10 21:05:15.329 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 21:05:15.337 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 21:05:15.339 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 21:05:15.340 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 21:05:15.341 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 21:05:15.342 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 21:05:15.377 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 21:05:15.378 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 21:05:15.378 [info] Syncing profile. yusof
+2026-04-10 21:05:15.379 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 21:05:15.380 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 21:05:15.382 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 21:05:15.382 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 21:05:15.383 [info] Sync done. Took 1184ms
+2026-04-10 21:10:15.814 [info] [AutoSync] Triggered by Interval
+2026-04-10 21:10:15.814 [info] Sync started.
+2026-04-10 21:10:25.828 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2026-04-10 21:10:25.828 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 21:10:25.828 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at ua.request (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:26333)
+    at async ua.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:22966)
+    at async wa.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:478:155949)
+    at async o.createAndRunSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12844)
+    at async o.doSync (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:485:12355)
+2026-04-10 21:15:25.829 [info] [AutoSync] Triggered by Interval
+2026-04-10 21:15:25.830 [info] Sync started.
+2026-04-10 21:15:26.984 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 21:15:26.986 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 21:15:26.988 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 21:15:26.989 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 21:15:26.990 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 21:15:26.994 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 21:15:27.034 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 21:15:27.036 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 21:15:27.036 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 21:15:27.037 [info] Syncing profile. Frontend
+2026-04-10 21:15:27.040 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 21:15:27.046 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 21:15:27.047 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 21:15:27.048 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 21:15:27.049 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 21:15:27.051 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 21:15:27.075 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 21:15:27.077 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 21:15:27.077 [info] Syncing profile. yusof
+2026-04-10 21:15:27.080 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 21:15:27.083 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 21:15:27.085 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 21:15:27.086 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 21:15:27.087 [info] Sync done. Took 1259ms
+2026-04-10 21:20:27.089 [info] [AutoSync] Triggered by Interval
+2026-04-10 21:20:27.090 [info] Sync started.
+2026-04-10 21:20:28.254 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 21:20:28.255 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 21:20:28.261 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 21:20:28.264 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 21:20:28.269 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 21:20:28.278 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 21:20:28.324 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 21:20:28.325 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 21:20:28.325 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 21:20:28.326 [info] Syncing profile. Frontend
+2026-04-10 21:20:28.329 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 21:20:28.338 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 21:20:28.339 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 21:20:28.340 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 21:20:28.341 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 21:20:28.342 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 21:20:28.368 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 21:20:28.369 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 21:20:28.369 [info] Syncing profile. yusof
+2026-04-10 21:20:28.371 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 21:20:28.373 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 21:20:28.377 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 21:20:28.378 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 21:20:28.379 [info] Sync done. Took 1291ms
+2026-04-10 22:41:46.879 [info] [AutoSync] Triggered by Activity
+2026-04-10 22:41:46.880 [info] Sync started.
+2026-04-10 22:41:48.059 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 22:41:48.063 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 22:41:48.069 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 22:41:48.074 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 22:41:48.076 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 22:41:48.086 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 22:41:48.165 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 22:41:48.167 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 22:41:48.168 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 22:41:48.169 [info] Syncing profile. Frontend
+2026-04-10 22:41:48.172 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 22:41:48.185 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 22:41:48.188 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 22:41:48.190 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 22:41:48.194 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 22:41:48.197 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 22:41:48.254 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 22:41:48.257 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 22:41:48.259 [info] Syncing profile. yusof
+2026-04-10 22:41:48.262 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 22:41:48.265 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 22:41:48.272 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 22:41:48.274 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 22:41:48.275 [info] Sync done. Took 1396ms
+2026-04-10 22:42:32.650 [info] [AutoSync] Triggered by Activity
+2026-04-10 22:42:32.650 [info] Sync started.
+2026-04-10 22:42:32.874 [info] Settings: No changes found during synchronizing settings.
+2026-04-10 22:42:32.877 [info] Keybindings: No changes found during synchronizing keybindings.
+2026-04-10 22:42:32.883 [info] Snippets: No changes found during synchronizing snippets.
+2026-04-10 22:42:32.886 [info] Tasks: No changes found during synchronizing tasks.
+2026-04-10 22:42:32.889 [info] Mcp: No changes found during synchronizing mcp.
+2026-04-10 22:42:32.897 [info] GlobalState: No changes found during synchronizing ui state.
+2026-04-10 22:42:32.984 [info] Extensions: No changes found during synchronizing extensions.
+2026-04-10 22:42:32.993 [info] Prompts: No changes found during synchronizing prompts.
+2026-04-10 22:42:32.994 [info] Profiles: No changes found during synchronizing profiles.
+2026-04-10 22:42:32.995 [info] Syncing profile. Frontend
+2026-04-10 22:42:33.003 [info] Settings (Frontend): No changes found during synchronizing settings.
+2026-04-10 22:42:33.018 [info] Keybindings (Frontend): No changes found during synchronizing keybindings.
+2026-04-10 22:42:33.020 [info] Snippets (Frontend): No changes found during synchronizing snippets.
+2026-04-10 22:42:33.023 [info] Tasks (Frontend): No changes found during synchronizing tasks.
+2026-04-10 22:42:33.025 [info] Mcp (Frontend): No changes found during synchronizing mcp.
+2026-04-10 22:42:33.027 [info] GlobalState (Frontend): No changes found during synchronizing ui state.
+2026-04-10 22:42:33.099 [info] Extensions (Frontend): No changes found during synchronizing extensions.
+2026-04-10 22:42:33.102 [info] Prompts (Frontend): No changes found during synchronizing prompts.
+2026-04-10 22:42:33.103 [info] Syncing profile. yusof
+2026-04-10 22:42:33.106 [info] Keybindings (yusof): No changes found during synchronizing keybindings.
+2026-04-10 22:42:33.110 [info] Mcp (yusof): No changes found during synchronizing mcp.
+2026-04-10 22:42:33.113 [info] GlobalState (yusof): No changes found during synchronizing ui state.
+2026-04-10 22:42:33.116 [info] Prompts (yusof): No changes found during synchronizing prompts.
+2026-04-10 22:42:33.118 [info] Sync done. Took 468ms

@@ -2,7 +2,7 @@
   "environment": {
     "executable": "/usr/bin/python3.14",
     "prefix": "/usr",
-    "version": "3.14.3.final.0",
+    "version": "3.14.4.final.0",
     "is64Bit": true,
     "symlinks": [
       "/usr/bin/python3.14"
@@ -12,7 +12,7 @@
     [
       "/usr/bin/python3.14",
       {
-        "secs_since_epoch": 1770996704,
+        "secs_since_epoch": 1775670529,
         "nanos_since_epoch": 0
       },
       null

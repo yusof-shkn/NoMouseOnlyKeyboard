@@ -1,0 +1,13 @@
+2026-04-18 12:24:50.341 [info] Started local extension host with pid 2361.
+2026-04-18 12:24:51.227 [error] [/home/yusof_0090/.vscode/extensions/github.copilot-chat-0.43.0]: Extension is not compatible with Code 1.114.0. Extension requires: ^1.115.0.
+2026-04-18 12:24:53.521 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
+2026-04-18 12:24:54.650 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-18 12:24:56.116 [info] [perf] Render performance baseline is 57ms
+2026-04-18 12:24:56.797 [info] Auto updating outdated extensions. ms-vscode-remote.remote-containers
+2026-04-18 12:24:57.458 [error] [Extension Host] (node:2361) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-18 12:24:57.459 [error] [Extension Host] (node:2361) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-18 12:25:19.546 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-18 12:25:52.849 [error] Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1: ScanningExtension: Cannot read the extension from /home/yusof_0090/.vscode/extensions/github.copilot-chat-0.44.1
+    at uc.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:90248)
+    at async pc.doRun (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:96206)
