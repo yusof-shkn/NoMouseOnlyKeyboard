@@ -61,7 +61,6 @@ sidepad/
 waypaper/
 
 # Symlinks (already managed by ml4w dotfiles)
-hypr
 bashrc
 btop
 chromium-flags.conf
