@@ -1,7 +1,0 @@
-2026-04-10 09:49:50.898 [info] update#setState idle
-2026-04-10 09:50:04.363 [info] Extension host with pid 740496 exited with code: 0, signal: unknown.
-2026-04-10 09:50:04.400 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 740467]: crashed with code 15 and reason 'killed'
-2026-04-10 09:50:20.901 [info] update#setState checking for updates
-2026-04-10 09:50:21.170 [info] update#setState idle
-2026-04-10 10:50:20.904 [info] update#setState checking for updates
-2026-04-10 10:50:21.554 [info] update#setState available for download

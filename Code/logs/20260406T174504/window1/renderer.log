@@ -1,7 +1,0 @@
-2026-04-06 17:45:06.761 [info] Started local extension host with pid 3939.
-2026-04-06 17:45:11.365 [error] [discountry.react-redux-react-router-snippets]: Unknown language in `contributes.react-redux-react-router-snippets.language`. Provided value: jsx
-2026-04-06 17:45:12.515 [info] Settings Sync: Account status changed from uninitialized to available
-2026-04-06 17:45:14.031 [info] [perf] Render performance baseline is 72ms
-2026-04-06 17:45:15.673 [error] [Extension Host] (node:3939) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
-2026-04-06 17:45:15.675 [error] [Extension Host] (node:3939) ExperimentalWarning: SQLite is an experimental feature and might change at any time

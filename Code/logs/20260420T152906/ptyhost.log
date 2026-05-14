@@ -1,3 +1,0 @@
-2026-04-20 15:29:09.045 [warning] Persistent process reconnection "13" failed Could not find pty 13 on pty host
-2026-04-20 15:29:09.048 [error] [RPC Response] PtyService#attachToProcess Could not find pty 13 on pty host
-2026-04-20 15:29:09.441 [error] Failed to set sticky bit on /tmp/yusof_0090-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/yusof_0090-code-zsh'

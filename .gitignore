@@ -5,6 +5,12 @@ chromium/
 mozilla/
 spotify/
 
+# App data (Electron/Chromium-based — cache, cookies, GPU data)
+Code/
+pgadmin4/
+torbrowser/
+sidepad
+
 # App caches and logs
 obs-studio/
 pulse/
@@ -55,6 +61,7 @@ sidepad/
 waypaper/
 
 # Symlinks (already managed by ml4w dotfiles)
+hypr
 bashrc
 btop
 chromium-flags.conf
