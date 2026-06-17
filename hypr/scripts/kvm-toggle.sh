@@ -11,7 +11,7 @@ if pgrep -x lan-mouse >/dev/null; then
     notify-send "Input sharing OFF" "lan-mouse stopped" \
         --icon=input-mouse --urgency=normal
 else
-    lan-mouse -d --frontend cli >/tmp/lan-mouse.log 2>&1 &
+    lan-mouse daemon >/tmp/lan-mouse.log 2>&1 &
     notify-send "Input sharing ON" \
         "Move cursor to the screen edge toward ${PEER_NAME}.\nRelease: Ctrl+Shift+Super+Alt" \
         --icon=input-mouse --urgency=normal

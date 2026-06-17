@@ -1,12 +1,4 @@
-# lan-mouse config for laptop 2 (yusof-latitude7420)
-# The peer (laptop 1) sits to the LEFT of this machine.
-# Push the cursor off the left edge to control laptop 1; press
-# Ctrl+Shift+Super+Alt together to release control back here.
 port = 4242
 
-[left]
-hostname = "laptop1"
-# >>> SET THIS to laptop 1's actual IP <<<
-ips = ["192.168.100.50"]
-port = 4242
-activate_on_startup = false
+[authorized_fingerprints]
+"bf:cc:72:3e:1b:f0:69:cb:43:a4:6e:73:5f:b2:95:71:c4:27:22:d9:59:f6:77:24:8b:2a:62:87:a8:3d:b8:b7" = ""

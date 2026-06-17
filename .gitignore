@@ -60,6 +60,10 @@ quickshell/
 sidepad/
 waypaper/
 
+# Private TLS key for lan-mouse (never commit)
+lan-mouse/lan-mouse.pem
+*.pem
+
 # Symlinks (already managed by ml4w dotfiles)
 bashrc
 btop
