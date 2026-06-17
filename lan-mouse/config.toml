@@ -1,4 +1,9 @@
 port = 4242
 
+[[clients]]
+hostname = "laptop1"
+ips = ["192.168.100.254"]
+position = "left"
+
 [authorized_fingerprints]
 "bf:cc:72:3e:1b:f0:69:cb:43:a4:6e:73:5f:b2:95:71:c4:27:22:d9:59:f6:77:24:8b:2a:62:87:a8:3d:b8:b7" = ""
